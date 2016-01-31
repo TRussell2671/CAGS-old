@@ -1,0 +1,78 @@
+<!DOCTYPE HTML>
+<html lang="en">
+	<head>
+    <meta charset="utf-8">
+    <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+    <title>CAGS: Building Pan-Asian Connectivity - Indiana University</title>
+    <meta name="keywords" content="CAGS, Building Pan-Asian Connectivity, College of Arts and Sciences, Indiana University, Bloomington" />
+	<meta name="description" content="CAGS: Building Pan-Asian Connectivity - Indiana University March 10-11, 2015 in Kolkata, India" />  
+    <meta name="viewport" content="width=device-width, maximum-scale=1.0, minimum-scale=1.0, initial-scale=1" />
+    <link href="http://www.indiana.edu/favicon.ico" rel="icon"/>
+    <link href="http://www.indiana.edu/favicon.ico" rel="shortcut icon"/>
+    <link rel="stylesheet" type="text/css" href="../css/_global.css" />
+    <link rel="stylesheet" type="text/css" href="../css/screen_styles.css" />
+     <link rel="stylesheet" type="text/css" href="http://cags.indiana.edu/css/sgis.css" />
+    <link rel="stylesheet" type="text/css" media="only screen and (min-width:210px) and (max-width:480px)" href="../css/screen_layout_small.css">
+    <!-- http://slicknav.com/ -->
+    <link rel="stylesheet" href="../css/slicknav.css">
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+    <script type="text/javascript" src="../js/jquery.easing.min.js"></script>
+    <script type="text/javascript" src="../js/jquery.scrollUp.js"></script>
+    
+    <script src="../js/jquery.slicknav.js"></script>
+    <script src="../js/cags.js"></script>
+    <!--[if lt IE 9]>
+        <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    </head>
+	<body>
+		<div id="skipnav">
+            <ul>
+            <li><a href="#content">Skip to Content</a></li>
+            <li><a href="#sitesearch">Skip to Search</a></li>
+            </ul>
+            <hr/>
+        </div>
+		
+		<!--#include virtual="../_branding.shtml"-->       
+        <!--#include virtual="../_header.shtml"-->
+        <div class="pagewrap">
+		<!--#include virtual="../_nav.shtml"-->
+        
+                <div class="contentwrap">   
+			<!--#include virtual="_left.shtml"-->
+    
+    			<div class="maincontent">
+    
+    			<article id="content">
+ 					<h1>IU Gateway Center Event - Panel Summary Videos</h1>
+       
+					<center><H2>Security Panel - Sumit Ganguly</h2>
+                   <p> <iframe width="420" height="315" src="https://www.youtube.com/embed/aR4KjNpnfnw" frameborder="2" allowfullscreen></iframe></p>
+                    
+	<H2>Environment Panel - Kelly Alley</h2>
+    <p><iframe width="560" height="315" src="https://www.youtube.com/embed/BhVrCWRFv8M" frameborder="2" allowfullscreen></iframe></p>
+    
+    	<H2>Trade Panel - Rani Mullen</h2>
+        <p><iframe width="420" height="315" src="https://www.youtube.com/embed/Puob47q09fE" frameborder="2" allowfullscreen></iframe></p>
+  </center>
+
+
+				</article>        
+           
+           </div>
+           
+             <div class="clear-fix"></div>
+		</div>
+	
+	<!--#include virtual="../_footer.shtml"-->
+		</div>
+
+<script type="text/javascript">
+$(document).ready(function(){
+	$('#menu').slicknav();
+});
+</script>
+	</body>
+</html>

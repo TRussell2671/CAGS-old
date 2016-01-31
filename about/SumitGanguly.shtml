@@ -1,0 +1,48 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+    <title>Center on American and Global Security</title>
+    <meta content="Center on American and Global Security, CAGS, Security Studies Indiana, Security Studies IU, International Security, Indiana University Bloomington, IUB" name="keywords"/>
+    <meta content="The Center on American and Global Security (CAGS) is a research center within Indiana University’s School of Global and International Studies.  CAGS hosts guest lectures, organizes symposia, and publishes research on current topics within the security studies field." name="description"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="icon"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="shortcut icon"/>
+    <link href="../css/cags.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../css/sgis.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../css/cycle2.css" media="screen" rel="stylesheet" type="text/css"/>  
+           
+    <script src="../js/googlesearchtoggles.js" type="text/javascript"></script>
+    <script src="../js/jquery.js"></script>
+    <script src="../js/spamspan.js"></script>
+	<script src="../js/menu.js"></script>
+    <script src="../js/cags.js" type="text/javascript"></script>  
+</head>
+<body>
+	<!--#include virtual="../_branding.shtml" -->
+    <!--#include virtual="../_header.shtml" -->
+
+    <div id="wrapper">
+    	<div id="centerwrap">
+        	<!--#include virtual="../_leftnav_about.shtml" -->
+            <div id="content">
+            	<img src="img/SumitR.JPG" width="740" height="300" alt="Sumit"><div id="pageContent">
+                  
+                  <h1>Sumit Ganguly</h1>
+                    
+                  <p>Sumit Ganguly is a Professor of Political Science, holds the Rabindranath Tagore Chair in Indian Cultures and Civilizations and directs the Center on American and Global Security at Indiana University, Bloomington. He has previously taught at James Madison College of Michigan State University, Hunter College and The Graduate Center of the City University of New York and the University of Texas at Austin.</p>
+                  <p> Professor Ganguly has been a Fellow at the Woodrow Wilson International Center for Scholars in Washington, DC, a Visiting Fellow at the Center for International Security and Cooperation and at the Center on Democracy, Development and the Rule of Law at Stanford University, a Guest Scholar at the Center for Cooperative Monitoring in Albuquerque and a Visiting Scholar at the German Institute for International and Area Studies in Hamburg. He was also the holder of the Ngee Ann Chair in International Politics at the Rajaratnam School for International Studies at Nanyang Technological University in Singapore in the spring term of 2010 and a Distinguished Visiting Fellow at the Institute for Defense Studies and Analysis in New Delhi in the fall term of 2010.  Professor Ganguly is a Senior Fellow at the Foreign Policy Research Institute in Philadelphia, a member of the Council on Foreign Relations (New York) and the International Institute of Strategic Studies (London). He serves on the editorial boards of the American Political Science Review, Asian Affairs, Asian Security, Asian Survey, Current History, Journal of Democracy, the Nonproliferation Review, Pacific Affairs, International Security and Security Studies. </p>
+                    <p>A   specialist on the contemporary politics of South Asia, he is the author, co-author, editor or co-editor of 20 books on the region. His most recent books are India Since 1980 (with Rahul Mukherji), published by Cambridge University Press, Asian Rivalries: Conflict, Escalation and Limitations on Two-Level Games (with William Thompson) published by Stanford University Press and How Rivalries End (with William Thompson and Karen Rasler, published by the University of Pennsylvania Press). He is currently at work on three new books, Deadly Impasse: India-Pakistan Relations at the Dawn of a New Century for Cambridge University Press, The State of India (with William Thompson) for Columbia University Press and the Oxford Short Introduction to Indian Foreign Policy for Oxford University Press (New Delhi)                  </p>
+                 
+                  <p>Contact him at <span class="block"><span class="u">sganguly</span><img alt="at" width="9" src="../img/@.gif"><span class="d">indiana.edu</span></span></p>
+       	      </div>
+            	<!-- END pageContent2 --> 
+            </div><!-- END Content -->
+            <div style="clear:both"></div>
+        </div> <!-- END CenterWrap -->  
+
+<!--#include virtual="../_footer.shtml" -->
+</div><!-- END wrapper -->  
+       
+</body>
+</html>
+

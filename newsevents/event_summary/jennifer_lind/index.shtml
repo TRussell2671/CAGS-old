@@ -1,0 +1,73 @@
+﻿<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+    <title>Center on American and Global Security</title>
+    <meta content="Center on American and Global Security, CAGS, Security Studies Indiana, Security Studies IU, International Security, Indiana University Bloomington, IUB" name="keywords"/>
+    <meta content="The Center on American and Global Security (CAGS) is a research center within Indiana University’s School of Global and International Studies.  CAGS hosts guest lectures, organizes symposia, and publishes research on current topics within the security studies field." name="description"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="icon"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="shortcut icon"/>
+    <link href="../../../css/cags.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../../../css/sgis.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../../../css/cycle2.css" media="screen" rel="stylesheet" type="text/css"/>  
+    <script src="../../../js/googlesearchtoggles.js" type="text/javascript"></script>
+    <script src="../../../js/jquery.js"></script>
+	<script src="../../../js/menu.js"></script>
+    <script src="../../../js/cags.js" type="text/javascript"></script>
+    <script src="../../../js/pignose.gallery.js"></script>  
+    <script type="text/javascript">
+    $(function() {
+        $('#cags_gallery .gallery').pignoseGallery({
+            list: $('#cags_gallery .gallery-thumbnails')
+        });
+    });
+    </script>
+</head>
+<body>
+	<!--#include virtual="../../../_branding.shtml" -->
+    <!--#include virtual="../../../_header.shtml" -->
+
+    <div id="wrapper">
+    	<div id="centerwrap">
+        	<!--#include virtual="../../../_leftnav_newsevents.shtml" -->
+            <div id="content"><img src="../../img/events.jpg" width="740" height="300" alt="Event Summary">
+            	<div id="pageContent">
+                  <h3 class="event-heading">China’s Challenge to the Postwar World Order</h3>
+             
+                    <div id="cags_gallery">
+                        <div class="gallery"> 
+                            <img src="jl1.jpg" alt="Jennifer Lind Photo 1" />
+                            <img src="jl2.jpg" alt="Jennifer Lind Photo 2" />
+                            <img src="jl3.jpg" alt="Jennifer Lind Photo 3" />
+			    <img src="jl4.jpg" alt="Jennifer Lind Photo 4" />
+                        </div>
+                        <div class="gallery-thumbnails">
+                            <a href="#"><img src="jl1.jpg" alt="Jennifer Lind Photo 1" /></a>
+                            <a href="#"><img src="jl2.jpg" alt="Jennifer Lind Photo 2" /></a>
+                            <a href="#"><img src="jl3.jpg" alt="Jennifer Lind Photo 3" /></a>
+			    <a href="#"><img src="jl4.jpg" alt-"Jennifer Lind Photo 4" /></a>
+                        </div>
+                    </div>
+
+                   <p>On October 23, the Center on American and Global Security, cosponsored by East Asian Languages and Cultures, held the third Fall 2015 Security Speaker Series event featuring Jennifer Lind. Dr. Lind spoke on the topic “China’s Challenge to the Postwar World Order” and discussed how previous predictions of China’s rise to power and international influence have challenged the world order.  While we can see areas where China has been smoothly accommodated into the global system, Dr. Lind explains that we must recognize some pessimist ideas are becoming a reality.</p>
+                   <p>Dr. Lind first discussed success stories regarding China’s rise to power. China has achieved economic success by playing into the current international system. For example, it has used conditions and standards of international institutions to help push economic and regular reforms forward against opposition. Participation in these systems has only strengthened rules through participation. The order of these institutions has changed China rather than China changing the institutions. Dr. Lind adds that these institutions have shown willingness to welcome rising powers, which contrast expectations of Hegemonic Stability Theory.</p>
+                   <p>While some optimistic predictions have proven true, especially in regards to trade and some international institutions, issues have arisen in the security situation. Dr. Lind outlines three of the largest security issues involving China. The first issue is the behavior of Beijing. Beijing is behaving like a status quo power. It has created a more assertive China. For example, China has an interpretation of the law of the sea accepted by no one and has been shown to push out disputes, such as talking territories. The second issue is the increasing China-Japan security competition. Massive anti-Japanese interests have been reinvigorated in recent year. These tensions have risen largely due to contested islands. Finally, Dr. Lind explains that the U.S. and China have an increasingly dangerous rivalry. When creating national security policies, these policies are aimed at one another. She continues in saying that the same security measures taken in the Cold War are happening today with the addition of 21st century technology. Additionally, current diplomatic strategies of the United States continue to stress the U.S.-China relationship. The United States are reinvigorating old alliances, such as the Philippines and Japan, and making new ones, such as Vietnam. America’s diplomatic actions in Southeast Asia could be seen as an American strategy against China.</p>
+                   <p>The United States is much further down the road to a security conflict than the optimists predicted. In her final comments, Dr. Lind discusses possible actions that could work towards the challenges with China. First, the United States must build on its successes. This would involve proceeding with reform on the IMF as a means to continuing China’s integration into the economic system. Second, the United States must proceed with caution with making new relationships with states, specifically Vietnam and other East Asian states. By being “strategically empathetic” in regards to these security issues, the U.S. could potentially prevent escalating these issues with China.</p>
+
+                  <h1>Podcast</h1>
+                  <div id="podcast">
+                      <audio controls>
+                        <source src="lind_podcast.mp3" type="audio/mp3">
+                      </audio>   
+                  </div>
+
+              </div><!-- END pageContent --> 
+            </div><!-- END Content -->
+            <div style="clear:both"></div>
+        </div> <!-- END CenterWrap -->  
+
+<!--#include virtual="../../../_footer.shtml" -->
+</div><!-- END wrapper -->  
+       
+</body>
+</html>

@@ -1,0 +1,44 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+    <title>Center on American and Global Security</title>
+    <meta content="Center on American and Global Security, CAGS, Security Studies Indiana, Security Studies IU, International Security, Indiana University Bloomington, IUB" name="keywords"/>
+    <meta content="The Center on American and Global Security (CAGS) is a research center within Indiana University’s School of Global and International Studies.  CAGS hosts guest lectures, organizes symposia, and publishes research on current topics within the security studies field." name="description"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="icon"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="shortcut icon"/>
+    <link href="../css/cags.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../css/sgis.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../css/cycle2.css" media="screen" rel="stylesheet" type="text/css"/>  
+           
+    <script src="../js/googlesearchtoggles.js" type="text/javascript"></script>
+    <script src="../js/jquery.js"></script>
+    <script src="../js/spamspan.js"></script>
+	<script src="../js/menu.js"></script>
+    <script src="../js/cags.js" type="text/javascript"></script>  
+</head>
+<body>
+	<!--#include virtual="../_branding.shtml" -->
+    <!--#include virtual="../_header.shtml" -->
+
+    <div id="wrapper">
+    	<div id="centerwrap">
+        	<!--#include virtual="../_leftnav_about.shtml" -->
+            <div id="content"><img src="img/contactus.jpg" width="740" height="300" alt="Piper"><div id="pageContent">
+                  
+              <h1>Piper O'Sullivan</h1>
+                    
+              <p>Piper O’Sullivan is a Ph.D. student in the Department of Central Eurasian Studies with a major in Iranian Studies and a minor in Near Eastern Languages and Cultures.  Her research interests include Conflict Studies and the intersection between literature and politics in Afghanistan, Iran, and Northwest Pakistan. Her M.A. Thesis in Central Eurasian Studies (2012) analyzed modern Pashto poetry and the development of neo-Taliban propaganda. She has completed advanced linguistic training in Pashto and Persian—having been the recipient of several Foreign Language and Area Studies scholarships as well as awarded the Critical Language Scholarship in Tajikistan. She holds a B.A. from Mount Holyoke College. </p>
+                  <p>You may contact Piper at <span class="block"><span class="u">peosulli</span><img alt="at" width="9" src="../img/@.gif"><span class="d">indiana.edu</span></span></p>
+       	      </div>
+            	<!-- END pageContent2 --> 
+          </div><!-- END Content -->
+            <div style="clear:both"></div>
+        </div> <!-- END CenterWrap -->  
+
+<!--#include virtual="../_footer.shtml" -->
+</div><!-- END wrapper -->  
+       
+</body>
+</html>
+

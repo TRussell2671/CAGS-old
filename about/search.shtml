@@ -1,0 +1,62 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+    <title>Center on American and Global Security</title>
+    <meta content="Center on American and Global Security, CAGS, Security Studies Indiana, Security Studies IU, International Security, Indiana University Bloomington, IUB" name="keywords"/>
+    <meta content="The Center on American and Global Security (CAGS) is a research center within Indiana University’s School of Global and International Studies.  CAGS hosts guest lectures, organizes symposia, and publishes research on current topics within the security studies field." name="description"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="icon"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="shortcut icon"/>
+    <link href="../css/cags.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../css/sgis.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../css/cycle2.css" media="screen" rel="stylesheet" type="text/css"/>  
+           
+    <script src="../js/googlesearchtoggles.js" type="text/javascript"></script>
+    <script src="../js/jquery.js"></script>
+	<script src="../js/menu.js"></script>
+    <script src="../js/cags.js" type="text/javascript"></script>  
+</head>
+<body>
+	<!--#include virtual="../_branding.shtml" -->
+    <!--#include virtual="../_header.shtml" -->
+
+    <div id="wrapper">
+    	<div id="centerwrap">
+        	<!--#include virtual="../_leftnav_about.shtml" -->
+            <div id="content">
+            	<div id="pageContent">
+                  
+                  <h1>Search</h1>
+                    
+                  <!-- BEGIN COPY -- PASTE INTO CONTENT AREA -->
+        <form id="results-sitesearch" method="get" action="http://www.google.com/cse" target="results-sitesearch-noscript">
+            <fieldset id="results-sitesearch-fieldset1">
+                <legend>Choose which site to search</legend>
+                <ul>
+                    <li><input type="radio" name="q" id="results-sitesearch-option1" value="site:cags.indiana.edu" checked="checked" />&nbsp;<label for="results-sitesearch-option1">CAGS</label></li>
+                    <li><input type="radio" name="q" id="results-sitesearch-option2" value="site:www.iub.edu" />&nbsp;<label for="results-sitesearch-option2">IUB</label></li> 
+                </ul>
+            </fieldset>
+            <fieldset id="results-sitesearch-fieldset2">
+                <input type="text" name="as_q" id="results-sitesearch-keywords" />
+                <input type="submit" name="results-sitesearch-submit" id="results-sitesearch-submit" value="Submit" />
+                <input type="hidden" name="cx" value="015259877170389514313:f7mbppu3dj0" />
+                <input type="hidden" name="ie" value="UTF-8" />
+                <input type="hidden" name="nojs" value="1" />
+            </fieldset>
+        </form>
+        <noscript>
+            <iframe id="results-sitesearch-noscript" name="results-sitesearch-noscript"></iframe>
+        </noscript>
+        <div id="gcse-searchbox"></div>
+           	  </div>
+            	<!-- END pageContent2 --> 
+            </div><!-- END Content -->
+            <div style="clear:both"></div>
+        </div> <!-- END CenterWrap -->  
+
+<!--#include virtual="../_footer.shtml" -->
+</div><!-- END wrapper -->  
+       
+</body>
+</html>

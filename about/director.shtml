@@ -1,0 +1,69 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+    <title>Center on American and Global Security</title>
+    <meta content="Center on American and Global Security, CAGS, Security Studies Indiana, Security Studies IU, International Security, Indiana University Bloomington, IUB" name="keywords"/>
+    <meta content="The Center on American and Global Security (CAGS) is a research center within Indiana University’s School of Global and International Studies.  CAGS hosts guest lectures, organizes symposia, and publishes research on current topics within the security studies field." name="description"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="icon"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="shortcut icon"/>
+    <link href="../css/cags.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../css/sgis.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../css/cycle2.css" media="screen" rel="stylesheet" type="text/css"/>  
+           
+    <script src="../js/googlesearchtoggles.js" type="text/javascript"></script>
+    <script src="../js/jquery.js"></script>
+    <script src="../js/spamspan.js"></script>
+	<script src="../js/menu.js"></script>
+    <script src="../js/cags.js" type="text/javascript"></script>  
+</head>
+<body>
+	<!--#include virtual="../_branding.shtml" -->
+    <!--#include virtual="../_header.shtml" -->
+
+    <div id="wrapper">
+      <div id="centerwrap">
+        <div id="centerwrap2">
+          <!--#include virtual="../_leftnav_about.shtml" -->
+          <div id="content">
+           <div id="centerContent">
+            
+              <h1>Director's Message</h1>
+              <p align="justify"><img src="img/SumitGanguly.jpg" alt="Sumit Ganguly " width="165" height="193" class="rightImgFrame">Widespread security challenges confront the global community in the 21st century and increasingly shape policy choices worldwide. Accordingly, this is an ideal time for Indiana University, Bloomington to foster discussion on security-related issues. To that end, it has created the Center on American and Global Security (CAGS) under the aegis of the new School of Global and International Studies. The primary goals of CAGS are threefold and mutually reinforcing:</p>
+              <div align="justify">
+                <ul>
+                  <li>Develop and conduct research on security topics within the center;
+                  <li>Facilitate engagement across Indiana University’s departments on security-related issues;
+                  <li>Bolster Indiana University’s profile in security studies nationally and globally.
+                    
+                </ul>
+              </div>
+              <p align="justify">The center will work to fulfill these goals with a multi-faceted approach. Firstly, CAGS will conduct innovative research to support policy measures aimed at conflict management; CAGS will coordinate with local, state, and national media to respond to security-related developments and engage with the larger public. Additionally, the center will compile and direct students to the existing resources of Indiana University related to security studies. Lastly, CAGS will create opportunities for faculty, administration, and students to interact and learn from leading thinkers and public officials in the fields of international and national security.</p>
+              <p align="justify">Threats to U.S. and global security no longer emanate only from the military power of rival states. Security threats now arise from the collapse of states, the potential diffusion of weapons of mass destruction into the hands of non-state actors, the possibility of pandemics, and the instability triggered by humanitarian crises related to natural disasters and environmental degradation. In this increasingly integrated world, achieving homeland, national and global security constitutes a difficult, but critical, endeavor that will not be fulfilled without innovation in policy, technology, and governance.</p>
+              <p align="justify">To assist with the crafting and implementation of policy, CAGS will respond to the needs of local, state, and federal government officials and personnel from international organizations for innovative research on the specific security challenges they face. Furthermore, the Center will involve the public by coordinating with local, state, and national media to respond to security-related developments and feature expertise of Indiana University’s faculty in order to heighten Indiana University’s profile in this important area of public policy.</p>
+              <p align="justify">As a bridge between the worlds of academic and policy-making security expertise, CAGS will create opportunities for faculty, academic units, and students at Indiana University to interact with, and learn from, leading thinkers and public officials engaged in homeland, national, and global security issues. In order to foster the growth of knowledge on security-related issues, the center will assist faculty members and academic units in developing research projects, courses, conferences, and outreach activities. CAGS will seek external funding to support these endeavors, as well as facilitate and encourage the efforts by faculty to apply for external funds in the conduct of their research and teaching in security-related fields.</p>
+              <p align="justify">The 21st century might see the rise of new threats and the return of old ones, but so too will it provide the tools for humanity to meet and conquer these threats. To this end, CAGS will work to draw upon our great, shared capacity for reason, knowledge, creativity, and cooperation to better secure both our country and world for current generations and for the generations to come.</p>
+              <p align="justify">If you are interested in developments in security, CAGS will direct you to the resources at the university that will provide you with the basic knowledge and analytical tools needed to understand security issues in the current global context. The information on our website will answer many of your questions about CAGS. Please contact us with any additional questions you may have. We are happy to personally meet with you at Indiana University to introduce you to students and faculty members, as well as discuss your future plans and how CAGS may be of assistance. </p>
+              <p align="justify">Sincerely,</p>
+              <p align="justify">Sumit Ganguly <br>
+                Director</p>
+            
+             <h1> Recent Publications</h1>
+            <p>
+FPRI Radio Interview by CAGS Director <strong>Sumit Ganguly</strong>- <a href="http://www.fpri.org/multimedia/2014/10/mr-modi-goes-washington-audio" target="new">"Mr. Modi Goes to Washington"</a></p>
+                              <p>Interview with CAGS Director, <strong>Sumit Ganguly</strong> - <a href="http://hereandnow.wbur.org/2014/09/26/modi-at-msg" target="new">Indian Prime Minister Visits US On Heels Of Mars Success</a></p>
+                              <p> Article by CAGS Director <strong>Sumit Ganguly</strong> in YaleGlobal Online - <a href="http://yaleglobal.yale.edu/content/modi-forging-new-relationships-washington?utm_source=ListServe&utm_campaign=f5f1590e66-YG_ListServe9_15_2010&utm_medium=email&utm_term=0_1f70465ad6-f5f1590e66-125246617" target="new"> Modi: Forging New Relationships with Washington </a></p>
+            <!-- END pageContent2 --></div>
+
+          </div>
+                     
+          <!-- END Content -->
+          <div style="clear:both"></div>
+        </div>
+      </div><!-- END CenterWrap -->  
+
+<!--#include virtual="../_footer.shtml" -->
+</div><!-- END wrapper -->  
+       
+</body>
+</html>

@@ -1,0 +1,83 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+    <title>Center on American and Global Security</title>
+    <meta content="Center on American and Global Security, CAGS, Security Studies Indiana, Security Studies IU, International Security, Indiana University Bloomington, IUB" name="keywords"/>
+    <meta content="The Center on American and Global Security (CAGS) is a research center within Indiana University’s School of Global and International Studies.  CAGS hosts guest lectures, organizes symposia, and publishes research on current topics within the security studies field." name="description"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="icon"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="shortcut icon"/>
+    <link href="../../../css/cags.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../../../css/sgis.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../../../css/cycle2.css" media="screen" rel="stylesheet" type="text/css"/>  
+    <script src="../../../js/googlesearchtoggles.js" type="text/javascript"></script>
+    <script src="../../../js/jquery.js"></script>
+	<script src="../../../js/menu.js"></script>
+    <script src="../../../js/cags.js" type="text/javascript"></script>
+    <script src="../../../js/pignose.gallery.js"></script>  
+    <script type="text/javascript">
+    $(function() {
+        $('#cags_gallery .gallery').pignoseGallery({
+            list: $('#cags_gallery .gallery-thumbnails')
+        });
+    });
+    </script>
+</head>
+<body>
+	<!--#include virtual="../../../_branding.shtml" -->
+    <!--#include virtual="../../../_header.shtml" -->
+
+    <div id="wrapper">
+    	<div id="centerwrap">
+        	<!--#include virtual="../../../_leftnav_newsevents.shtml" -->
+            <div id="content"><img src="../../img/events.jpg" width="740" height="300" alt="Event Summary">
+            	<div id="pageContent">
+                  <h3 class="event-heading">Recklessness or Restraint? Nuclear Weapons and Conventional Combat in a U.S. - China Conflict</h3>
+
+                    <div id="cags_gallery">
+                        <div class="gallery"> 
+                            <img src="jr1.jpg" alt="Joshua Rovner Photo 1" />
+                            <img src="jr2.jpg" alt="Joshua Rovner Photo 2" />
+                            <img src="jr3.jpg" alt="Joshua Rovner Photo 3" />
+                            <img src="jr4.jpg" alt="Joshua Rovner Photo 4" />
+                            <img src="jr5.jpg" alt="Joshua Rovner Photo 5" />
+                            <img src="jr6.jpg" alt="Joshua Rovner Photo 6" />
+                        </div>
+                        <div class="gallery-thumbnails">
+                            <a href="#"><img src="jr1.jpg" alt="Joshua Rovner Photo 1" /></a>
+                            <a href="#"><img src="jr2.jpg" alt="Joshua Rovner Photo 2" /></a>
+                            <a href="#"><img src="jr3.jpg" alt="Joshua Rovner Photo 3" /></a>
+                            <a href="#"><img src="jr4.jpg" alt="Joshua Rovner Photo 4" /></a>
+                            <a href="#"><img src="jr5.jpg" alt="Joshua Rovner Photo 5" /></a>
+                            <a href="#"><img src="jr6.jpg" alt="Joshua Rovner Photo 6" /></a>
+                        </div>
+                    </div>
+
+                    <p>On Friday, September 25, Dr. Joshua Rovner came to Indiana University and spoke on the topic “Recklessness or Restraint? Nuclear Weapons and Conventional Combat in a U.S.-China Conflict”.  Throughout his presentation, Dr. Rovner outlined possibilities in the event of a U.S.-China conflict. He answers the following questions: If these two states were to enter a conflict with one another, what would cause it, how would each state approach the conflict, and what would the conflict look like?</p>
+                    <p>Dr. Rovner outlined three possible scenarios that could result in a future conflict. The first could be a conflict involving Taiwan and China. If this were to happen, China may feel pressured to attack in order to maintain leadership. A second possible event would involve a dispute with Japan over contested islands and rocks. Once again, China may feel the need to attack in order to establish control over the area. Finally, a third possible event could arise over the 9-dash line in the South China Sea.</p>
+                    <p>In order to understand how a conflict can first arise, Dr. Rovner explains one must first understand what the U.S. and China want. While China wants to change the international system, the U.S. wants to maintain it. As China continues to expand its power throughout the region, it makes it more difficult for the United States to continue to operate. All of the aforementioned scenarios could stem from China wanting to establish control.</p>
+                    <p>The next step in understanding how conflict can break out is to consider how China and the U.S. may go about getting what they want. This can be predicted based on China and the United State’s conventional doctrines. For example, China has focused on military advancement, such as ballistic missile growth, controlling communications, and keeping wars localized. The United States has, historically, conducted rapid attacks, focusing on targeting the foe’s ability to communicate and execute basic operations. Rovner states that, whichever state dominates information will have the advantage over its rivals. He continues stating the U.S. favors an AirSea Battle strategy.</p> 
+                    <div id="youtube">
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/vN99r-OJYGY" frameborder="0" allowfullscreen></iframe>
+                    </div>
+                    <p>The final point Dr. Rovner speaks on stems from the following question: If a conflict were to occur between these two states, what would it look like? For his presentation, he decides to focus on the two most detrimental possible outcomes. The first outcome Dr. Rovner speaks on is escalation. He explains that there are three pathways to escalation: psychological, political, and inadvertent. Given the conventional doctrines of China and the United States, escalation may occur. For example, could a blitz attack from the United States lead to escalation? The second outcome he speaks on is protraction. There are three main factors that influence a protracted war: Bargaining and war termination, politics and nationalism, and geography and technology. Dr. Rovner states that this type of war could be the most likely outcome. Both states have a durable refuge to retreat to. While China is dominant on land, the U.S. is dominant on water. Because of this, if the U.S. and China fail to keep the conflict localized and they are not willing to escalate while the political stakes are high, protracted war could become a likely result.</p> 
+                    <p>In his conclusion, Dr. Rovner raises the following questions: Which outcome is more likely – protracted or escalated? Is it possible to prevent escalation without encouraging protraction? What will it require to end a protracted war? Rovner believes that the most likely outcome would be a protracted war and one of the challenges these states must come terms with in order to end a protracted war would be to accept something less than a victory in order to end this type of war.</p>
+
+                    <h1>Podcast</h1>
+                      <div id="podcast">
+                          <audio controls>
+                            <source src="rovner_podcast.mp3" type="audio/mp3">
+                          </audio>   
+                      </div>
+                       
+
+              </div><!-- END pageContent --> 
+            </div><!-- END Content -->
+            <div style="clear:both"></div>
+        </div> <!-- END CenterWrap -->  
+
+<!--#include virtual="../../../_footer.shtml" -->
+</div><!-- END wrapper -->  
+       
+</body>
+</html>

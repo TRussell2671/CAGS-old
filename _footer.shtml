@@ -1,0 +1,14 @@
+<div id="footerWrap">
+<div id="footer">
+   <a href="http://www.indiana.edu/"><img src="http://cags.indiana.edu/img/blockiu_white.gif" alt="IU" id="blockIU" /></a><a href="http://www.indiana.edu/">Indiana University</a> | <a href="http://www.iub.edu/">IU Bloomington</a> |
+<a href="http://college.indiana.edu/">College of Arts &amp; Sciences</a> | <a href="http://sgis.indiana.edu/">SGIS</a> |<a href="http://cags.indiana.edu/">CAGS</a><br>
+
+<!-- required copyright notice and links -->
+<a href="http://www.indiana.edu/comments/copyright.shtml">Copyright</a> &copy; 
+<!--#config timefmt="%Y"--><!--#echo var="DATE_LOCAL"-->, 
+The Trustees of <a href="http://www.indiana.edu/">Indiana University</a> |
+<a href="http://www.indiana.edu/comments/complaint.shtml">Copyright Complaints</a> |
+<a href="http://cags.indiana.edu/about/privacyNotice.shtml">Privacy Notice</a> | 
+<!--#config timefmt="%D"-->Last Updated: <!--#echo var="LAST_MODIFIED"-->
+</div><!-- end footer -->
+</div>

@@ -1,0 +1,64 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+    <title>Center on American and Global Security</title>
+    <meta content="Center on American and Global Security, CAGS, Security Studies Indiana, Security Studies IU, International Security, Indiana University Bloomington, IUB" name="keywords"/>
+    <meta content="The Center on American and Global Security (CAGS) is a research center within Indiana University’s School of Global and International Studies.  CAGS hosts guest lectures, organizes symposia, and publishes research on current topics within the security studies field." name="description"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="icon"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="shortcut icon"/>
+    <link href="../../../css/cags.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../../../css/sgis.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../../../css/cycle2.css" media="screen" rel="stylesheet" type="text/css"/>  
+    <script src="../../../js/googlesearchtoggles.js" type="text/javascript"></script>
+    <script src="../../../js/jquery.js"></script>
+	<script src="../../../js/menu.js"></script>
+    <script src="../../../js/cags.js" type="text/javascript"></script>
+    <script src="../../../js/pignose.gallery.js"></script>  
+    <script type="text/javascript">
+    $(function() {
+        $('#cags_gallery .gallery').pignoseGallery({
+            list: $('#cags_gallery .gallery-thumbnails')
+        });
+    });
+    </script>
+</head>
+<body>
+	<!--#include virtual="../../../_branding.shtml" -->
+    <!--#include virtual="../../../_header.shtml" -->
+
+    <div id="wrapper">
+    	<div id="centerwrap">
+        	<!--#include virtual="../../../_leftnav_newsevents.shtml" -->
+            <div id="content"><img src="../../img/events.jpg" width="740" height="300" alt="Event Summary">
+            	<div id="pageContent">
+                  <h3 class="event-heading">A New Intifada?: Exploring the Resurgence of Violence in the Arab-Israeli Conflict.</h3>
+				  
+					<div id="cags_gallery">
+                        <div class="gallery"> 
+                            <img src="sela-istrabadi1.jpg" alt="Sela / Istrabadi Photo 1" />
+                            <img src="sela-istrabadi2.jpg" alt="Sela / Istrabadi Photo 2" />
+                            <img src="sela-istrabadi3.jpg" alt="Sela / Istrabadi Photo 3" />
+                        </div>
+                        <div class="gallery-thumbnails">
+                            <a href="#"><img src="sela-istrabadi1.jpg" alt="Sela / Istrabadi Photo 1" /></a>
+                            <a href="#"><img src="sela-istrabadi2.jpg" alt="Sela / Istrabadi Photo 2" /></a>
+                            <a href="#"><img src="sela-istrabadi3.jpg" alt="Sela / Istrabadi Photo 3" /></a>
+                        </div>
+                    </div>
+				
+                    <p>On November 11, 2015, the Center on American and Global Security (CAGS) hosted “Securi-tea” for a discussion on "A New Intifada?: Exploring the Resurgence of Violence in the Arab-Israeli Conflict." CAGS was joined by Ambassador Feisal Istrabadi, Director of the Center for the Study of the Middle East and Professor Ron Sela, Director of the Islamic Studies Program.</p>
+
+                    <p>Professor Sela stated that the issue is much deeper than whether this is a new intifada, and really stems from a broad crisis of authority. He asserts that that there is no one leading group or organization that is controlling the development or the narrative, particularly among the Palestinians. Rather, we are witnessing “ad hoc outbursts” based upon frustration and distrust. Professor Sela also noted what he sees as an unofficial “agreement” or “rule” on both sides to refrain from escalation, as political and security cooperation between Israel and the Palestinian Authority is largely continuing. Ambassador Istrabadi claimed that this situation is arising from 1) frustration (especially among Palestinians) at the lack of real progress since the Oslo Accords, 2) an unserious commitment on the part of the United States, 3) the unclear leadership of the Palestinian Authority, and 4) successive Israeli governments apparently believe they can maintain the status quo. Both speakers rather pessimistically spoke of the perception of a lack of hope for a long-term, peaceful solution but noted that violence may be able to be delayed and prevented.</p>
+
+                  
+              </div><!-- END pageContent --> 
+            </div><!-- END Content -->
+            <div style="clear:both"></div>
+        </div> <!-- END CenterWrap -->  
+
+<!--#include virtual="../../../_footer.shtml" -->
+</div><!-- END wrapper -->  
+       
+</body>
+</html>

@@ -1,0 +1,83 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+    <title>Center on American and Global Security</title>
+    <meta content="Center on American and Global Security, CAGS, Security Studies Indiana, Security Studies IU, International Security, Indiana University Bloomington, IUB" name="keywords"/>
+    <meta content="The Center on American and Global Security (CAGS) is a research center within Indiana University’s School of Global and International Studies.  CAGS hosts guest lectures, organizes symposia, and publishes research on current topics within the security studies field." name="description"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="icon"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="shortcut icon"/>
+    <link href="../../../css/cags.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../../../css/sgis.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../../../css/cycle2.css" media="screen" rel="stylesheet" type="text/css"/>  
+    <script src="../../../js/googlesearchtoggles.js" type="text/javascript"></script>
+    <script src="../../../js/jquery.js"></script>
+	<script src="../../../js/menu.js"></script>
+    <script src="../../../js/cags.js" type="text/javascript"></script>
+    <script src="../../../js/pignose.gallery.js"></script>  
+    <script type="text/javascript">
+    $(function() {
+        $('#cags_gallery .gallery').pignoseGallery({
+            list: $('#cags_gallery .gallery-thumbnails')
+        });
+    });
+    </script>
+</head>
+<body>
+	<!--#include virtual="../../../_branding.shtml" -->
+    <!--#include virtual="../../../_header.shtml" -->
+
+    <div id="wrapper">
+    	<div id="centerwrap">
+        	<!--#include virtual="../../../_leftnav_newsevents.shtml" -->
+            <div id="content"><img src="../../img/events.jpg" width="740" height="300" alt="Event Summary">
+            	<div id="pageContent">
+                  <h3 class="event-heading">Russia's Growing Involvement in Syria</h3>
+				  
+				  <div id="cags_gallery">
+                        <div class="gallery"> 
+                            <img src="martin_spechler1.jpg" alt="Martin / Spechler Photo 1" />
+                            <img src="martin_spechler2.jpg" alt="Martin / Spechler Photo 2" />
+                            <img src="martin_spechler3.jpg" alt="Martin / Spechler Photo 3" />
+                        </div>
+                        <div class="gallery-thumbnails">
+                            <a href="#"><img src="martin_spechler1.jpg" alt="Martin / Spechler Photo 1" /></a>
+                            <a href="#"><img src="martin_spechler2.jpg" alt="Martin / Spechler Photo 2" /></a>
+                            <a href="#"><img src="martin_spechler3.jpg" alt="Martin / Spechler Photo 3" /></a>
+                        </div>
+                    </div>
+             
+                    <p>On December 2, 2015, the Center on American and Global Security held their second “Securi-Tea” of the semester, titled: “Russia’s Growing Involvement in Syria.” Our presenters for this event were Professor Dina Spechler from Political Science, and Professor Kevin Martin from Near Eastern Languages and Cultures at Indiana University, Bloomington.</p>
+                    <p>Professor Martin focused his discussion on the historical involvement of Russia with Syria, which stemmed from the fall of the Ottoman Empire. During this period of time, Russia looked for ways to get out of isolation and develop friendships with countries near the Mediterranean. The newly designated Syria did not want to align themselves with the United States, and a Russian alliance appealed to their weak state. According to the agreement, Russia would provide weapons to Syria in return for Syrian materials. Furthermore, Russia had the opportunity to develop air force bases and increase their military presence in the country. Professor Martin sees consistency in the current situation. Syria still does not want a U.S. alliance, and Russia seeks to maintain presence in the country.</p>
+                    <p>On the other hand, Professor Spechler sees a difference in the current Russian involvement in Syria. She indicated that in the past four months, Russia has increased its footprint in the country by expanding its Latakia Airbase, providing more sophisticated weaponry, and initiating a bombing campaign which has generally been directed at rebel groups. Professor Spechler noted that Russia’s involvement in Syria may be explained by two sets of objectives: regional and global. Her handout that she provided for the discussion is below:</p>
+                    <blockquote cite-"Dina Spechler">Regional Objectives:
+                    	<ul>
+                    		<li>Pay back a long-standing political debt to the Assad family.</li>
+							<li>Keep a friendly Middle Eastern regime in power.</li>
+							<li>Maintain control of Russian naval and radar base at Tartus, established in early 1970’s.</li>
+							<li>Increase Russia’s ability to influence events in the Middle East.</li>
+							<li>Prevent the spread of Sunni Islamist extremism across the border of the Former Soviet Union and into Russia itself.</li>
+						</ul>
+							Global Objectives:
+						<ul>
+							<li>Demonstrate Russia’s loyalty to its friends.</li>
+							<li>Support the principle of the inviolability of state sovereignty.</li>
+							<li>Oppose perceived U.S. and NATO quest for world hegemony.</li>
+							<li>Demonstrate Russia’s newly enhanced force projection capability.</li>
+							<li>Give Russian military a chance to redeem itself after very poor showing in Georgia in 2008 and to practice in real combat conditions.</li>
+							<li>Test NATO unity, willingness to stand up to Russia when it uses force.</li>
+						</ul>
+					</blockquote>
+</p>
+
+                  
+              </div><!-- END pageContent --> 
+            </div><!-- END Content -->
+            <div style="clear:both"></div>
+        </div> <!-- END CenterWrap -->  
+
+<!--#include virtual="../../../_footer.shtml" -->
+</div><!-- END wrapper -->  
+       
+</body>
+</html>

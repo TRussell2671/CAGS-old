@@ -1,0 +1,37 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Untitled Document</title>
+</head>
+
+<body>
+<table width="600" border="0">
+  <tr>
+    <td><img src="../../heading 1.png" width="600" height="27" /></td>
+  </tr>
+  <tr>
+    <td><img src="../../heading 2.png" width="600" height="82" /></td>
+  </tr>
+</table>
+<table width="600" border="0">
+  <tr>
+    <td width="1">&nbsp;</td>
+    <td width="600"><p align="center"><strong>Global Security Highlights</strong><br />
+      <strong><em>Compiled from various media sources by the Indiana University </em></strong><br />
+      <strong><em>Center on American and Global Security</em></strong></p>
+    </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td width="600">
+    <td width="10">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td><img src="../../Footer.png" width="600" height="82" /></td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+
+</body>
+</html>

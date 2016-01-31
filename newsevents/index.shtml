@@ -1,0 +1,54 @@
+﻿<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+    <title>Center on American and Global Security</title>
+    <meta content="Center on American and Global Security, CAGS, Security Studies Indiana, Security Studies IU, International Security, Indiana University Bloomington, IUB" name="keywords"/>
+    <meta content="The Center on American and Global Security (CAGS) is a research center within Indiana University’s School of Global and International Studies. CAGS hosts guest lectures, organizes symposia, and publishes research on current topics within the security studies field." name="description"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="icon"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="shortcut icon"/>
+    <link href="../css/cags.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../css/sgis.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../css/cycle2.css" media="screen" rel="stylesheet" type="text/css"/>  
+           
+    <script src="../js/googlesearchtoggles.js" type="text/javascript"></script>
+    <script src="../js/jquery.js"></script>
+	<script src="../js/menu.js"></script>
+    <script src="../js/cags.js" type="text/javascript"></script>  
+</head>
+<body>
+	<!--#include virtual="../_branding.shtml" -->
+    <!--#include virtual="../_header.shtml" -->
+
+    <div id="wrapper">
+    	<div id="centerwrap">
+        	<!--#include virtual="../_leftnav_newsevents.shtml" -->
+            <div id="content"><img src="img/events.jpg" width="740" height="300" alt="Events">
+              <div id="pageContent">
+                  
+                <h1>Events</h1>
+                   
+                    <p>In the Fall and Spring semesters, CAGS hosts a visiting lecture series aimed at boosting knowledge and discussion of selected topics in Security Studies. In addition to CAGS-hosted events, CAGS also co-sponsors lectures with student groups and with other Indiana University departments and centers. You can always find an updated list of our events on our <a href="calendar.shtml">calendar</a>. You can also see what <a href="symposiums.shtml">symposia</a> CAGS has planned in order to produce targeted research on select security related topics.</p>
+
+
+                    <h1>SPRING 2016 EVENTS</h1>
+                    <h3 class="event-heading">Security Speaker Series</h3>
+                        <div class="event-content">
+                            <img src="img/Spring2016SS.jpg" alt="CAGS Security Speaker Series Flyer" width="575" height="750">
+                        </div>
+                    <h3 class="event-heading">Securi-Tea</h3>
+                        <div class="event-content">
+                            <p style="font-size: 18px; font-weight: bold; line-height: 2em;">This event has been postponed until further notice.</p>
+                            <img src="img/securiteaJan2016.jpg" alt="CAGS Securi-Tea Time Flyer" width="575" height="750">
+                        </div>
+				                      
+                <h2><strong><a href="events_Archive.shtml">Public Events Archive</a></strong></h2>               
+                    
+              </div><!-- END pageContent --> 
+            </div><!-- END Content -->
+            <div style="clear:both"></div>
+        </div> <!-- END CenterWrap --> 
+    <!--#include virtual="../_footer.shtml" -->
+    </div><!-- END wrapper -->  
+</body>
+</html>

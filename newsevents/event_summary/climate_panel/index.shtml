@@ -1,0 +1,82 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+    <title>Center on American and Global Security</title>
+    <meta content="Center on American and Global Security, CAGS, Security Studies Indiana, Security Studies IU, International Security, Indiana University Bloomington, IUB" name="keywords"/>
+    <meta content="The Center on American and Global Security (CAGS) is a research center within Indiana University’s School of Global and International Studies.  CAGS hosts guest lectures, organizes symposia, and publishes research on current topics within the security studies field." name="description"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="icon"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="shortcut icon"/>
+    <link href="../../../css/cags.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../../../css/sgis.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../../../css/cycle2.css" media="screen" rel="stylesheet" type="text/css"/>  
+    <script src="../../../js/googlesearchtoggles.js" type="text/javascript"></script>
+    <script src="../../../js/jquery.js"></script>
+	<script src="../../../js/menu.js"></script>
+    <script src="../../../js/cags.js" type="text/javascript"></script>
+    <script src="../../../js/pignose.gallery.js"></script>  
+    <script type="text/javascript">
+    $(function() {
+        $('#cags_gallery .gallery').pignoseGallery({
+            list: $('#cags_gallery .gallery-thumbnails')
+        });
+    });
+    </script>
+</head>
+<body>
+	<!--#include virtual="../../../_branding.shtml" -->
+    <!--#include virtual="../../../_header.shtml" -->
+
+    <div id="wrapper">
+    	<div id="centerwrap">
+        	<!--#include virtual="../../../_leftnav_newsevents.shtml" -->
+            <div id="content"><img src="../../img/events.jpg" width="740" height="300" alt="Event Summary">
+            	<div id="pageContent">
+                  <h3 class="event-heading">The Pope's Encyclical on Climate Change: Religious, Legal, and Social Perspectives</h3>
+             
+                    <div id="cags_gallery">
+                        <div class="gallery"> 
+                            <img src="cp1.JPG" alt="Climate Panel Photo 1" />
+                            <img src="cp2.JPG" alt="Climate Panel Photo 2" />
+                            <img src="cp3.JPG" alt="Climate Panel Photo 3" />
+                            <img src="cp4.JPG" alt="Climate Panel Photo 4" />
+                        </div>
+                        <div class="gallery-thumbnails">
+                            <a href="#"><img src="cp1.JPG" alt="Climate Panel Photo 1" /></a>
+                            <a href="#"><img src="cp2.JPG" alt="Climate Panel Photo 2" /></a>
+                            <a href="#"><img src="cp3.JPG" alt="Climate Panel Photo 3" /></a>
+                            <a href="#"><img src="cp4.JPG" alt="Climate Panel Photo 4" /></a>
+                        </div>
+                    </div>
+
+                    <p>On Tuesday, September 15th, four Indiana University faculty members met to discuss the varying ramifications of the Pope’s recent encyclical on climate change. As climate change becomes an issue of increasing importance in the field of international security, this panel organized by the Center on American and Global Security discussed issues ranging from scientific myths about climate change, to how the Pope’s climate philosophy developed.</p>
+
+                    <p>Following open remarks from center director Professor Sumit Ganguly, the discussion began with a presentation by Professor Constance Furey of the Department of Religious studies, and covered the language of the encyclical itself, and highlighted the Pope’s use of the Canticles of the Creatures, written by St. Francis of Assisi in the 13th century.  Professor Furey exhibited the Pope’s conclusions that a “call for believers to heed the call of Creation” and to recognize the connection of the environment and God in order to combat and reverse climate change. The Pope’s message to protect the poor was presented, and the connection between poverty and climate change was stressed as well.</p>
+
+                    <p>Next on the panel was Professor Philip Stevens from the School of Public and Environmental Affairs and the Department of Chemistry, who presented and refuted the various myths surrounding climate change.  Professor Stevens showed to the audience the myriad evidence from different models of how temperatures and ocean levels are rising, glaciers are shrinking, carbon dioxide levels continue to increase, and how extreme weather is driven by these changes. Also highlighted was the plight of Pacific Island nations, whose territories are quickly disappearing as sea levels rise.</p>
+                    <div id="youtube">
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/JWfQIBwWR3U" frameborder="0" allowfullscreen></iframe>
+                    </div>
+                    <p>The third to present was Professor Dan Cole of the Maurer School of Law as well as the School of Public and Environmental Affairs, who covered the legal and political effects the encyclical was likely to have. The influence this document is to have in the longer run was evidenced, as well as the likelihood of its effect on the UN climate negotiations in Paris this December. Continuing on its influence, Professor Cole also discussed the weight the Pope carries in the world’s Catholic population, which is likely to drive change in states such as Brazil or Poland, though little effect has been seen on U.S. Catholics.</p>
+
+                    <p>Finally, Professor Eduardo Brondizio of the Department of Anthropology discussed the social aspect of climate change, stressing models that identify the acceleration of social trends alongside climate change acceleration. Professor Brondizio also evidenced the outsourcing of pollution from developed to developing nations, and how these developing nations will be under more pressure to enact climate reform, despite the need for increased economic development. To conclude his presentation, Professor Brondizio showed the IPBES (Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services) framework which has proved crucial for developing strategies for new climate policy.</p>
+
+                    <p>The panel had a wonderful attendance, and the panelists continued after their presentations by addressing questions from the crowd regarding climate refugees, how the encyclical can reach more people, and ultimately on whether the Pope’s message would make a difference.</p>
+
+                    <h1>Podcast</h1>
+                      <div id="podcast">
+                          <audio controls>
+                            <source src="climate_podcast.mp3" type="audio/mp3">
+                          </audio>   
+                      </div>
+
+              </div><!-- END pageContent --> 
+            </div><!-- END Content -->
+            <div style="clear:both"></div>
+        </div> <!-- END CenterWrap -->  
+
+<!--#include virtual="../../../_footer.shtml" -->
+</div><!-- END wrapper -->  
+       
+</body>
+</html>

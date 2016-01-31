@@ -1,0 +1,64 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+    <title>Center on American and Global Security</title>
+    <meta content="Center on American and Global Security, CAGS, Security Studies Indiana, Security Studies IU, International Security, Indiana University Bloomington, IUB" name="keywords"/>
+    <meta content="The Center on American and Global Security (CAGS) is a research center within Indiana University’s School of Global and International Studies.  CAGS hosts guest lectures, organizes symposia, and publishes research on current topics within the security studies field." name="description"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="icon"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="shortcut icon"/>
+    <link href="../../css/cags.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../../css/sgis.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../../css/cycle2.css" media="screen" rel="stylesheet" type="text/css"/>  
+           
+    <script src="../../js/googlesearchtoggles.js" type="text/javascript"></script>
+    <script src="../../js/jquery.js"></script>
+	<script src="../../js/menu.js"></script>
+    <script src="../../js/cags.js" type="text/javascript"></script> 
+
+</head>
+<body>
+	<!--#include virtual="../../_branding.shtml" -->
+    <!--#include virtual="../../_header.shtml" -->
+
+    <div id="wrapper">
+    	<div id="centerwrap">
+        	<!--#include virtual="../../_leftnav_newsletters.shtml" -->
+            <div id="content"><img src="US Capitol.jpg" width="740" height="300" alt="US Capitol">
+            	<div id="pageContent">
+                  
+                 
+                   <h1>Unsubscribe from the CAGS National Security Highlights </h1>
+                    
+                 *Once you click the "Unsubscribe" button, you will recieve a confirmation email and no longer recieve the weekly news roundups.
+<form method="POST" name="unsubscribe" action="../../php/contact-form-handler-unsub.php"> 
+<p>
+<label for='email'>Email Address:</label> <br>
+<input type="text" name="email"> <br>
+</p>
+<input type="submit" style="background-color: #7D110C; color: #E1D8B7; font-weight: bold;" value="Unsubscribe"><br>
+</form>
+
+<script language="JavaScript">
+// Code for validating the form
+// Visit http://www.javascript-coder.com/html-form/javascript-form-validation.phtml
+// for details
+var frmvalidator  = new Validator("contactform");
+frmvalidator.addValidation("email","req","Please provide your email"); 
+frmvalidator.addValidation("email","email","Please enter a valid email address"); 
+</script>
+
+                 
+                  
+                 
+                  
+       	      </div>
+            </div>
+            <div style="clear:both"></div>
+        </div> <!-- END CenterWrap -->  
+
+<!--#include virtual="../../_footer.shtml" -->
+</div><!-- END wrapper -->  
+       
+</body>
+</html>

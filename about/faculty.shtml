@@ -1,0 +1,64 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+    <title>Center on American and Global Security</title>
+    <meta content="Center on American and Global Security, CAGS, Security Studies Indiana, Security Studies IU, International Security, Indiana University Bloomington, IUB" name="keywords"/>
+    <meta content="The Center on American and Global Security (CAGS) is a research center within Indiana University’s School of Global and International Studies.  CAGS hosts guest lectures, organizes symposia, and publishes research on current topics within the security studies field." name="description"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="icon"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="shortcut icon"/>
+    <link href="../css/cags.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../css/sgis.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../css/cycle2.css" media="screen" rel="stylesheet" type="text/css"/>  
+           
+    <script src="../js/googlesearchtoggles.js" type="text/javascript"></script>
+    <script src="../js/jquery.js"></script>
+	<script src="../js/menu.js"></script>
+    <script src="../js/cags.js" type="text/javascript"></script>  
+</head>
+<body>
+	<!--#include virtual="../_branding.shtml" -->
+    <!--#include virtual="../_header.shtml" -->
+
+    <div id="wrapper">
+    	<div id="centerwrap">
+        	<!--#include virtual="../_leftnav_about.shtml" -->
+            <div id="content">
+            	<img src="img/Faculty.jpg" width="740" height="300" alt="Faculty"><div id="pageContent">
+                  
+                  <h1>Affiliated Faculty</h1>
+                    
+                  <p><a href="director.shtml">Ganguly, Sumit </a>- Professor, Political Science; Director, Center on American and Global Security</p>
+	              <p><a href="http://info.law.indiana.edu/sb/page/normal/421.html">Cate, Fred</a> - Professor, Maurer School of Law</p>
+                  <p><a href="http://www.indiana.edu/~iubhonor/hdextra/fall10/Gene.php">Coyle, Gene</a> - Adjunct Professor, School of Public and Environmental Affairs; Professor of Practice, School of Global and International Studies</p>
+                  <p><a href="http://www.indiana.edu/~histweb/faculty/Display.php?Faculty_ID=52">Cullather, Nick</a> - Professor, History</p>
+                  <p><a href="http://www.soic.indiana.edu/all-people/profile.html?profile_id=193">Duncan, John</a> - Lecturer, School of Informatics and Computing</p>
+                  <p><a href="http://info.law.indiana.edu/sb/page/normal/1406.html">Fidler, David </a>- Professor, Maurer School of Law</p>
+	              <p><a href="http://info.law.indiana.edu/sb/page/normal/1493.html">Istrabadi, Feisal</a> - Professor of Practice, Maurer School of Law</p>
+                  <p><a href="http://scholar.princeton.edu/apl/home">Liff, Adam P.</a>- Assistant Professor, East Asian Languages and Cultures</p>
+                  <p><a href="http://www.indiana.edu/~histweb/faculty/Display.php?Faculty_ID=19">Linenthal, Edward</a> - Professor, History; Adjunct Professor, American Studies</p>
+                  <p><a href="http://polisci.indiana.edu/faculty/profiles/cloyle.shtml">Loyle, Cyanne</a> - Assistant Professor, Political Science</p> 
+                  <p><a href="http://www.indiana.edu/~rhetid/">Lucaites, John</a> - Professor, Rhetoric and Public Culture; Adjunct Professor, Hutton Honors College, American and Cultural Studies </p>
+                  <p><a href="http://www.indiana.edu/~intlweb/about/facprofile/smacekur.shtml">Macekura, Stephen</a> - Assistant Professor, International Studies</p>
+                  <p><a href="http://journalism.indiana.edu/about-us/faculty-staff/bio/?person=818">Metzgar, Emily</a> - Assistant Professor, School of Journalism</p>
+                  <p><a href="http://www.indiana.edu/~histweb/faculty/Display.php?Faculty_ID=23">Moyd, Michelle</a>- Assistant Professor, History
+                  <p><a href="http://www.indiana.edu/~histweb/faculty/Display.php?Faculty_ID=151">Pergher, Roberta</a> - Assistant Professor, History</p>
+                  <p><a href="http://www.indiana.edu/~histweb/faculty/Display.php?Faculty_ID=32">Robinson, Eric</a> - Professor, History</p>
+                  <p><a href="http://www.indiana.edu/~histweb/faculty/Display.php?Faculty_ID=34">Roseman, Mark </a>- Professor, History; Adjunct Professor, Germanic Studies</p>
+                  <p><a href="http://kelley.iu.edu/facultyglobal/directory/FacultyProfile.cfm?netid=sjshacke">Shackelford, Scott</a> - Assistant Professor, Business, Cybersecurity</p>
+                  <p><a href="http://www.indiana.edu/~anthro/people/faculty/shahrani.shtml">Shahrani, M. Nazif</a> - Professor, Anthropology, Central and Eurasian Studies, Near Eastern Languages and Cultures</p>
+                  <p><a href="http://www.indiana.edu/~jsp/faculty/profile_dSpechler.shtml">Spechler, Dina </a>- Associate Professor, Political Science</p>
+                  <p><a href="http://www.indiana.edu/~global/staff/facultyProfile.php?id=75">Steinberg, Jessica </a>- Professor, Political Science</p>
+                  <p><a href="http://www.indiana.edu/~crimjust/faculty_verma.php?nav=people">Verma, Arvind </a>- Associate Professor, Criminal Justice</p>
+                  <p><a href="http://www.indiana.edu/~histweb/faculty/Display.php?Faculty_ID=46">Wu, Ellen</a>- Assistant Professor, History</p>
+              </div>
+            	<!-- END pageContent2 --> 
+            </div><!-- END Content -->
+            <div style="clear:both"></div>
+        </div> <!-- END CenterWrap -->  
+
+<!--#include virtual="../_footer.shtml" -->
+</div><!-- END wrapper -->  
+       
+</body>
+</html>

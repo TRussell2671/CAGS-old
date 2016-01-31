@@ -1,0 +1,35 @@
+<div id="leftnav">
+<ul id="leftnavmenu">
+  <li><a href="http://cags.indiana.edu/index.shtml">Home</a></li>
+  <li class="current"><a href="http://cags.indiana.edu/about/" class="withSubmenu">About us</a>
+	<ul>
+      <li><a href="http://cags.indiana.edu/about/director.shtml">Director's Message</a></li>
+      <li><a href="http://cags.indiana.edu/about/contact.shtml">Contact</a></li>
+      <li><a href="http://cags.indiana.edu/about/staff.shtml">Staff List</a></li>
+      <li><a href="http://cags.indiana.edu/about/faculty.shtml">Affiliated Faculty</a></li>
+  </ul>
+  </li>	
+  <li><a href="http://cags.indiana.edu/certificate/">Courses in Security Studies</a></li>
+  <li><a href="http://cags.indiana.edu/newsevents/" class="withSubmenu">Events</a>
+    <ul>
+      <li><a href="http://cags.indiana.edu/newsevents/index.shtml">Event Main</a></li>
+      <li><a href="http://cags.indiana.edu/newsevents/summary_index.shtml">Event Summary</a></li>
+      <li><a href="http://cags.indiana.edu/newsevents/calendar.shtml">Calendar</a></li>
+      <li><a href="http://cags.indiana.edu/newsevents/symposiums.shtml">Symposia</a></li>
+  </ul>
+  </li>
+   <li><a href="http://cags.indiana.edu/newsletters/GlobalSecurityHighlights/">Security Newsletter</a>
+
+  <li><a href="http://cags.indiana.edu/research/">Research</a></li>
+  
+  <li><a href="http://cags.indiana.edu/resources/" class="withSubmenu">Resources</a>
+    <ul>
+      <li><a href="http://cags.indiana.edu/resources/internship.shtml">Internship List</a></li>
+  
+     <li><a href="http://cags.indiana.edu/resources/fellowship.shtml">Fellowship List</a></li>
+     </ul>
+   </li>
+  <li><a href= "https://apps2.iuf.indiana.edu/og-prd/SelectAccounts.do?method=enter&account=I32AS00381&campaignCode=BGA0240-14"><img src="/img/Givenow.gif" width="101" height="54" alt="Givenow"></a>
+    </li>
+</ul>
+</div>

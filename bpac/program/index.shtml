@@ -1,0 +1,133 @@
+<!DOCTYPE HTML>
+<html lang="en">
+	<head>
+    <meta charset="utf-8">
+    <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+    <title>CAGS: Building Pan-Asian Connectivity - Indiana University</title>
+    <meta name="keywords" content="CAGS, Building Pan-Asian Connectivity, College of Arts and Sciences, Indiana University, Bloomington" />
+	<meta name="description" content="CAGS: Building Pan-Asian Connectivity - Indiana University March 10-11, 2015 in Kolkata, India" />  
+    <meta name="viewport" content="width=device-width, maximum-scale=1.0, minimum-scale=1.0, initial-scale=1" />
+    <link href="http://www.indiana.edu/favicon.ico" rel="icon"/>
+    <link href="http://www.indiana.edu/favicon.ico" rel="shortcut icon"/>
+    <link rel="stylesheet" type="text/css" href="../css/_global.css" />
+    <link rel="stylesheet" type="text/css" href="../css/screen_styles.css" />
+     <link rel="stylesheet" type="text/css" href="http://cags.indiana.edu/css/sgis.css" />
+    <link rel="stylesheet" type="text/css" media="only screen and (min-width:210px) and (max-width:480px)" href="../css/screen_layout_small.css">
+    <!-- http://slicknav.com/ -->
+    <link rel="stylesheet" href="../css/slicknav.css">
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+    <script type="text/javascript" src="../js/jquery.easing.min.js"></script>
+    <script type="text/javascript" src="../js/jquery.scrollUp.js"></script>
+    
+    <script src="../js/jquery.slicknav.js"></script>
+    <script src="../js/cags.js"></script>
+    <!--[if lt IE 9]>
+        <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    </head>
+	<body>
+		<div id="skipnav">
+            <ul>
+            <li><a href="#content">Skip to Content</a></li>
+            <li><a href="#sitesearch">Skip to Search</a></li>
+            </ul>
+            <hr/>
+        </div>
+		
+		<!--#include virtual="../_branding.shtml"-->       
+        <!--#include virtual="../_header.shtml"-->
+        <div class="pagewrap">
+		<!--#include virtual="../_nav.shtml"-->
+        
+                 <div class="contentwrap">   
+ 			<div class="fullcontent">
+ 				<article id="content">
+ 					<h1>Program</h1>
+                    
+                    <h2>Tuesday, March 10th </h2>
+<h3><i><u>9:30am-11:00am Inaugural Session:</u></i></h3>
+
+<table>
+<tr><td width="20%">9:30am-10:00am </td>   	<td width="50%">Registration</td></tr>
+<tr><td>10:00am	</td>			<td>Welcome Remarks by Dr. Sumit Ganguly, Indiana University CAGS</td></tr>
+<tr><td>10:10am	</td>			<td>Welcome Remarks by Mr. Ashok Dhar, ORF</td></tr>
+<tr><td>10:15am	</td>			<td>Neil Kromash, Senior Advisor at the Office of Regional Affairs, Bureau of South Central Asian Affairs (SCA) at the U.S. Department of State, Washington D. C., remarks </td></tr>
+<tr><td height="20">10:30am </td>	<td>Dr. Rakhahari Chatteriji, ORF, thanks speakers and all for attending </td></tr>
+
+</table>
+
+<h3><i>10:35am		Tea Break</i></h3>
+
+<h3><u><i>10:50am-1:10pm Security Session: </i></u></h3>
+
+<p><b>Panelists: </b><br />
+Dr. Rakhahari Chatterji (Chair of Session)<br />
+Dr. Sumit Ganguly  (Commentator of Session)<br />
+Mr. Julio Amador<br />
+Dr. Jonah Blank<br />
+Dr. Sanjoy Hazarika<br />
+Dr. David J. Karl<br />
+Mr. Bertil Lintner</p>
+
+<h3><i>1:10pm-2:30pm Lunch</i></h3>
+
+
+
+<h3><u><i>2:30pm-4:30pm Trade Session:</i></u></h3>
+
+<p><b>Panelists:</b><br />
+Dr. Nilanjan Ghosh (Chair of Session)<br />
+Dr. Jessica Seddon (Commentator of Session)<br />
+Mr. Bipul Chatterjee<br />
+Dr. Parbir De<br />
+Dr. Surupa Gupta<br />
+Dr. Rani Mullen</p>
+
+
+<hr />
+
+<h2>Wednesday, March 11th </h2>
+
+<h3><u><i>9:30am-10:45am Special Session: </u></i></h3>
+
+<table>
+<tr><td width="20%">9:30am-10:00am </td>   	<td width="50%">Registration for Day 2</td></tr>
+<tr><td>10:00am	</td>			<td>Welcome Remarks by Dr. Sumit Ganguly, Indiana University CAGS</td></tr>
+<tr><td>10:05am	</td>			<td>Consul General Helen LaFave introduces <strong>Ambassador Richard Verma</strong></td></tr>
+<tr><td>10:10am	</td>			<td>Ambassador Verma's Remarks </td></tr>
+<tr><td height="20">10:40am </td>	<td>Mr. Ashok Dhar, ORF, thanks the Ambassador and all for attending </td></tr>
+
+</table>
+<h3><i>10:45am		Tea Break</i></h3>
+<h3><u><i>11:00am-1:00pm Environmental Session: </u></i></h3>
+
+<p><b>Panelists:</b><br />
+Mr. J. M. Mauskar (Chair of Session)<br />
+Dr. Jayanta Bandopadhyay (Commentator of Session)<br />
+Dr. Kelly Alley<br />
+Dr. Rohan D’Souza<br />
+Dr. Douglas Hill</p>
+
+<h3><i>1:00pm-2:00pm Lunch</i></h3>
+
+<h3><i>2:00pm-3:00pm Final Wrap-up Session</i></h3>
+
+
+
+
+				</article>        
+           	</div>
+			<div class="clear-fix"></div>
+		</div>
+	
+	<!--#include virtual="../_footer.shtml"-->
+		</div>
+
+<script type="text/javascript">
+$(document).ready(function(){
+	$('#menu').slicknav();
+});
+</script>
+	</body>
+</html>

@@ -1,0 +1,67 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+    <title>Center on American and Global Security</title>
+    <meta content="Center on American and Global Security, CAGS, Security Studies Indiana, Security Studies IU, International Security, Indiana University Bloomington, IUB" name="keywords"/>
+    <meta content="The Center on American and Global Security (CAGS) is a research center within Indiana University’s School of Global and International Studies.  CAGS hosts guest lectures, organizes symposia, and publishes research on current topics within the security studies field." name="description"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="icon"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="shortcut icon"/>
+    <link href="../../../css/cags.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../../../css/sgis.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../../../css/cycle2.css" media="screen" rel="stylesheet" type="text/css"/>  
+    <script src="../../../js/googlesearchtoggles.js" type="text/javascript"></script>
+    <script src="../../../js/jquery.js"></script>
+	<script src="../../../js/menu.js"></script>
+    <script src="../../../js/cags.js" type="text/javascript"></script>
+    <script src="../../../js/pignose.gallery.js"></script>  
+    <script type="text/javascript">
+    $(function() {
+        $('#cags_gallery .gallery').pignoseGallery({
+            list: $('#cags_gallery .gallery-thumbnails')
+        });
+    });
+    </script>
+</head>
+<body>
+	<!--#include virtual="../../../_branding.shtml" -->
+    <!--#include virtual="../../../_header.shtml" -->
+
+    <div id="wrapper">
+    	<div id="centerwrap">
+        	<!--#include virtual="../../../_leftnav_newsevents.shtml" -->
+            <div id="content"><img src="../../img/events.jpg" width="740" height="300" alt="Event Summary">
+            	<div id="pageContent">
+                  <h3 class="event-heading">From Baghdad to Paris: The Extending Reach of ISIL</h3>
+				  
+				  <div id="cags_gallery">
+                        <div class="gallery"> 
+                            <img src="paris1.jpg" alt="Paris Event Photo 1" />
+                            <img src="paris2.jpg" alt="Paris Event Photo 2" />
+                            <img src="paris3.jpg" alt="Paris Event Photo 3" />
+                        </div>
+                        <div class="gallery-thumbnails">
+                            <a href="#"><img src="paris1.jpg" alt="Paris Event Photo 1" /></a>
+                            <a href="#"><img src="paris2.jpg" alt="Paris Event Photo 2" /></a>
+                            <a href="#"><img src="paris3.jpg" alt="Paris Event Photo 3" /></a>
+                        </div>
+                    </div>
+             
+                    <p>On Monday, November 30th, three Indiana University faculty members met to discuss the extending reach of ISIL and the causes for such expansion. In light of the recent attack in Paris, ISIL recruitment and implications become an issue of increasing importance. This panel was organized by the Center on American and Global Security, the Institute for European Studies, and the Center for the Study of the Middle East, and discussed issues ranging from the modernity of ISIL, previous attacks in France and the security dimensions of the attacks.</p>
+					<p>The discussion began with Ambassador Feisal Istrabadi, Director of the Center for the Study of the Middle East, discussing the modernity of ISIL and its prevalence as a modern phenomenon. He spoke to the fact that ISIL is a radical reinterpretation of Islam and it is in no way based in previous Islamic history. He argued that it is a response to the modern world and political failures of competing tendencies in the past. He enforced this point by stating that ISIL’s destruction of ancient artifacts in Syria and Iraq has not occurred before them, even when the first generation of Muslims conquered the territories.</p>
+					<p>Next on the panel was Professor Brett Bowles of the Department of French and Italian, who presented on the atmosphere for Muslims in France and compared two different attacks on France in recent years. He linked the recent attack to the Charlie Hebdo incident and the Mohamed Mara one as well, making the point that the perpetrators all have similar sociological profiles. The shooters in the three events were all ethnic minorities, born into Muslim families and from poor outer city suburban ghettos. They all dropped out of school, could not find employment and spent time in French prisons where they experienced discrimination and were radicalized. He noted that, “France does have a Muslim problem, but the problem isn’t the Muslim.”</p>
+					<p>Finally, Sumit Ganguly, Director of the Center on American and Global Security, discussed the security aspects of the attack and answered the question, “how can these attacks happen?” He explained the difference between tactical intelligence and strategic intelligence, both used to detect attacks like these in advance. He also covered aspects of the European Union, Belgium and France and how intelligence sharing has been strictly bilateral. He discussed what he feels needs to happen in the future, such as better border control in Europe, increased intelligence sharing and the creation of a global shared passenger database for flights. </p>
+					<p>The panelists continued after their presentations by addressing questions from the crowd regarding any reasonable solutions in the future and treatment of Muslims on a global scale.</p>
+</p>
+
+                  
+              </div><!-- END pageContent --> 
+            </div><!-- END Content -->
+            <div style="clear:both"></div>
+        </div> <!-- END CenterWrap -->  
+
+<!--#include virtual="../../../_footer.shtml" -->
+</div><!-- END wrapper -->  
+       
+</body>
+</html>

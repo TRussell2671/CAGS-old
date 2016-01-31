@@ -1,0 +1,346 @@
+/*************************************************
+ * Site Name: SGIS Affiliate Wrapper
+ * 
+ * Description: SGIS Affiliate Wrapper stylesheet
+ * Version: 1.0
+ * Author: IU Communications 
+ * Author URI: http://communications.iu.edu
+ ************************************************/
+
+/****************************************
+ * General Formatting
+ ****************************************/
+ 
+body {
+	margin: 0;
+	padding: 0;	
+}
+ 
+/****************************************
+ * Branding Bar
+ ****************************************/
+
+#identity {
+    background: #dfd9bd;
+    color: #000;
+   	font-size: 16px; 
+}
+/* To align with footer */
+#identity #signatureWide {
+	margin: 0 auto;
+    width: 1000px;
+}
+#identity #signature {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 0.625em; /* 10px (10/16) */
+	line-height: 1em; /* 10px (10/10) */
+    margin: 0 auto;
+    position: relative;
+    width: 960px;
+}
+#identity #signature a {
+	color: #990000;
+	text-decoration: none;	
+}
+#identity #signature a:hover {
+	text-decoration: underline;	
+}
+#identity #signature a.iub {
+    background: url(../img/branding-bar/iub_tan.gif) no-repeat;
+    display: block;
+    height: 44px;
+    width: 170px;
+}
+#identity #signature a.iub img {
+    display: none;
+}
+
+/* Search Form */
+
+#identity #sitesearch {
+    height: 44px;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+#identity #sitesearch fieldset {
+	border: none;
+    float: left;
+	margin: 0;
+	padding: 0;
+}
+
+/* Fieldset 1 */
+
+#identity #sitesearch #sitesearch-fieldset1 {
+    left: 0;
+    position: relative;
+    top: 19px;
+}
+#identity #sitesearch #sitesearch-fieldset1 ul {
+    list-style: none;
+	margin: 0;
+	padding: 0;	
+}
+#identity #sitesearch #sitesearch-fieldset1 li {
+    float: left;
+    margin: 0 10px 0 0;
+	padding: 0; 
+}
+#identity #sitesearch #sitesearch-findpeople {
+    background: url(../img/branding-bar/people-bg.gif) no-repeat;
+    display: inline-block;
+    height: 23px;
+    padding: 5px 0 0 28px;
+    position: relative;
+    top: -5px;
+}
+#identity #sitesearch #sitesearch-option1, 
+#identity #sitesearch #sitesearch-option2 {
+    float: left;
+    left: 0;
+    height: 13px;
+    position: relative;
+    top: -4px;
+    width: 13px;
+}
+
+/* Fieldset 2 */
+
+#identity #sitesearch #sitesearch-fieldset2 {
+    background: url(../img/branding-bar/search.gif) no-repeat;
+    height: 21px;
+    left: 0;
+    position: relative;
+    top: 12px;
+}
+#identity #sitesearch #sitesearch-keywords {
+    background: transparent;
+    border: none;
+    color: #000;
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em; /* 10px (10/10) */
+    height: 17px;
+    left: 2px;
+    line-height: 1em; /* 10px (10/10) */
+    margin: 0;
+    padding: 0 4px;
+    position: relative;
+    top: 3px;
+    width: 145px;
+}
+#identity #sitesearch #sitesearch-keywords.branding {
+    background: #fff url(../img/branding-bar/google.gif) no-repeat 4px 50%;
+}
+#identity #sitesearch #sitesearch-submit {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em; /* 10px (10/10) */
+    height: 21px;
+    left: 0;
+    line-height: 1em; /* 10px (10/10) */
+    margin: 0;
+    padding: 0;
+    position: relative;
+    text-indent: -9999px;
+    top: 0;
+    width: 36px;
+}
+
+
+/****************************************
+ * Header
+ ****************************************/
+
+#header-wrap-1 {
+    background: #7d110c url(../img/header/header-bg1.gif) repeat-x;
+    border-bottom: 1px solid #423c31;
+	font-size: 16px;
+}
+#header-wrap-2 {
+    background: url(../img/header/header-bg2.png) no-repeat 50% 100%;
+	_background: none; /* IE 6 */
+}
+/* To align with footer */
+#headerWide {
+	margin: 0 auto;
+	width: 1000px;
+}
+#header {
+	margin: 0 auto;
+	min-height: 81px;
+	padding: 38px 50px 15px 11px;
+	vertical-align: middle;
+	width: 899px;
+	text-align:left;
+}
+#headerWide {
+	margin: 0 auto;
+	width: 1000px;
+}
+#header h1 {
+	font-size: 16px;
+	margin: 0 0 -3px 0;
+	padding: 0;
+}
+#header h1 a {
+	color: #fff;
+    font-family: Times, "Times New Roman", serif;
+    font-size: 2.438em; /* 39px (39/16) */
+    font-weight: normal;
+	letter-spacing: 0.07em;
+    line-height: 1em; /* 39px (39/39) */
+}
+#header h1 a:hover {
+    text-decoration: none;  
+}
+#header h1 a span {
+    display: block;
+    font-size: 0.333em; /* 13px (13/39) */
+	font-variant: normal;
+	letter-spacing: 0.07em;
+    line-height: 1.154em; /* 15px (15/13) */
+    margin: -13px 0 -1px 16px;
+	*margin-bottom: -30px; /* IE 6/7 */
+	zoom: 1; /* IE has layout */
+}
+#header a {
+	color: #bf8a88;
+	display: inline-block;
+	*display: inline; /* IE 6/7 */
+	font-family: Times, "Times New Roman", serif;
+	font-size: 1.188em; /* 19px (19/16) */
+	font-variant: small-caps;
+	letter-spacing: 0.06em;
+	line-height: 1.105em; /* 21px (21/19) */
+	text-decoration: none;
+	vertical-align: middle;
+}
+#header p {
+	margin: 0;
+	padding: 0;
+}	
+#header img {
+	border: none;
+	margin: 0 0 0 10px;	
+}
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+	#header h1 a {
+		font-size: 2.688em; /* 43px (43/16) */
+		line-height: 1em; /* 43px (43/43) */
+	}
+	#header h1 a span {
+		font-size: 0.302em; /* 13px (13/43) */
+		line-height: 1.154em; /* 15px (15/13) */
+	}
+	#header a {
+		font-size: 1.313em; /* 21px (21/16) */
+		line-height: 1.095em; /* 23px (23/21) */
+	}
+}
+
+
+/****************************************
+ * Search Results Form
+ ****************************************/
+
+/*** Form ***/
+
+#results-sitesearch {
+	background: none;
+	font-family: Verdana, Geneva, sans-serif;
+	margin: 15px 0 15px 0;	
+	padding: 0;
+}
+#results-sitesearch fieldset {
+	border: none;
+	margin: 0;
+	padding: 0;	
+}
+#results-sitesearch ul {
+	list-style: none;
+	margin: 10px 0 7px 0;
+	overflow: hidden;
+	padding: 0;	
+}
+#results-sitesearch ul li {
+	background: none;
+	float: left;
+	margin: 0 15px 0 0;	
+	padding: 0;
+}
+#results-sitesearch-keywords {
+	width: 85%;	
+}
+#results-sitesearch-keywords.branding {
+	background: #fff url(../img/branding-bar/google.gif) no-repeat 4px 50%;
+}
+
+/*** Noscript iframe ***/
+
+#results-sitesearch-noscript {
+	height: 400px;
+	width: 100%;	
+}
+
+/*** Results ***/
+
+#content .gsc-control-cse table {
+	margin: 0;	
+}
+#content .gsc-control-cse table th, 
+#content .gsc-control-cse table td {
+	background: none;
+	border: none;
+	color: inherit;
+	display: table-cell;
+	font-size: inherit;
+	line-height: inherit;
+	padding: 0;	
+	text-transform: none;
+}
+
+
+/****************************************
+ * Generic Classes
+ ****************************************/
+
+/* Hide for both screenreaders and browsers: 
+css-discuss.incutio.com/wiki/Screenreader_Visibility */
+.hidden { 
+    display: none; 
+    visibility: hidden; 
+}
+
+/* Hide only visually, but have it available for screenreaders: by Jon Neal. 
+www.webaim.org/techniques/css/invisiblecontent/  &  j.mp/visuallyhidden */
+.visuallyhidden { 
+    border: 0; 
+    clip: rect(0 0 0 0); 
+    height: 1px; 
+    margin: -1px; 
+    overflow: hidden; 
+    padding: 0; 
+    position: absolute; 
+    width: 1px; 
+}
+
+/* Extends the .visuallyhidden class to allow the element to be focusable when navigated to via the keyboard: 
+drupal.org/node/897638 */
+.visuallyhidden.focusable:active, .visuallyhidden.focusable:focus { 
+    clip: auto; 
+    height: auto; 
+    margin: 0; 
+    overflow: visible; 
+    position: static;
+    width: auto; 
+}
+
+/* Hide visually and from screenreaders, but maintain layout */
+.invisible { 
+    visibility: hidden; 
+}

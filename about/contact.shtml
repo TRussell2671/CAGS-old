@@ -1,0 +1,55 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+    <title>Center on American and Global Security</title>
+    <meta content="Center on American and Global Security, CAGS, Security Studies Indiana, Security Studies IU, International Security, Indiana University Bloomington, IUB" name="keywords"/>
+    <meta content="The Center on American and Global Security (CAGS) is a research center within Indiana University’s School of Global and International Studies.  CAGS hosts guest lectures, organizes symposia, and publishes research on current topics within the security studies field." name="description"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="icon"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="shortcut icon"/>
+    <link href="../css/cags.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../css/sgis.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../css/cycle2.css" media="screen" rel="stylesheet" type="text/css"/>  
+           
+    <script src="../js/googlesearchtoggles.js" type="text/javascript"></script>
+    <script src="../js/jquery.js"></script>
+    <script src="../js/spamspan.js"></script>
+	<script src="../js/menu.js"></script>
+    <script src="../js/cags.js" type="text/javascript"></script>  
+</head>
+<body>
+	<!--#include virtual="../_branding.shtml" -->
+    <!--#include virtual="../_header.shtml" -->
+
+    <div id="wrapper">
+    	<div id="centerwrap">
+        	<!--#include virtual="../_leftnav_about.shtml" -->
+            <div id="content">
+            	<img src="img/contactus.jpg" width="740" height="300" alt="Contactus"><div id="pageContent">
+                  
+                  <h1>Contact</h1>
+                    
+                  <h2>CAGS has moved!</h2>
+                  <p>You can reach us at CAGS by phone, email, mail, or in person.</p>
+    
+                  <p><b>Center on American and Global Security</b><br>
+					Global and International Studies Building, 3-East<br>
+					355 North Jordan Avenue<br>
+					Bloomington, Indiana  47405<br>
+                  </p>
+                  
+                  <p>Phone: (812) 856-8081</p>
+                                                      
+                  <p>Email: <span class="block"><span class="u">cagsadmn</span><img alt="at" width="9" src="../img/@.gif"><span class="d">indiana.edu</span></span></p>
+            	  <p>We prefer not to receive unsolicited fax messages.  If you do require a fax number, please call us for details.  </p>
+            	</div>
+            	<!-- END pageContent2 --> 
+            </div><!-- END Content -->
+            <div style="clear:both"></div>
+        </div> <!-- END CenterWrap -->  
+
+<!--#include virtual="../_footer.shtml" -->
+</div><!-- END wrapper -->  
+       
+</body>
+</html>

@@ -1,0 +1,82 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+    <title>Center on American and Global Security</title>
+    <meta content="Center on American and Global Security, CAGS, Security Studies Indiana, Security Studies IU, International Security, Indiana University Bloomington, IUB" name="keywords"/>
+    <meta content="The Center on American and Global Security (CAGS) is a research center within Indiana University’s School of Global and International Studies.  CAGS hosts guest lectures, organizes symposia, and publishes research on current topics within the security studies field." name="description"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="icon"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="shortcut icon"/>
+    <link href="../../../css/cags.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../../../css/sgis.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../../../css/cycle2.css" media="screen" rel="stylesheet" type="text/css"/>  
+    <script src="../../../js/googlesearchtoggles.js" type="text/javascript"></script>
+    <script src="../../../js/jquery.js"></script>
+	<script src="../../../js/menu.js"></script>
+    <script src="../../../js/cags.js" type="text/javascript"></script>
+    <script src="../../../js/pignose.gallery.js"></script>  
+    <script type="text/javascript">
+    $(function() {
+        $('#cags_gallery .gallery').pignoseGallery({
+            list: $('#cags_gallery .gallery-thumbnails')
+        });
+    });
+    </script>
+</head>
+<body>
+	<!--#include virtual="../../../_branding.shtml" -->
+    <!--#include virtual="../../../_header.shtml" -->
+
+    <div id="wrapper">
+    	<div id="centerwrap">
+        	<!--#include virtual="../../../_leftnav_newsevents.shtml" -->
+            <div id="content"><img src="../../img/events.jpg" width="740" height="300" alt="Event Summary">
+            	<div id="pageContent">
+                  <h3 class="event-heading">Debunking Obama’s Claims</h3>
+
+                    <div id="cags_gallery">
+                        <div class="gallery"> 
+                            <img src="ak1.jpg" alt="Alan Kuperman Photo 1" />
+                            <img src="ak2.jpg" alt="Alan Kuperman Photo 2" />
+                            <img src="ak3.jpg" alt="Alan Kuperman Photo 3" />
+                        </div>
+                        <div class="gallery-thumbnails">
+                            <a href="#"><img src="ak1.jpg" alt="Alan Kuperman Photo 1" /></a>
+                            <a href="#"><img src="ak2.jpg" alt="Alan Kuperman Photo 2" /></a>
+                            <a href="#"><img src="ak3.jpg" alt="Alan Kuperman Photo 3" /></a>
+                        </div>
+                    </div>
+             
+                    <p>On November 6, 2015, the Center on American and Global Security and the Center for the Study of the Middle East co-hosted the third event of the Iranian Nuclear Agreement Series. The lecturer for this event, titled “Debunking Obama’s Claims,” was Alan Kuperman, Associate Professor of Public Affairs at Lyndon B. Johnson School of Public Affairs at the University of Texas, Austin. Kuperman argued that recent claims by President Obama in regard to the Iranian nuclear deal were wholly untrue. According to Kuperman, Obama’s claims were unjustified and illogical, making the deal a dangerous endeavor for the United States and its allies.</p>
+
+                    <p>Kuperman mentioned that we need to look to history to avoid making past mistakes. He indicated that there are two types of country models that we should look at when negotiating the nuclear deal: countries which maintain a status quo, and countries who are revisionists. Those countries that maintain the status quo are best handled by appeasement; while those who are revisionists, appeasement is not the solution. Iran, as Kuperman argued, is a revisionist country. In this sense, he indicated that we should look to Nazi Germany to recognize why appeasement cannot work with a revisionist state. In 1938, Nazi Germany broke international law by failing to abide by the Versailles Treaty. Additionally, they sought to expand their state by invading neighboring countries. Both of these actions, Kuperman explained, are characteristics of a revisionist country. Britain appeased Germany, forgave its past actions, and as a result, Germany became a stronger power and led to deathly world war.</p>
+
+                    <p>Kuperman said we should look to Nazi Germany as a template for action with Iran. Iran, like Nazi Germany, is a revisionist state. They broke international law multiple times by failing to abide by the Nuclear Proliferation Treaty. They built a secret nuclear facility, and even after being reprimanded, built another. Furthermore, Kuperman argued that Iran is expansionist because they are focusing on Shia led factions in multiple nearby countries, weaponizing these factions, and using them to conduct proxy wars. To Kuperman, the Iranian nuclear deal is appeasement. Similar to how Britain appeased Nazi Germany, under the deal Iran will be allowed to keep all of their weapons, previous disobedience to international law will be forgotten, and Iran will be rewarded in the terms of large sums of money when sanctions are removed.</p>
+    
+                    <div id="youtube">
+                        <iframe width="500" height="315" src="https://www.youtube.com/embed/yUGbqXa5opM" frameborder="0" allowfullscreen></iframe>
+                    </div>
+
+                    <p>In closing, Kuperman highlighted four pathways that Iran could take to nuclear proliferation. First, Iran could pocket the money, force inspectors out of the country, and race to produce a nuclear weapon. Currently the Obama administration believes that this path, the ‘break out’ path, could not be achieved in any time less than one year. Kuperman, on the other hand, stressed that this claim is false. Instead he argued that the break out time is as little as 3 months.</p>
+
+                    <p>Secondly, Iran could ‘sneak out.’ Iran has previously built secret nuclear facilities. Nothing is stopping them from continuing this practice. Ultimately, Kuperman indicated, Iran could build secret facilities to produce explosion packages for the nuclear weapons, without producing radiation remanence. Third, Kuperman presented the ’wait out’ period, in which Iran can simply batch recycle uranium for the next 15 years. By this time, Iran would be able to produce a nuclear weapon in virtually no time. Finally, the forth path is to ‘spread out.’ If Iran possesses a nuclear weapon, neighboring countries will also develop nuclear weapons to protect themselves. Countries such as Saudi Arabia cannot trust the United States to protect them from a hostile Iran.</p>
+
+                    <p>Kuperman finalized his lecture with a possible path the United States can take to mitigate possible future hostilities with Iran that could lead to nuclear warfare. According to Kuperman, the United States must lead an effort for regime change in Iran. The goal is to make Iran not want a nuclear program.</p>
+
+                    <h1>Podcast</h1>
+                    <div id="podcast">
+                      <audio controls>
+                        <source src="kuperman_podcast.mp3" type="audio/mp3">
+                      </audio>   
+                    </div>
+                  
+              </div><!-- END pageContent --> 
+            </div><!-- END Content -->
+            <div style="clear:both"></div>
+        </div> <!-- END CenterWrap -->  
+
+<!--#include virtual="../../../_footer.shtml" -->
+</div><!-- END wrapper -->  
+       
+</body>
+</html>

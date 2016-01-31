@@ -1,0 +1,121 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+    <title>Center on American and Global Security</title>
+    <meta content="Center on American and Global Security, CAGS, Security Studies Indiana, Security Studies IU, International Security, Indiana University Bloomington, IUB" name="keywords"/>
+    <meta content="The Center on American and Global Security (CAGS) is a research center within Indiana University’s School of Global and International Studies.  CAGS hosts guest lectures, organizes symposia, and publishes research on current topics within the security studies field." name="description"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="icon"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="shortcut icon"/>
+    <link href="../css/cags.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../css/sgis.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../css/cycle2.css" media="screen" rel="stylesheet" type="text/css"/>  
+           
+    <script src="../js/googlesearchtoggles.js" type="text/javascript"></script>
+    <script src="../js/jquery.js"></script>
+	<script src="../js/menu.js"></script>
+    <script src="../js/cags.js" type="text/javascript"></script> 
+
+</head>
+<body>
+	
+	<!--#include virtual="../_branding.shtml" -->
+    <!--#include virtual="../_header.shtml" -->
+
+    <div id="wrapper">
+    	<div id="centerwrap">
+        	<!--#include virtual="../_leftnav_newsletters.shtml" -->
+            <div id="content"><img src="Newsletter.jpg" width="740" height="300" alt="Newsletters">
+            	<div id="pageContent">
+                  
+                  <h1>Global Security News</h1>
+                    
+                  <p>CAGS chronicles security-related debates and developments on Capitol Hill and around the globle. In this section, you will find links to our weekly news roundups where you can read about the latest global news stories, world news separated by region and by topic, and developments in the policymaking world as they pertain to American and global security.</p>
+                 
+              <h1>Weekly News Roundups</h1>
+            
+              
+                  <table cellpadding="0" cellspacing="0" width="660" border="0">
+                    <tr> <TR VALIGN="TOP" >
+                      <td width="330"><font size="3">
+            <a href="GlobalSecurityHighlights/index.shtml">Global Security Highlights</a>
+                  </td>
+                  <td width="330"><font size="3">  
+               <a href="Congressional/index.shtml">Security Highlights from Capitol Hill</a>
+                   </td></tr></tr></td> </table>
+                  
+                  <h1>Regional Security Highlights</h1>
+                  <p>Select a region to learn more.</p>
+                 <img src="GlobalSecurityHighlights/image/WorldMapRegions.jpg" alt="Select a Regional News Site" width="700" height="308" usemap="#Map">
+                 <map name="Map">
+                   <area shape="poly" coords="347,92,326,95,319,95,310,108,296,124,297,134,295,142,299,150,303,157,310,164,321,163,335,158,340,163,346,162,345,175,353,188,355,197,352,210,356,224,360,237,362,243,364,250,370,248,380,248,390,238,392,230,396,226,396,218,403,212,408,206,415,229,420,228,422,220,426,211,424,201,408,179,412,174,416,171,422,165,425,157,427,148,416,150,408,140,402,130,397,119,393,112,389,103,374,103,367,106,356,100" href="GlobalSecurityHighlights/Africa.shtml" target="_blank" title="Afria" alt="African Security Highlights">
+                   <area shape="poly" coords="114,54,116,65,112,44,100,41,87,44,51,56,80,45,75,41,84,36,89,34,84,30,91,30,95,25,117,20,136,24,158,22,171,14,202,15,231,16,243,28,232,39,232,46,233,51,238,55,235,63,239,68,230,70,214,77,205,77,205,81,196,84,190,90,189,95,177,104,177,111,175,117,172,110,169,105,162,107,161,110,154,107,148,109,143,113,137,107,133,107,129,103,121,103,115,100,109,103,103,86" href="GlobalSecurityHighlights/USCanada.shtml" target="_blank" title="U.S. and Canada" alt="US and Canadian Security Highlights">
+                   <area shape="poly" coords="222,295,210,294,205,291,198,276,197,265,195,254,193,222,191,215,180,207,168,186,172,171,177,165,177,159,173,154,164,154,157,146,149,142,145,137,139,139,128,132,125,128,123,121,118,123,110,111,110,103,116,101,120,104,128,104,131,108,135,108,143,115,143,131,150,131,157,125,168,122,173,121,179,118,181,113,191,124,196,131,205,132,209,139,213,145,210,152,214,157,217,160,223,160,228,165,230,172,236,175,242,178,250,181,256,184,260,189,257,199,253,204,253,210,249,224,242,227,237,234,231,247,224,250,225,257,218,260,216,267,214,272,216,278,216,287" href="GlobalSecurityHighlights/LatinAmerica.shtml" target="_blank" title="Latin American" alt="Latin American Security Highlights">
+                   <area shape="poly" coords="379,82,382,82,388,81,391,80,394,82,400,83,405,82,411,88,417,89,423,92,429,92,434,91,438,93,441,96,440,100,441,103,443,107,444,111,446,113,445,117,444,123,442,129,437,134,430,139,422,143,416,145,411,138,411,132,405,126,404,119,395,111,393,105,395,94,391,97,387,92,381,93,377,86" href="GlobalSecurityHighlights/MiddleEast.shtml" target="_blank" title="Middle East" alt="Middle Eastern Security Highlights">
+                   <area shape="poly" coords="446,118,452,118,456,117,458,120,462,122,464,127,468,124,469,129,472,138,476,148,480,155,487,160,487,154,485,149,485,143,484,138,489,136,494,130,497,124,503,124,504,119,499,112,489,109,483,105,477,102,471,93,465,86,469,84,473,80,475,70,479,65,474,60,469,61,461,53,453,54,448,51,441,53,432,59,418,60,414,64,416,70,423,70,421,75,425,78,426,84,430,91,440,93,441,101,445,111" href="GlobalSecurityHighlights/SouthCentralAsia.shtml" target="_blank" title="South & Central Asia" alt="South & Central Asian Security Highlights">
+                   <area shape="poly" coords="235,2,241,9,256,13,257,22,254,31,257,40,263,42,273,33,286,27,292,25,300,34,321,50,314,55,315,59,321,55,322,60,323,67,329,73,325,78,316,77,313,88,321,91,330,87,334,80,337,77,347,77,345,86,350,79,358,85,355,91,362,85,352,73,364,81,376,96,373,88,373,83,378,81,385,72,390,75,397,73,404,79,412,87,419,88,419,83,413,76,416,70,415,59,431,58,447,50,453,53,460,51,468,59,475,57,478,62,489,62,498,63,501,59,508,61,516,63,526,62,535,60,537,55,550,64,559,67,565,69,567,77,573,72,580,69,573,59,562,54,556,50,561,44,573,44,575,40,584,38,585,46,587,53,595,59,596,67,598,53,592,43,599,42,606,37,615,31,588,20,568,24,553,20,531,18,532,11,510,16,473,9,449,4,448,14,435,18,425,10,413,12,404,26,383,24,371,19,359,24,351,32,340,38,342,46,345,53,336,58,332,50,328,41,322,45,313,32,307,27,304,21,312,14,321,3" href="GlobalSecurityHighlights/Europe.shtml" target="_blank" title="Europe & Eurasia" alt="European and Eurasian Security Highlights">
+                   <area shape="poly" coords="480,64,475,70,475,79,467,85,471,92,477,100,487,107,499,111,504,121,513,138,521,156,514,162,533,188,561,193,575,202,565,212,549,221,545,241,543,251,577,244,589,259,592,272,608,256,625,276,638,271,654,263,657,256,652,251,643,261,633,269,611,251,617,246,622,234,653,223,679,213,656,207,645,193,624,179,615,184,597,176,577,154,565,138,563,121,559,105,556,92,564,96,576,103,590,94,594,72,580,74,567,79,564,70,552,66,537,58,526,64,503,60,490,64" href="GlobalSecurityHighlights/AsiaAustralia.shtml" target="_blank" title="East Asia and Australia" alt="East Asian and Australian Security Highlights">
+                 </map>
+                 
+            <h1>Security Highlights by Functional Category</h1>
+                 
+                  <p>Select a topic to learn more.</p>
+                  <img src="GlobalSecurityHighlights/Topics/image/topicselection.jpg" width="690" height="263" alt="Select a Security Topic for More Information" usemap="#topics1">
+              <map name="topics1">
+                                <area shape="poly" coords="19,24,170,25,169,70,14,71,18,34" href="GlobalSecurityHighlights/Topics/Aerospace.shtml" alt="Aerospace Security Highlights">
+                <area shape="poly" coords="201,5,336,5,336,82,202,83" href="GlobalSecurityHighlights/Topics/CivilDisorder.shtml" alt="Civil Disorder Highlights">
+                <area shape="poly" coords="390,20,493,19,494,71,391,71" href="GlobalSecurityHighlights/Topics/Cyber.shtml" alt="Cyber Security Highlights">
+                
+                <area shape="poly" coords="539,4,687,2,685,79,543,79" href="GlobalSecurityHighlights/Topics/DefenseSpending.shtml" alt="Defense Spending Highlighs">
+                <area shape="poly" coords="1,96,182,104,181,169,2,175" href="GlobalSecurityHighlights/Topics/Intelligence.shtml" alt="Intelligence Highlights">
+                <area shape="rect" coords="535,186,686,251" href="GlobalSecurityHighlights/Topics/Terrorism.shtml" alt="Terrorism Security Highlights">
+<area shape="poly" coords="189,94,346,94,346,173,194,173" href="GlobalSecurityHighlights/Topics/IntlSecurityCoop.shtml" alt="International Security Cooperation Highlights">
+                <area shape="poly" coords="375,105,507,105,510,159,374,159,373,105" href="GlobalSecurityHighlights/Topics/Maritime.shtml" alt="Maritime Security Highlights">
+                <area shape="poly" coords="542,104,677,105,680,150,546,152" href="GlobalSecurityHighlights/Topics/Nuclear.shtml" alt="Nuclear Security Highlights">
+                <area shape="poly" coords="8,185,175,185,174,258,10,257" href="GlobalSecurityHighlights/Topics/OrganizedCrime.shtml" alt="Organized Crime Highlights">
+                <area shape="poly" coords="186,188,349,187,352,261,184,261" href="GlobalSecurityHighlights/Topics/RefugeesMigration.shtml" alt="Refugees &amp; Migration Security Hightlights">
+                                            
+                <area shape="poly" coords="358,183,518,183,521,261,358,261" href="GlobalSecurityHighlights/Topics/TerritorialDisputes.shtml" alt="Territorial Disputes Highlights">
+              </map>
+                  
+               <!-- <table cellpadding="0" cellspacing="0" width="660" border="0">
+                    <tr> <TR VALIGN="TOP">
+                      <td width="245"><font size="4">
+                      <p><a href="GlobalSecurityHighlights/Topics/Aerospace.shtml"target="new"> <img src="GlobalSecurityHighlights/Topics/image/Aerospace.jpg" width="200" height="45" alt="Aerospace"></a></p>
+                       <p> <a href="GlobalSecurityHighlights/Topics/DefenseSpending.shtml" target="new"><img src="GlobalSecurityHighlights/Topics/image/Defense Spending.jpg" width="200" height="45" alt="Defense Spending"></a></p>
+                       <p><a href="GlobalSecurityHighlights/Topics/Maritime.shtml" target="new"><img src="GlobalSecurityHighlights/Topics/image/Maritime.jpg" width="200" height="45" alt="Maritime"></a></p>
+                        <p><a href="GlobalSecurityHighlights/Topics/RefugeesMigration.shtml" target="new"><img src="GlobalSecurityHighlights/Topics/image/RandM.jpg" width="200" height="45" alt="Refugees &amp; Migration"></a></p>
+                      </font>
+                      </td>
+                  <td width="245"><font size="4">
+                  <p><a href="GlobalSecurityHighlights/Topics/CivilDisorder.shtml" target="new"><img src="GlobalSecurityHighlights/Topics/image/Civil Disorder.jpg" width="200" height="45" alt="Civil Disorder"></a></p>
+                   <p><a href="GlobalSecurityHighlights/Topics/Intelligence.shtml"target="new"> <img src="GlobalSecurityHighlights/Topics/image/Intelligence.jpg" width="200" height="45" alt="Intelligence"></p>
+                           <p><a href="GlobalSecurityHighlights/Topics/Nuclear.shtml" target="new"><img src="GlobalSecurityHighlights/Topics/image/Nuclear.jpg" width="200" height="45" alt="Nuclear"></a></p>
+                           <p><a href="GlobalSecurityHighlights/Topics/TerritorialDisputes.shtml" target="new"><img src="GlobalSecurityHighlights/Topics/image/TerritorialD.jpg" width="200" height="45" alt="Territorial Disputes"></a></p></font>
+                   </td>
+                   <td width="245"><font size="4">
+                   <p><a href="GlobalSecurityHighlights/Topics/Cyber.shtml" target="new"><img src="GlobalSecurityHighlights/Topics/image/Cyber.jpg" width="200" height="45" alt="Cyber"></a></p>
+                   <p><a href="GlobalSecurityHighlights/Topics/IntlSecurityCoop.shtml" target="new"><img src="GlobalSecurityHighlights/Topics/image/IntlSecCoop.jpg" width="200" height="45" alt="International Security Cooperation"></a></p>
+                   <p><a href="GlobalSecurityHighlights/Topics/OrganizedCrime.shtml" target="new"><img src="GlobalSecurityHighlights/Topics/image/Organized Crime.jpg" width="200" height="45" alt="Organized Crime"></a></p>
+                                      
+                  <p><a href="GlobalSecurityHighlights/Topics/Terrorism.shtml"target="new"> <img src="GlobalSecurityHighlights/Topics/image/Terrorism.jpg" width="200" height="45" alt="Terrorism"></a></p> </font>
+                   </td></tr></tr></td> </table> 
+                  
+                 
+                <!-- <p><strong><font size="3">
+              Semester Archive</font></strong></p>
+                 <table cellpadding="0" cellspacing="0" width="660" border="0">   <tr> <TR VALIGN="TOP">
+                      <td width="330"><font size="3"><a href="GlobalSecurityHighlights/2013_2014.shtml">2013-2014 Academic Year</a></td>                  <td width="330"><font size="3"><p> <!--<a href="NewsletterFiles/GlobalSecurityHighlights/2014_2015.shtml">2014-2015 Academic Year</a></p>
+                   </td></tr></tr></td> </table>-->
+                  
+                  
+       	      </div>
+            </div>
+            <div style="clear:both"></div>
+        </div> <!-- END CenterWrap -->  
+
+<!--#include virtual="../_footer.shtml" -->
+</div><!-- END wrapper -->  
+       
+</body>
+</html>

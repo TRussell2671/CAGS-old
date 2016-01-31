@@ -1,0 +1,104 @@
+﻿<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+    <title>Center on American and Global Security</title>
+    <meta content="Center on American and Global Security, CAGS, Security Studies Indiana, Security Studies IU, International Security, Indiana University Bloomington, IUB" name="keywords"/>
+    <meta content="The Center on American and Global Security (CAGS) is a research center within Indiana University’s School of Global and International Studies.  CAGS hosts guest lectures, organizes symposia, and publishes research on current topics within the security studies field." name="description"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="icon"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="shortcut icon"/>
+    <link href="../../../css/cags.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../../../css/sgis.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../../../css/cycle2.css" media="screen" rel="stylesheet" type="text/css"/>  
+    <script src="../../../js/googlesearchtoggles.js" type="text/javascript"></script>
+    <script src="../../../js/jquery.js"></script>
+	<script src="../../../js/menu.js"></script>
+    <script src="../../../js/cags.js" type="text/javascript"></script>
+    <script src="../../../js/pignose.gallery.js"></script>  
+    <script type="text/javascript">
+    $(function() {
+        $('#cags_gallery .gallery').pignoseGallery({
+            list: $('#cags_gallery .gallery-thumbnails')
+        });
+    });
+    </script>
+</head>
+<body>
+	<!--#include virtual="../../../_branding.shtml" -->
+    <!--#include virtual="../../../_header.shtml" -->
+
+    <div id="wrapper">
+    	<div id="centerwrap">
+        	<!--#include virtual="../../../_leftnav_newsevents.shtml" -->
+            <div id="content"><img src="../../img/events.jpg" width="740" height="300" alt="Event Summary">
+            	<div id="pageContent">
+                  <h3 class="event-heading">Nuclear Diplomacy: Colliding Narratives, Damaging Misconceptions, Controversial Outcome</h3>
+
+                    <div id="cags_gallery">
+                        <div class="gallery"> 
+                            <img src="sm1.jpg" alt="Steven Miller Photo 1" />
+                            <img src="sm2.jpg" alt="Steven Miller Photo 2" />
+                            <img src="sm3.jpg" alt="Steven Miller Photo 3" />
+                            <img src="sm4.jpg" alt="Steven Miller Photo 4" />
+                        </div>
+                        <div class="gallery-thumbnails">
+                            <a href="#"><img src="sm1.jpg" alt="Steven Miller Photo 1" /></a>
+                            <a href="#"><img src="sm2.jpg" alt="Steven Miller Photo 2" /></a>
+                            <a href="#"><img src="sm3.jpg" alt="Steven Miller Photo 3" /></a>
+                            <a href="#"><img src="sm4.jpg" alt="Steven Miller Photo 4" /></a>
+                        </div>
+                    </div>
+
+					<p>On November 16, 2015, the Center on American and Global Security and the Center for the Study of the Middle East co-hosted their final lecture in the Iran nuclear agreement series, featuring Dr. Steven Miller of the Belfer Center for Science and International Affairs within the JFK School of Government at Harvard University. Dr. Miller is the Director of the Belfer Center’s International Security Program and the Editor-in-Chief of the quarterly journal, International Security. Dr. Miller first spoke of the context and background of Iran’s nuclear program, followed by specifying the contents of the deal and sources of controversy.</p>
+
+					<p>Professor Miller stated that Iran’s nuclear program dates back to 1958, as part of President Eisenhower’s “atoms for peace” program, but really expanded in 1974, when the Shah of Iran launched an ambitious plan that would include 20 light water reactors and the full nuclear cycle. Following the 1979 Iranian revolution and a hiatus of a few years, the new theocratic regime decided to continue the Shah’s plan. This time, however, the U.S. objected and decided to begin sanctions in the 1980’s. Iran subsequently pursued actions allowed by the Nuclear Non-Proliferation Treaty (NPT), but failed to report on these actions as required, and was caught “red-handed” in 2002. This led to a period of tightening multilateral sanctions, during which Iran produced 20,000 centrifuges, added enriched uranium, and continued its nuclear program along both uranium and plutonium “paths.” Negotiations between Iran and the U.S., Russia, China, U.K., and France (P5+1) were jump-started with the summer 2013 election of President Hassan Rouhani, culminating with the signing of the Joint Comprehensive Plan of Action (JCPOA) in July 2015.</p>
+
+                    <div id="youtube">
+                        <iframe width="500" height="315" src="https://www.youtube.com/embed/nzS-2uSiWk0" frameborder="0" allowfullscreen></iframe>
+                    </div>
+
+					<p>Professor Miller asserts that the Iranian nuclear deal does four main tasks:</p>
+					<ol>
+						<li>Puts barriers on Iran’s path to a nuclear weapon with uranium, for 15 years</li>
+							<ol type="a">
+								<li>Reduction in centrifuges from 20,000 to 5000 for 15 years (15,000 will be monitored in warehouses).</li>
+								<li>Iran allowed to hold 300 kilograms of low-enriched uranium, none at 20% or higher (they were at over 11,000 kilograms).</li>
+							</ol>
+						<li>Constrains Iran’s path to a nuclear weapon with plutonium</li>
+							<ol type="a">
+								<li>Iran pledges to “mothball” the Arak reactor, which is currently capable of producing weapons-grade plutonium, and send spent fuel out of the country.</li>
+								<li>Iran will redesign the Arak reactor with help from the West.</li>
+							</ol>
+						<li>Contains measures to facilitate compliance and inspections</li>
+							<ol type="a">
+								<li>Iran has been complying with the International Atomic Energy Agency (IAEA) inspections and has signed up for the maximum IAEA inspections, apparently for a permanent period.</li>
+								<li>Iran agrees that all nuclear purchases will be through a single procurement channel.</li>
+							</ol>
+						<li>Contains sanctions relief for Iran</li>
+							<ol type="a">
+								<li>Only lifts nuclear sanctions.</li>
+								<li>U.S. sanctions are simply suspended for the first 8 years.</li>
+								<li>U.N. and U.S. sanctions can “snapback” if Iran is found in violation without passing a new law or persuading allies.</li>
+							</ol>
+					</ol>
+
+					<p>Professor Miller claims that the Iranian nuclear deal is not ideal but is “as good as it’s going to get.” He says that Iran already has the technology to proceed towards a nuclear weapon; the deal is necessary to stop this progress. Professor Miller asserts that opponents of the deal likely have a very negative view of Iran and the Supreme Leader, when in his opinion a large portion of Iran’s government, academia, and population desire détente with the U.S. He also claims that sanctions were not effective at stopping Iran’s nuclear program, and a military strike would ensure that Iran withdraws from the NPT and acquires a weapon in 5-7 years. Finally, Professor Miller states that the deal is effective if one’s ultimate objective is to prevent a nuclear Iran, rather than constitute regime change.</p>
+
+
+                    <h1>Podcast</h1>
+                      <div id="podcast">
+                          <audio controls>
+                            <source src="miller_podcast.mp3" type="audio/mp3">
+                          </audio>   
+                      </div>
+
+              </div><!-- END pageContent --> 
+            </div><!-- END Content -->
+            <div style="clear:both"></div>
+        </div> <!-- END CenterWrap -->  
+
+<!--#include virtual="../../../_footer.shtml" -->
+</div><!-- END wrapper -->  
+       
+</body>
+</html>

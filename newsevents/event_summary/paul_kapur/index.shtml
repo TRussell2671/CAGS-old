@@ -1,0 +1,75 @@
+﻿<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+    <title>Center on American and Global Security</title>
+    <meta content="Center on American and Global Security, CAGS, Security Studies Indiana, Security Studies IU, International Security, Indiana University Bloomington, IUB" name="keywords"/>
+    <meta content="The Center on American and Global Security (CAGS) is a research center within Indiana University’s School of Global and International Studies.  CAGS hosts guest lectures, organizes symposia, and publishes research on current topics within the security studies field." name="description"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="icon"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="shortcut icon"/>
+    <link href="../../../css/cags.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../../../css/sgis.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../../../css/cycle2.css" media="screen" rel="stylesheet" type="text/css"/>  
+    <script src="../../../js/googlesearchtoggles.js" type="text/javascript"></script>
+    <script src="../../../js/jquery.js"></script>
+	<script src="../../../js/menu.js"></script>
+    <script src="../../../js/cags.js" type="text/javascript"></script>
+    <script src="../../../js/pignose.gallery.js"></script>  
+    <script type="text/javascript">
+    $(function() {
+        $('#cags_gallery .gallery').pignoseGallery({
+            list: $('#cags_gallery .gallery-thumbnails')
+        });
+    });
+    </script>
+</head>
+<body>
+	<!--#include virtual="../../../_branding.shtml" -->
+    <!--#include virtual="../../../_header.shtml" -->
+
+    <div id="wrapper">
+    	<div id="centerwrap">
+        	<!--#include virtual="../../../_leftnav_newsevents.shtml" -->
+            <div id="content"><img src="../../img/events.jpg" width="740" height="300" alt="Event Summary">
+            	<div id="pageContent">
+                  <h3 class="event-heading">Jihad as a Grand Strategy: Islamist Militancy, National Security, and the Pakistani State</h3>
+
+                    <div id="cags_gallery">
+                        <div class="gallery"> 
+                            <img src="pk1.JPG" alt="Paul Kapur Photo 1" />
+                            <img src="pk2.JPG" alt="Paul Kapur Photo 2" />
+                            <img src="pk3.JPG" alt="Paul Kapur Photo 3" />
+                        </div>
+                        <div class="gallery-thumbnails">
+                            <a href="#"><img src="pk1.JPG" alt="Paul Kapur Photo 1" /></a>
+                            <a href="#"><img src="pk2.JPG" alt="Paul Kapur Photo 2" /></a>
+                            <a href="#"><img src="pk3.JPG" alt="Paul Kapur Photo 3" /></a>
+                        </div>
+                    </div>
+
+			<p>On October 26, the Center on American and Global Security hosted a private event featuring Paul Kapur, Professor in the Department of National Security Affairs at the U.S. Naval Postgraduate School. Dr. Kapur spoke on the topic “Jihad as a Grand Strategy: Islamist Militancy, National Security, and the Pakistani State”. In his lecture, he discussed why a militant proxy strategy could be attractive to a state like Pakistan. Militants are inexpensive and need no basic training, no sophisticated equipment, and no personal support or benefits. However, Dr. Kapur explains that the use of Jihad is a paradox. When a state it weak, it makes militant strategy both useful and dangerous.</p>
+
+			<p>To understand the different aspects of attraction a weaker state like Pakistan could have towards the use of a militant groups, Dr. Kapur outlined operational advantages of militant proxy strategy in regards to whether the stronger state uses denial or punishment in reaction to militant groups. He first discusses risks for the weak challenging state. If the strong state were to react in denial, the weak challenger state could potentially face battlefield loss, conflict escalation, and political costs. If the strong state were to react with punishment, the weak challenger could face harm to its homeland, high-value targets, and political costs. Second, he discusses strong state defense tasks. If the strong state were to act in denial, it would attempt to find the militants and prevent the attack or defeat an ongoing attack. If the strong state were to react with punishment, it would harm militants, sponsor state, or other high-value targets. Finally, Dr. Kapur discusses advantages to the use of militants given these risks and the defense tasks of the strong state. If the strong state were to react in denial, it would be difficult to prevent the entry of militants into their borders and identify them before on attack. If the strong state were to react with punishment, challenges facing the stronger state would include an uncertainty as to the identity of the militants and the sponsor. These identities are crucial for an effective and politically feasible punishment strategy.</p>
+
+			<p>While these payoffs can be especially attractive to a weaker state, the use of militants comes with costs. While militants are inexpensive, create difficulties for military response, and enhance the bargaining level, they are hard to control, usually create a tradeoff between security and development, and decrease external security.</p> 
+
+			<p>In conclusion, Dr. Kapur goes over the broader takeaways from the militant proxy situation in Pakistan. First, militant proxy strategies can offer real benefits to weak states. The attraction, sophistication, and potential efficacy should not be underestimated. Second, a combination of a militant proxy strategy and nuclear weapons can be especially effective. Militants offer an offense that defeat adversaries’ denial efforts while nuclear weapons offer a defense that discourages adversaries’ punishment efforts. Third, reassurance may not be a useful response to weaker state military strategies, as the sponsor’s motives may be unrelated to security. Finally, the relationship between military proxy strategy and state weakness is paradoxical. Weakness makes such strategies especially attractive and especially dangerous. 
+</p> 
+
+                    <h1>Podcast</h1>
+                      <div id="podcast">
+                          <audio controls>
+                            <source src="kapur_podcast.mp3" type="audio/mp3">
+                          </audio>   
+                      </div>
+
+              </div><!-- END pageContent --> 
+            </div><!-- END Content -->
+            <div style="clear:both"></div>
+        </div> <!-- END CenterWrap -->  
+
+<!--#include virtual="../../../_footer.shtml" -->
+</div><!-- END wrapper -->  
+       
+</body>
+</html>

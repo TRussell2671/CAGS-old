@@ -1,0 +1,74 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+    <title>Center on American and Global Security</title>
+    <meta content="Center on American and Global Security, CAGS, Security Studies Indiana, Security Studies IU, International Security, Indiana University Bloomington, IUB" name="keywords"/>
+    <meta content="The Center on American and Global Security (CAGS) is a research center within Indiana University’s School of Global and International Studies.  CAGS hosts guest lectures, organizes symposia, and publishes research on current topics within the security studies field." name="description"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="icon"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="shortcut icon"/>
+    <link href="../../../css/cags.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../../../css/sgis.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../../../css/cycle2.css" media="screen" rel="stylesheet" type="text/css"/>  
+    <script src="../../../js/googlesearchtoggles.js" type="text/javascript"></script>
+    <script src="../../../js/jquery.js"></script>
+	<script src="../../../js/menu.js"></script>
+    <script src="../../../js/cags.js" type="text/javascript"></script>
+    <script src="../../../js/pignose.gallery.js"></script>  
+    <script type="text/javascript">
+    $(function() {
+        $('#cags_gallery .gallery').pignoseGallery({
+            list: $('#cags_gallery .gallery-thumbnails')
+        });
+    });
+    </script>
+</head>
+<body>
+	<!--#include virtual="../../../_branding.shtml" -->
+    <!--#include virtual="../../../_header.shtml" -->
+
+    <div id="wrapper">
+    	<div id="centerwrap">
+        	<!--#include virtual="../../../_leftnav_newsevents.shtml" -->
+            <div id="content"><img src="../../img/events.jpg" width="740" height="300" alt="Event Summary">
+            	<div id="pageContent">
+                  <h3 class="event-heading">The Eyes of Islam are Watching: Transcolonial Activism in India and the Palestine Mandate, 1920-1948</h3>
+             
+                    <div id="cags_gallery">
+                        <div class="gallery"> 
+                            <img src="lc1.jpg" alt="Lucy Chester Photo 1" />
+                            <img src="lc2.jpg" alt="Lucy Chester Photo 2" />
+                            <img src="lc3.jpg" alt="Lucy Chester Photo 3" />
+                        </div>
+                        <div class="gallery-thumbnails">
+                            <a href="#"><img src="lc1.jpg" alt="Lucy Chester Photo 1" /></a>
+                            <a href="#"><img src="lc2.jpg" alt="Lucy Chester Photo 2" /></a>
+                            <a href="#"><img src="lc3.jpg" alt="Lucy Chester Photo 3" /></a>
+                        </div>
+                    </div>
+
+                    <p>In her lecture, “The Eyes of Islam are Watching: Transcolonial Activism in India and the Palestine Mandate, 1920-1948”, Professor Lucy Chester of University of Colorado, Boulder laid out the historical connection between early twentieth century India and Palestine, highlighting particularly the Muslim population in these states and their shared ideologies. Two of Professor Chester’s key points were the role of the caliphate in both regions and violent manifestations of Muslim anger towards British rule and partition manifested themselves transcolonially.</p> 
+                    <p>Beginning before the First World War, as British fears of Islam persisted in the colonies after the 1857 uprising in India, the khilafat (or caliphate) movement began, where Indian Muslims began to look towards the Ottoman sultan as the leader of the greatest Islamic power in the world. The fear from the colonial government grew, as British leaders began to grow more fearful that the sultan might “order” the Muslims of the world to wage a jihad against the British Empire.  The leadership in London considered this threat as seriously as they did the military threat to their interests of the Russian Army.</p>
+                    <div id="youtube">
+                        <iframe width="500" height="313" src="https://www.youtube.com/embed/EfUp7oAJ1ko" frameborder="0" allowfullscreen></iframe>
+                    </div>
+                    <p>Following the end of the First World War, and the fall of the Ottoman Empire and the dissolution of the caliphate by Ataturk in 1924, the khilafat movement remained strong in India and Palestine, and persisted in its symbolic power. Hindu-Muslim unity began to grow as opposition to British rule increased, with Gandhi eventually advocating for Palestinian freedom and Muslim freedom and power inside Palestine. In 1936, as the Arab Revolt began in Palestine, the Muslim League in India called for “Palestine Day” protests, further uniting Muslims transcolonially. Conflict nearly came to a point in 1937-38, as the British entertained the idea of partition in Palestine; however the Woodhead Commission ultimately deemed the idea impracticable. However, following the partition of British India in 1948 into separate Indian and Pakistani states, the idea of also partitioning the Palestinian Mandate returned. Muslim leaders in both states spoke against the plan, saying there are “no similarities whatsoever between the Indian and Palestine problems.” However, the plan proceeded, and yet another infamous partition took place.</p>  
+                    <p>Professor Chester concluded her lecture by highlighting the modern relevance of transnational Islamic symbols such as the caliphate, and how the idea of the caliphate has become a rallying cry for extremist groups today (e.g. the Islamic State).  Professor Chester stressed the need for western leaders to understand the history of these symbols, and to understand the tradition of transnational Islamic appeals, and how in increased understanding engagement with Muslim world can be made better.</p>
+
+                  <h1>Podcast</h1>
+                  <div id="podcast">
+                      <audio controls>
+                        <source src="lucy_podcast.mp3" type="audio/mp3">
+                      </audio>   
+                  </div>
+
+              </div><!-- END pageContent --> 
+            </div><!-- END Content -->
+            <div style="clear:both"></div>
+        </div> <!-- END CenterWrap -->  
+
+<!--#include virtual="../../../_footer.shtml" -->
+</div><!-- END wrapper -->  
+       
+</body>
+</html>

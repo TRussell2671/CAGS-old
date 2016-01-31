@@ -1,0 +1,59 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+    <title>Center on American and Global Security</title>
+    <meta content="Center on American and Global Security, CAGS, Security Studies Indiana, Security Studies IU, International Security, Indiana University Bloomington, IUB" name="keywords"/>
+    <meta content="The Center on American and Global Security (CAGS) is a research center within Indiana University’s School of Global and International Studies.  CAGS hosts guest lectures, organizes symposia, and publishes research on current topics within the security studies field." name="description"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="icon"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="shortcut icon"/>
+    <link href="../../../css/cags.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../../../css/sgis.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../../../css/cycle2.css" media="screen" rel="stylesheet" type="text/css"/>  
+           
+    <script src="../../../js/googlesearchtoggles.js" type="text/javascript"></script>
+    <script src="../../../js/jquery.js"></script>
+	<script src="../../../js/menu.js"></script>
+    <script src="../../../js/cags.js" type="text/javascript"></script>  
+</head>
+<body>
+	<!--#include virtual="../../../_branding.shtml" -->
+    <!--#include virtual="../../../_header.shtml" -->
+
+    <div id="wrapper">
+    	<div id="centerwrap">
+        	<!--#include virtual="../../../_leftnav_resources.shtml" -->
+            <div id="content"><img src="World Map 2.jpg" width="740" height="300" alt="Global"> 
+
+            	<div id="pageContent">
+                     <h1>Global Security Highlights</h1>
+                     <h2>2013-2014 Academic Year</h2> 
+                <table width="740" border="0">
+                    <tr>
+                      <td width="370">  <h3>Spring 2014</h3>          
+                      <p><a href="2013_2014/Jan27_Feb2_14.pdf" target="new">January 27 - February 2, 2014</a></p>
+                   <p><a href="2013_2014/Feb3_9_14.pdf" target="new">February 3-9, 2014</a></p>
+                   <p><a href="2013_2014/Feb10_16_14.pdf" target="new">February 10-16, 2014</a></p>
+                  <p><a href="2013_2014/Feb17_23_14.pdf" target="new">February 17-23, 2014</a></p> 
+                  <p><a href="2013_2014/Feb24_March2_14.pdf" target="new">February 24 - March 2, 2014</a></p>
+                  <p><a href="2013_2014/March3_ 9_14.pdf" target="new">March 3-9, 2014</a></p>
+                  <p><a href="2013_2014/March10_16_14.pdf" target="new">March 10-16, 2014</a></p>
+                  <p><a href="2013_2014/March24_30_14.pdf" target="new">March 17-30, 2014</a></p>
+                  <p><a href="2013_2014/March31_April6_14.pdf" target="new">March 31 - April 6, 2014</a></p>
+                  <p><a href="2013_2014/April7_13_14.pdf" target="new">April 7-13, 2014</a></p>
+                  <p><a href="2013_2014/April14_20_14.pdf" target="new">April 14-20, 2014</a></p>
+                  <p><a href="2013_2014/April21_27_14.pdf" target="new">April 21-27, 2014</a></p>
+                  <p><a href="2013_2014/April28_May4_14.pdf" target="new">April 28 - May 4, 2014</a></p>
+                  <p><a href="2013_2014/May5_11_14.pdf" target="new">May 5-11, 2014</a></p></td>
+                  <td width="340"></td>
+                    </tr></table>
+                  
+       	      </div>
+            </div>
+        </div> <!-- END CenterWrap -->  
+
+<!--#include virtual="../../../_footer.shtml"> -->
+</div><!-- END wrapper -->  
+       
+</body>
+</html>

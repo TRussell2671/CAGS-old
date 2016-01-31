@@ -1,0 +1,51 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+    <title>Center on American and Global Security</title>
+    <meta content="Center on American and Global Security, CAGS, Security Studies Indiana, Security Studies IU, International Security, Indiana University Bloomington, IUB" name="keywords"/>
+    <meta content="The Center on American and Global Security (CAGS) is a research center within Indiana University’s School of Global and International Studies.  CAGS hosts guest lectures, organizes symposia, and publishes research on current topics within the security studies field." name="description"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="icon"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="shortcut icon"/>
+    <link href="../css/cags.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../css/sgis.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../css/cycle2.css" media="screen" rel="stylesheet" type="text/css"/>  
+           
+    <script src="../js/googlesearchtoggles.js" type="text/javascript"></script>
+    <script src="../js/jquery.js"></script>
+	<script src="../js/menu.js"></script>
+    <script src="../js/cags.js" type="text/javascript"></script>  
+</head>
+<body>
+	<!--#include virtual="../_branding.shtml" -->
+    <!--#include virtual="../_header.shtml" -->
+
+    <div id="wrapper">
+    	<div id="centerwrap">
+        	<!--#include virtual="../_leftnav_newsevents.shtml" -->
+            <div id="content"><img src="img/symposium2.JPG" width="740" height="300" alt="Symposium">
+            	<div id="pageContent">
+                  
+                  <h1>Symposia</h1>
+                    
+                                          <p>CAGS periodically sponsors symposia in an effort to bring together thought leaders and scholars around particular issues. These events are not open to the public and are designed to spark discourse amongst scholars, with the goal of producing directed research. Past and upcoming symposia include:</p>
+          <p>May 15-16, 2015 - <strong>Responsibility to Protect</strong></p>                                   <p>March 14-15, 2014 - <strong>Nuclear Stability in South Asia</strong> <em>*With support from the School of Global and International Studies (SGIS), the Office of the Vice President for International Affairs (OVPIA), the School of Public and Environmental Affiars (SPEA), and the Carnegie Corporation of New York.</em></p>
+                          <p>November 1-2, 2013 - <strong>Afghanistan after the 2014 US Drawdown</strong> <em>*With support from the Center for the Study of the Middle East (CSME), School of Public and Environmental Affairs (SPEA), and the Carnegie Corporation of New York.</em></p>
+                  <p>October 14-15, 2013 - <strong>Indian Foreign Policy Symposium</strong> <em>*With support from the School of Public and Environmental Affairs (SPEA).</em></p>
+                  
+            
+                  <p>Please stay tuned to our news and events section for information on research that was published as a product of CAGS symposia.</p>
+                    
+                 
+                  
+                    
+              </div><!-- END pageContent --> 
+            </div><!-- END Content -->
+            <div style="clear:both"></div>
+        </div> <!-- END CenterWrap -->  
+
+<!--#include virtual="../_footer.shtml" -->
+</div><!-- END wrapper -->  
+       
+</body>
+</html>

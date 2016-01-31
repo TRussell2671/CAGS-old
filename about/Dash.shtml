@@ -1,0 +1,45 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+    <title>Center on American and Global Security</title>
+    <meta content="Center on American and Global Security, CAGS, Security Studies Indiana, Security Studies IU, International Security, Indiana University Bloomington, IUB" name="keywords"/>
+    <meta content="The Center on American and Global Security (CAGS) is a research center within Indiana University’s School of Global and International Studies.  CAGS hosts guest lectures, organizes symposia, and publishes research on current topics within the security studies field." name="description"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="icon"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="shortcut icon"/>
+    <link href="../css/cags.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../css/sgis.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../css/cycle2.css" media="screen" rel="stylesheet" type="text/css"/>  
+           
+    <script src="../js/googlesearchtoggles.js" type="text/javascript"></script>
+    <script src="../js/jquery.js"></script>
+    <script src="../js/spamspan.js"></script>
+	<script src="../js/menu.js"></script>
+    <script src="../js/cags.js" type="text/javascript"></script>  
+</head>
+<body>
+	<!--#include virtual="../_branding.shtml" -->
+    <!--#include virtual="../_header.shtml" -->
+
+    <div id="wrapper">
+    	<div id="centerwrap">
+        	<!--#include virtual="../_leftnav_about.shtml" -->
+            <div id="content"><img src="img/contactus.jpg" width="740" height="300" alt="Rebecca"><div id="pageContent">
+                  
+              <h1>Rebecca Dash</h1>
+                    
+                  <p>Rebecca Dash is the Associate Director of the Center on American and Global Security. Rebecca oversees the Center's day-to-day operations, budgeting and finance, partnerships with other centers and external entities, and fundraising opportunities for CAGS. Rebecca joined CAGS in October 2013 and is excited to be part of a new center within the new School of Global and International Studies. <br>
+                    <br>Rebecca has a B.A. in Mathematics and Foreign Languages and Literature from Kenyon College, an Ed.M. in International Education Policy from Harvard University's Graduate School of Education, and an M.A. in Strategic Studies and International Economics from The Johns Hopkins University School of Advanced International Studies (SAIS). </p>
+                  <p>She can be reached at (812) 855-4811 or at <span class="block"><span class="u">rdash</span><img alt="at" width="9" src="../img/@.gif"><span class="d">indiana.edu</span></span></p>
+       	      </div>
+            	<!-- END pageContent2 --> 
+            </div><!-- END Content -->
+            <div style="clear:both"></div>
+        </div> <!-- END CenterWrap -->  
+
+<!--#include virtual="../_footer.shtml" -->
+</div><!-- END wrapper -->  
+       
+</body>
+</html>
+

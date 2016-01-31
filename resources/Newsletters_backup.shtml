@@ -1,0 +1,49 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+    <title>Center on American and Global Security</title>
+    <meta content="Center on American and Global Security, CAGS, Security Studies Indiana, Security Studies IU, International Security, Indiana University Bloomington, IUB" name="keywords"/>
+    <meta content="The Center on American and Global Security (CAGS) is a research center within Indiana University’s School of Global and International Studies.  CAGS hosts guest lectures, organizes symposia, and publishes research on current topics within the security studies field." name="description"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="icon"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="shortcut icon"/>
+    <link href="../css/cags.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../css/sgis.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../css/cycle2.css" media="screen" rel="stylesheet" type="text/css"/>  
+           
+    <script src="../js/googlesearchtoggles.js" type="text/javascript"></script>
+    <script src="../js/jquery.js"></script>
+	<script src="../js/menu.js"></script>
+    <script src="../js/cags.js" type="text/javascript"></script>  
+</head>
+<body>
+	<!--#include virtual="../_branding.shtml" -->
+    <!--#include virtual="../_header.shtml" -->
+
+    <div id="wrapper">
+    	<div id="centerwrap">
+        	<!--#include virtual="../_leftnav_resources.shtml" -->
+            <div id="content"><img src="Newsletter.jpg" width="740" height="300" alt="Newsletter">
+            	<div id="pageContent">
+                  
+                  <h1>Newsletters</h1>
+                    
+                  <p>CAGS has recently undertaken a project to chronicle security-related debates and developments on Capitol Hill. In this section, you will find links to our weekly newsletters where you can read about the latest in the policymaking world as it pertains to American and global security.</p>
+                  
+                  <h1>National Security Highlights from Capitol Hill</h1>
+                  
+                 <p> <a href="NewsletterFiles/Congressional/2013_2014.shtml">2013-2014 Academic Year</a></p>
+                  
+                  <h1>Global Security Highlights</h1>
+                 <p>  <a href="NewsletterFiles/Congressional/2013_2014.shtml">2013-2014 Academic Year</a></p>
+                 
+                  
+       	      </div>
+            </div>
+        </div> <!-- END CenterWrap -->  
+
+<!--#include virtual="../_footer.shtml" -->
+</div><!-- END wrapper -->  
+       
+</body>
+</html>

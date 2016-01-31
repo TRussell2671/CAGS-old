@@ -1,0 +1,99 @@
+<!DOCTYPE HTML>
+<html lang="en">
+
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+    <title>Center on American and Global Security</title>
+    <meta content="Center on American and Global Security, CAGS, Security Studies Indiana, Security Studies IU, International Security, Indiana University Bloomington, IUB" name="keywords" />
+    <meta content="The Center on American and Global Security (CAGS) is a research center within Indiana University’s School of Global and International Studies.  CAGS hosts guest lectures, organizes symposia, and publishes research on current topics within the security studies field." name="description" />
+    <link href="http://www.iu.edu/favicon.ico" rel="icon" />
+    <link href="http://www.iu.edu/favicon.ico" rel="shortcut icon" />
+    <link href="../../../../css/cags.css" media="screen" rel="stylesheet" type="text/css" />
+    <link href="../../../../css/sgis.css" media="screen" rel="stylesheet" type="text/css" />
+    <link href="../../../../css/cycle2.css" media="screen" rel="stylesheet" type="text/css" />
+
+    <script src="../../../js/googlesearchtoggles.js" type="text/javascript"></script>
+    <script src="../../../../js/jquery.js"></script>
+    <script src="../../../../js/menu.js"></script>
+    <script src="../../../../js/cags.js" type="text/javascript"></script>
+    <style type="text/css">
+        <!-- span.MsoHyperlink {
+            color: #261341;
+            text-decoration: underline;
+            text-underline: single;
+        }
+        
+        -->
+    </style>
+</head>
+
+<body>
+    <!--#include virtual="../../../../_branding.shtml" -->
+    <!--#include virtual="../../../../_header.shtml" -->
+
+    <div id="wrapper">
+        <div id="centerwrap">
+            <!--#include virtual="../../../../_leftnav_newsletters.shtml" -->
+            <div id="content"><img src="../image/topicblocks_cyber.jpg" alt="Cyber Security Highlights" width="740" height="301" usemap="#topics">
+                <map name="topics">
+                    <area shape="poly" coords="3,3,182,3,182,98,4,99,4,6" href="Aerospace.shtml" alt="Aerospace Security Highlights">
+                    <area shape="poly" coords="188,3,367,3,368,98,188,98" href="CivilDisorder.shtml" alt="Civil Disorder Highlights">
+                    <area shape="poly" coords="372,4,552,4,553,97,372,97" href="Cyber.shtml" alt="Cyber Security Highlights">
+                    <area shape="poly" coords="556,4,738,4,738,97,558,99" href="DefenseSpending.shtml" alt="Defense Spending Highlighs">
+                    <area shape="poly" coords="3,104,183,102,184,200,2,198" href="Intelligence.shtml" alt="Intelligence Highlights">
+                    <area shape="poly" coords="189,103,368,104,367,197,191,197" href="IntlSecurityCoop.shtml" alt="International Security Cooperation Highlights">
+                    <area shape="poly" coords="373,104,552,103,552,198,371,198,373,104" href="Maritime.shtml" alt="Maritime Security Highlights">
+                    <area shape="poly" coords="558,104,736,103,737,199,557,198" href="Nuclear.shtml" alt="Nuclear Security Highlights">
+                    <area shape="poly" coords="4,203,183,204,183,297,4,297" href="OrganizedCrime.shtml" alt="Organized Crime Highlights">
+                    <area shape="poly" coords="187,202,367,201,367,298,186,297" href="RefugeesMigration.shtml" alt="Refugees &amp; Migration Security Hightlights">
+                    <area shape="rect" coords="559,204,737,299" href="Terrorism.shtml" alt="Terrorism Highlights">
+                    <area shape="rect" coords="373,204,553,299" href="TerritorialDisputes.shtml">
+                </map>
+
+                Click on a topic above to learn more.
+
+                <div id="pageContent">
+                    <h1>Cyber Security Highlights Archive</h1>
+                    <h3>Fall 2014</h3>
+                    <ul>
+                        <h1>December</h1>
+                        <li><a href="http://www.washingtonpost.com/world/national-security/three-american-teens-recruited-online-are-caught-trying-to-join-the-islamic-state/2014/12/08/8022e6c4-7afb-11e4-84d4-7c896b90abdc_story.html">December 8: 3 U.S. teens, recruited online, caught trying to join Islamic State (Washington Post)</a> </li>
+                        <li><a href="http://www.washingtonpost.com/world/north-korea-denies-hacking-sony-but-calls-the-breach-a-righteous-deed/2014/12/07/508d6991-c242-419c-b71c-59a3d1173766_story.html">December 8: North Korea denies hacking Sony but calls cyberattack a "righteous deed" (Washington Post)</a> </li>
+                        <li><a href="http://allafrica.com/stories/201412040362.html">December 4: Kenya holds 76 Chinese nationals over suspected cyber crimes (All Africa, the Star)</a> </li>
+                        <li><a href="http://usa.chinadaily.com.cn/us/2014-12/03/content_19020606.htm">December 3: Mutual governance of cyberspace called for between US-China (China Daily)</a> </li>
+                        <li><a href="http://www.washingtonpost.com/world/national-security/hack-at-sony-pictures-appears-linked-to-north-korea/2014/12/03/6c3c7e3e-7b25-11e4-b821-503cc7efed9e_story.html">December 3: Sony Pictures hack appears to be linked to North Korea (BBC)</a> </li>
+                        <li><a href="http://www.nytimes.com/2014/12/02/technology/hackers-target-biotech-companies.html?action=click&contentCollection=Middle%20East&region=Footer&module=TopNews&pgtype=article">December 1: Hackers target biotech industry, investment banking (NY Times)</a> </li>
+                        <li><a href="http://abcnews.go.com/International/isis-threat-home-fbi-warns-us-military-social/story?id=27270662">December 1: FBI warns military about Islamic State threat at home, social media vulnerability (ABC News)</a> </li>
+                        <h1>November</h1>
+                        <li><a href="http://www.washingtonpost.com/world/national-security/nsa-chief-foreign-powers-steal-data-on-critical-us-infrastructure/2014/11/20/ddd4392e-70cb-11e4-893f-86bd390a3340_story.html">November 20: Foreign powers steal data on critical U.S. infrastructure, NSA chief says (Washington Post)</a> </li>
+                        <li><a href="http://www.homelandsecuritynewswire.com/dr20141105-security-contractor-usis-failed-to-notice-monthslong-hacking-of-its-computer-systems">November 5: Top US Security contractor USIS failed to notice months-long hacking of its computer systems (Homeland Security News)</a> </li>
+                        <li><a href="http://www.washingtontimes.com/news/2014/nov/4/obama-to-confront-xi-jinping-on-chinese-cyberspyin/">November 4: Obama to confront Xi Jinping on Chinese cyberspying (Washington Times)</a> </li>
+                        <h1>October</h1>
+                        <li><a href="http://www.bbc.com/news/technology-29817644">October 29: White House computer network 'hacked' (BBC)</a> </li>
+                        <li><a href="http://www.reuters.com/article/2014/10/21/us-cybersecurity-jpmorgan-idUSKCN0IA01L20141021">October 20: Russia ruled out as culprit in Chase cyber security breach, U.S. officials say (Reuters)</a> </li>
+                        <li><a href="http://www.laht.com/article.asp?ArticleId=2356980&CategoryId=14089">October 17: Ecuadorian Government Battles Cyberattacks from Colombia (Latin American Herald Tribune)</a> </li>
+                        <li><a href="http://www.washingtonpost.com/world/national-security/fbi-warns-industry-of-chinese-cyber-campaign/2014/10/15/0349a00a-54b0-11e4-ba4b-f6333e2c0453_story.html">October 15: FBI warns of Chinese Cyber threat to U.S. companies and agencies (Washington Post)</a> </li>
+                        <li><a href="http://timesofindia.indiatimes.com/world/china/China-blocks-BBC-website-amid-Hong-Kong-protests/articleshow/44826052.cms">October 15: China blocks BBC website amid Hong Kong protests (Times of India)</a> </li>
+                        <li><a href="http://www.bbc.com/news/technology-29613247">October 14: Russian hackers used Windows bug to target Nato (BBC)</a> </li>
+                        <li><a href="http://www.spiegel.de/international/world/the-professional-pr-strategies-of-isis-in-syria-and-iraq-a-995611.html">October 8: Islamic State uses savvy "Digital Jihad" (Der Spiegel)</a> </li>
+                        <h1>September</h1>
+                        <li><a href="http://www.cnn.com/2014/09/29/world/asia/china-censorship-hong-kong/index.html?hpt=wo_c2">September 29: China's Internet firewall censors Hong Kong protest news (CNN) </a> </li>
+                        <li><a href="http://insidecybersecurity.com/Cyber-General/Cyber-Public-Content/obamas-top-military-adviser-urges-new-federal-cybersecurity-rules/menu-id-1089.html">September 18: U.S. Chairman of the Joint Chiefs of Staff urges new look at cyber security standards (Inside Cybersecurity)</a> </li>
+                        <li><a href="http://www.washingtonpost.com/world/national-security/senate-china-hacked-military-contractor-networks/2014/09/17/8ff48ece-3e77-11e4-a430-b82a3e67b762_story.html">September 17: China hacked military contractor networks (Washington Post)</a> </li>
+                        <li><a href="http://www.washingtonpost.com/world/china-sees-jihadi-inspiration-coming-from-abroad-by-way-of-the-web/2014/09/16/c3ce6656-4b4b-41aa-ba96-1dc2266e42d2_story.html">September 17: China sees increasing threat from jihadists, as influence spreads on web (Washington Post)</a> </li>
+                        <li><a href="http://www.nextgov.com/cybersecurity/2014/09/there-any-part-government-hasnt-been-hacked-yet/93704/?oref=ng-HPtopstory">September 10: FBI, Homeland Security officials struggle to combat increasingly common cyber attacks (Next Gov)</a> </li>
+                        <li><a href="http://www.washingtonpost.com/world/national-security/us-attempts-to-combat-islamic-state-propaganda/2014/09/07/c0283cea-3534-11e4-9f4d-24103cb8b742_story.html">September 7: U.S. State Department seeks to counter extremist propaganda (Washington Post)</a> </li>
+                    </ul>
+                </div>
+            </div>
+            <div style="clear:both"></div>
+        </div>
+        <!-- END CenterWrap -->
+
+        <!--#include virtual="../../../../_footer.shtml"> -->
+    </div>
+    <!-- END wrapper -->
+
+</body>
+
+</html>

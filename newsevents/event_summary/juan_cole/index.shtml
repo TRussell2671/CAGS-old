@@ -1,0 +1,79 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+    <title>Center on American and Global Security</title>
+    <meta content="Center on American and Global Security, CAGS, Security Studies Indiana, Security Studies IU, International Security, Indiana University Bloomington, IUB" name="keywords"/>
+    <meta content="The Center on American and Global Security (CAGS) is a research center within Indiana University’s School of Global and International Studies.  CAGS hosts guest lectures, organizes symposia, and publishes research on current topics within the security studies field." name="description"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="icon"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="shortcut icon"/>
+    <link href="../../../css/cags.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../../../css/sgis.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../../../css/cycle2.css" media="screen" rel="stylesheet" type="text/css"/>  
+    <script src="../../../js/googlesearchtoggles.js" type="text/javascript"></script>
+    <script src="../../../js/jquery.js"></script>
+	<script src="../../../js/menu.js"></script>
+    <script src="../../../js/cags.js" type="text/javascript"></script>
+    <script src="../../../js/pignose.gallery.js"></script>  
+    <script type="text/javascript">
+    $(function() {
+        $('#cags_gallery .gallery').pignoseGallery({
+            list: $('#cags_gallery .gallery-thumbnails')
+        });
+    });
+    </script>
+</head>
+<body>
+	<!--#include virtual="../../../_branding.shtml" -->
+    <!--#include virtual="../../../_header.shtml" -->
+
+    <div id="wrapper">
+    	<div id="centerwrap">
+        	<!--#include virtual="../../../_leftnav_newsevents.shtml" -->
+            <div id="content"><img src="../../img/events.jpg" width="740" height="300" alt="Event Summary">
+            	<div id="pageContent">
+                  <h3 class="event-heading">Shiite Doctrine, Iranian Politics, and Nuclear Weapons</h3>
+
+                    <div id="cags_gallery">
+                        <div class="gallery"> 
+                            <img src="jc1.jpg" alt="Climate Panel Photo 1" />
+                            <img src="jc2.jpg" alt="Climate Panel Photo 2" />
+                            <img src="jc3.jpg" alt="Climate Panel Photo 3" />
+                            <img src="jc4.jpg" alt="Climate Panel Photo 4" />
+                        </div>
+                        <div class="gallery-thumbnails">
+                            <a href="#"><img src="jc1.jpg" alt="Climate Panel Photo 1" /></a>
+                            <a href="#"><img src="jc2.jpg" alt="Climate Panel Photo 2" /></a>
+                            <a href="#"><img src="jc3.jpg" alt="Climate Panel Photo 3" /></a>
+                            <a href="#"><img src="jc4.jpg" alt="Climate Panel Photo 4" /></a>
+                        </div>
+                    </div>
+
+                    	<p>Professor Juan Cole, the Richard P. Mitchell Collegiate Professor of History at the University of Michigan at Ann Arbor, presented on the topic of “The Iranian Nuclear Agreement: Shiite Doctrine, Iranian Politics and Nuclear Weapons”. This first lecture of the Iranian Nuclear Agreement Series was held on September 30th at the Maurer School of Law. Professor Cole lectured on the influence of Shia Islam in Iranian policy, specifically in regard to the controversial Iranian nuclear agreement currently being discussed in Congress and throughout the world.</p>
+	
+						<p>Professor Cole began his lecture by presenting a brief historical overview of the origination of Shia Islam and the subsequent Imam leadership. After the occultation of the twelfth Imam, Mahdi, Professor Cole explained that Shiites were left without a leader. What took the place of the Imam’s were seminary-trained clergymen who issued legal opinions based on questions they were asked from the people. Later, in the latter half of the 20th century, a rising religious figure, Ruhollah Khomeini, declared that Shiites were in need of a leader who had supreme power in Islamic jurisprudence. As a result of the 1979 Iranian Revolution, Ruhollah Khomeini was empowered and established a parliament with both an elected and a clerical part of the government, thereby reestablishing a central authority for Shiites.</p> 
+
+						<p>Professor Cole continued his lecture by articulating the beginning of the Iranian nuclear program. Cole indicated that Iran decided that they needed a nuclear program around the year 2000, when the rumor of Iraq increasing their nuclear program was featured in Western news sources. Professor Cole stated that the initiation of this nuclear program was kept a secret, until 2002 when it was leaked by the People’s Mujahedin of Iran (MEK), and then later acknowledged by the Iranian president in 2003. Cole argued that it is possible that Iran kept this program secret because they feared that Israel would destroy their reactors, as the Israelis had done in Iraq years prior.</p> 
+						
+						<p>The discovery of an Iranian nuclear program prompted many Western countries to question why Iran would want to establish one. Cole suggested that Iran may have begun this project for nuclear latency. He explained that having the potential to quickly develop nuclear weapons is a significant deterrent from invasion. Additionally, Cole stated that Iran is an energy independent country. Harnessing nuclear power would allow Iran to export more petroleum, which represents a large portion of Iranian economy.</p> 
+
+						<p>Why would the West fear an Iranian nuclear program? Cole answered this question by indicating that Westerners perceive Iran as a hostile nation, who supports terrorism, and seeks to destroy America. Professor Cole supported his statements by indicating that the previous Iranian President, Ahmadinejad, made numerous enemies and received negative – while sometimes inaccurate – publicity from Western media sources. In addition, he stated that as long as Iran does not possess nuclear weapons it is considered weak and Washington does not want Tehran to gain strength.</p> 
+
+						<p>Professor Cole concluded his lecture by presenting a reason why Iran would want a nuclear deal to finalize. He stated that the sanctions on Tehran in 2012 had a significant impact on Iranian economy. Iranian President Rouhani understood this and was willing to accommodate U.N. inspectors to prove that Iran did not possess nuclear weapons. Cole articulated that inspections showed the Iran was not in possession of these weapons and the highest level of enrichment found was a mere 3.6%. This is far below the level of enrichment needed to create a nuclear weapon. Both Ayatollah Khomeini and Supreme Leader Ali Khamenei have declared that nuclear weapons are against Islamic law and unequivocally reject the use of these weapons. According to Cole, it is time to take Shiism seriously and re-observe the Shia tradition.</p> 
+                    <h1>Podcast</h1>
+                      <div id="podcast">
+                          <audio controls>
+                            <source src="cole_podcast.mp3" type="audio/mp3">
+                          </audio>   
+                      </div>
+
+              </div><!-- END pageContent --> 
+            </div><!-- END Content -->
+            <div style="clear:both"></div>
+        </div> <!-- END CenterWrap -->  
+
+<!--#include virtual="../../../_footer.shtml" -->
+</div><!-- END wrapper -->  
+       
+</body>
+</html>

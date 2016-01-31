@@ -1,0 +1,93 @@
+<!DOCTYPE HTML>
+<html lang="en">
+
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+    <title>Center on American and Global Security</title>
+    <meta content="Center on American and Global Security, CAGS, Security Studies Indiana, Security Studies IU, International Security, Indiana University Bloomington, IUB" name="keywords" />
+    <meta content="The Center on American and Global Security (CAGS) is a research center within Indiana University’s School of Global and International Studies.  CAGS hosts guest lectures, organizes symposia, and publishes research on current topics within the security studies field." name="description" />
+    <link href="http://www.iu.edu/favicon.ico" rel="icon" />
+    <link href="http://www.iu.edu/favicon.ico" rel="shortcut icon" />
+    <link href="../../../../css/cags.css" media="screen" rel="stylesheet" type="text/css" />
+    <link href="../../../../css/sgis.css" media="screen" rel="stylesheet" type="text/css" />
+    <link href="../../../../css/cycle2.css" media="screen" rel="stylesheet" type="text/css" />
+
+    <script src="../../../js/googlesearchtoggles.js" type="text/javascript"></script>
+    <script src="../../../../js/jquery.js"></script>
+    <script src="../../../../js/menu.js"></script>
+    <script src="../../../../js/cags.js" type="text/javascript"></script>
+    <style type="text/css">
+        <!-- span.MsoHyperlink {
+            color: #261341;
+            text-decoration: underline;
+            text-underline: single;
+        }
+        
+        -->
+    </style>
+</head>
+
+<body>
+    <!--#include virtual="../../../../_branding.shtml" -->
+    <!--#include virtual="../../../../_header.shtml" -->
+
+    <div id="wrapper">
+        <div id="centerwrap">
+            <!--#include virtual="../../../../_leftnav_newsletters.shtml" -->
+            <div id="content"><img src="../image/topicblocks_maritime.jpg" alt="Maritime Security Highlights" width="740" height="301" usemap="#topics">
+                <map name="topics">
+                    <area shape="poly" coords="3,3,182,3,182,98,4,99,4,6" href="Aerospace.shtml" alt="Aerospace Security Highlights">
+                    <area shape="poly" coords="188,3,367,3,368,98,188,98" href="CivilDisorder.shtml" alt="Civil Disorder Highlights">
+                    <area shape="poly" coords="372,4,552,4,553,97,372,97" href="Cyber.shtml" alt="Cyber Security Highlights">
+                    <area shape="poly" coords="556,4,738,4,738,97,558,99" href="DefenseSpending.shtml" alt="Defense Spending Highlighs">
+                    <area shape="poly" coords="3,104,183,102,184,200,2,198" href="Intelligence.shtml" alt="Intelligence Highlights">
+                    <area shape="poly" coords="188,103,367,104,366,197,190,197" href="IntlSecurityCoop.shtml" alt="International Security Cooperation Highlights">
+                    <area shape="poly" coords="373,104,552,103,552,198,371,198,373,104" href="Maritime.shtml" alt="Maritime Security Highlights">
+                    <area shape="poly" coords="558,104,736,103,737,199,557,198" href="Nuclear.shtml" alt="Nuclear Security Highlights">
+                    <area shape="poly" coords="4,203,183,204,183,297,4,297" href="OrganizedCrime.shtml" alt="Organized Crime Highlights">
+                    <area shape="poly" coords="187,202,367,201,367,298,186,297" href="RefugeesMigration.shtml" alt="Refugees &amp; Migration Security Hightlights">
+                    <area shape="rect" coords="559,204,737,299" href="Terrorism.shtml" alt="Terrorism Highlights">
+                    <area shape="rect" coords="373,204,553,299" href="TerritorialDisputes.shtml">
+                </map>
+
+                Click on a topic above to learn more.
+
+                <div id="pageContent">
+                    <h1>Maritime Security Highlights Archive</h1>
+                    <h3>Spring 2015</h3>
+                    <ul>
+                        <h1>April</h1>
+                        <li><a href="http://www.bbc.com/news/world-middle-east-32229316">April 9: U.S. warns Iran over "support" for Yemeni Houthi rebels as two Iranian warships are deployed to region (BBC)</a> </li>
+                        <li><a href="http://www.reuters.com/article/2015/04/08/us-northkorea-mexico-un-ship-idUSKBN0MZ21T20150408">April 8: North Korea warns it will act to get back ship held by Mexico (Reuters)</a> </li>
+                        <h1>March</h1>
+                        <li><a href="http://www.reuters.com/article/2015/03/25/us-usa-defense-navigation-idUSKBN0ML1UQ20150325">March 25: U.S. military challenged maritime claims of 19 countries in 2014 (Reuters)</a> </li>
+                        <li><a href="http://news.xinhuanet.com/english/2015-03/25/c_134096854.htm">March 25: Countries to join maritime security exercise in Indonesia (Xinhuanet)</a> </li>
+                        <li><a href="http://www.reuters.com/article/2015/03/23/us-indonesia-china-southchinasea-idUSKBN0MJ04320150323">March 23:  Indonesian president says China's main claim in South China Sea has no legal basis (Reuters)</a> </li>
+                        <li><a href="http://www.defensenews.com/story/defense/international/europe/2015/03/22/russian-ambassador-warns-denmark-nato-missile-shield/25188635/">March 22: Russian Ambassador Warns Denmark Over NATO Missile Shield (Defense News)</a> </li>
+                        <li><a href="http://www.reuters.com/article/2015/03/11/us-china-southchinasea-idUSKBN0M70SO20150311">March 11:  China slams ASEAN chief for South China Sea comments (Reuters)</a> </li>
+                        <li><a href="http://laht.com/article.asp?ArticleId=2376900&CategoryId=14090">March 4: Brazil navy launches largest operation in its history (Latin American Herald Tribune)</a> </li>
+                        <li><a href="http://www.bbc.com/news/world-latin-america-31723157">March 4: Colombia detains Cuba-bound Chinese ship carrying arms (BBC)</a> </li>
+                        <h1>February</h1>
+                        <li><a href="http://www.dw.de/russia-and-cyprus-sign-military-deal-for-mediterranean-ports/a-18282114">February 26: Russia and Cyprus sign military deal for Mediterranean ports (Deutsche Welle)</a> </li>
+                        <li><a href="http://www.theguardian.com/world/2015/feb/27/china-aggressively-expanding-into-south-china-sea-says-us">February 26: China aggressively expanding into South China Sea says US (The Guardian)</a> </li>
+                        <li><a href="http://www.reuters.com/article/2015/02/27/us-libya-security-un-idUSKBN0LV05D20150227">February 26: U.N. experts claim Libya needs international maritime force to help stop illicit oil, weapons (Reuters)</a> </li>
+                        <li><a href="http://www.aljazeera.com/news/2015/02/iran-destroys-mock-aircraft-carrier-naval-drills-150225152111322.html">February 25: Iran destroys mock US aircraft carrier in naval drills (Al Jazeera)</a> </li>
+                        <li><a href="http://www.reuters.com/article/2015/02/25/us-usa-china-submarines-idUSKBN0LT2NE20150225">February 25:  China submarines outnumber U.S. fleet (Reuters)</a> </li>
+                        <li><a href="http://www.defensenews.com/story/defense/naval/ships/2015/02/14/canada-navy-supply-protecteur-preserver-commercial-gap/23224099/">February 14: Canada Seeks Naval Supply Ship Lease (Defense News)</a> </li>
+                        <li><a href="http://usa.chinadaily.com.cn/world/2015-02/12/content_19561971.htm">February 12: Chinese naval officers conclude visit to U.S. military installations in bid to reduce misunderstandings (China Daily)</a> </li>
+                        <li><a href="http://www.cnn.com/2015/02/12/tech/mci-saffir-robot/index.html">February 12: U.S. Navy unveils robotic firefighter (CNN)</a> </li>
+                        <li><a href="http://www.reuters.com/article/2015/02/02/us-china-military-idUSKBN0L60K320150202">February 2: Fresh reports circulate on China's second aircraft carrier (Reuters)</a> </li>
+                    </ul>
+                </div>
+            </div>
+            <div style="clear:both"></div>
+        </div>
+        <!-- END CenterWrap -->
+
+        <!--#include virtual="../../../../_footer.shtml"> -->
+    </div>
+    <!-- END wrapper -->
+
+</body>
+
+</html>

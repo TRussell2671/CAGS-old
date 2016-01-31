@@ -1,0 +1,61 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+    <title>Center on American and Global Security</title>
+    <meta content="Center on American and Global Security, CAGS, Security Studies Indiana, Security Studies IU, International Security, Indiana University Bloomington, IUB" name="keywords"/>
+    <meta content="The Center on American and Global Security (CAGS) is a research center within Indiana University’s School of Global and International Studies.  CAGS hosts guest lectures, organizes symposia, and publishes research on current topics within the security studies field." name="description"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="icon"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="shortcut icon"/>
+    <link href="../css/cags.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../css/sgis.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../css/cycle2.css" media="screen" rel="stylesheet" type="text/css"/>  
+           
+    <script src="../js/googlesearchtoggles.js" type="text/javascript"></script>
+    <script src="../js/jquery.js"></script>
+    <script src="../js/spamspan.js"></script>
+	<script src="../js/menu.js"></script>
+    <script src="../js/cags.js" type="text/javascript"></script>  
+</head>
+<body>
+	<!--#include virtual="../_branding.shtml" -->
+    <!--#include virtual="../_header.shtml" -->
+
+    <div id="wrapper">
+    	<div id="centerwrap">
+        	<!--#include virtual="../_leftnav_about.shtml" -->
+            <div id="content"><img src="img/Nicolas.JPG" width="740" height="300" alt="Ashlyn"><div id="pageContent">
+                  
+              <h1>Nicolas Blarel</h1>
+                    
+              <p>Nicolas Blarel is a doctoral student at Indiana University, Bloomington. Prior to joining 
+IU, he received a M.A. in Comparative Politics from Sciences-Po in Paris in 2006. Nicolas 
+specializes in International Relations, with a more specific focus on security issues in 
+South Asia. Nicolas has been particularly analyzing India's relations with the 
+Middle-East, and especially with Israel. Nicolas has published his master thesis on 
+Indo-Israeli strategic relations (Inde et Israël: le rapprochement stratégique, 
+pragmatisme et complémentarité (Paris: L’Harmattan, 2006) and has a forthcoming book on 
+this topic: Continuity, Change and Compromise in India’s Foreign Policy: Explaining 
+India’s Israel Policy from 1922 to Today. </p>
+              <p>Nicolas has 
+                equally published book chapters and articles on India's nuclear policies, and more 
+                specifically on terrorism and nuclear escalation; India's relations with the U.S.; the 
+                evaluation of India’s soft power potential; and India's insurgent movements and 
+                state-making. Nicolas has worked for the French Foreign Ministry’s policy planning staff 
+                (the Centre d’Analyses et de Prévisions) on questions related to Afghanistan, South Asia, 
+                and nuclear proliferation. Nicolas has also been a visiting fellow at the Institute for 
+                Defence Studies and Analyses (IDSA) in New Delhi. Last year, he was editorial assistant 
+                at the peer-reviewed academic journal, International Studies Quarterly. </p>
+                  <p>You may contact Nicolas at <span class="block"><span class="u">nblarel</span><img alt="at" width="9" src="../img/@.gif"><span class="d">indiana.edu</span></span></p>
+       	      </div>
+            	<!-- END pageContent2 --> 
+          </div><!-- END Content -->
+            <div style="clear:both"></div>
+        </div> <!-- END CenterWrap -->  
+
+<!--#include virtual="../_footer.shtml" -->
+</div><!-- END wrapper -->  
+       
+</body>
+</html>
+

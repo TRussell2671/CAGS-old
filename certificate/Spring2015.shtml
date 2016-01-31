@@ -1,0 +1,68 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+    <title>Center on American and Global Security</title>
+    <meta content="Center on American and Global Security, CAGS, Security Studies Indiana, Security Studies IU, International Security, Indiana University Bloomington, IUB" name="keywords"/>
+    <meta content="The Center on American and Global Security (CAGS) is a research center within Indiana University’s School of Global and International Studies.  CAGS hosts guest lectures, organizes symposia, and publishes research on current topics within the security studies field." name="description"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="icon"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="shortcut icon"/>
+    <link href="../css/cags.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../css/sgis.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../css/cycle2.css" media="screen" rel="stylesheet" type="text/css"/>  
+           
+    <script src="../js/googlesearchtoggles.js" type="text/javascript"></script>
+    <script src="../js/jquery.js"></script>
+	<script src="../js/menu.js"></script>
+    <script src="../js/cags.js" type="text/javascript"></script>  
+</head>
+<body>
+	<!--#include virtual="../_branding.shtml" -->
+    <!--#include virtual="../_header.shtml" -->
+
+    <div id="wrapper">
+    	<div id="centerwrap">
+        	<!--#include virtual="../_leftnav_sub.shtml" -->
+            <div id="content"><img src="courses.jpg" width="740" height="300" alt="courses">
+            	<div id="pageContent">
+                  
+                  <h1>Spring 2015 Courses in Security Studies</h1>
+                  <p>Below is a compiled list of the courses offered in the Spring 2015 semester that dealt with issues in security. </p>
+                  
+                   <h2>Spring 2015<br></h2>
+                  <p>POLS - Y311  Democracy and National Security<br><a href="Democracy and National Security">McGinnis, Michael</a>- Professor, Department of Political Science                  </p>
+                  <p>POLS - Y352 The Holocaust & Politics<br><a href="http://www.indiana.edu/~jsp/faculty/profile_jBielasiak.shtml">Bielasiak, J</a>- Professor, Department of Political Science   </p>
+                   
+                  <p>POLS - Y362  Intl Politics of South Asia<br><a href="../about/SumitGanguly.shtml">Ganguly, Sumit </a>- Professor, Political Science; Director, Center on American and Global Security</p>
+                  <p>POLS - Y368 Russian and Soviet Foreign Policy<br><a href="http://www.indiana.edu/~jsp/faculty/profile_dSpechler.shtml">Spechler, Dina</a>- Associate Professor, Political Science</p>
+                  <p>POLS - Y375  War and International Conflict<br><a href="http://www.indiana.edu/~nelc/people/rasler.shtml">Rasler, Karen</a>- Professor, Department of Political Science                  </p> 
+                                 <p>POLS - Y490  Senior Seminar: Politics of Nuclear Proliferation <br><a href="../about/SumitGanguly.shtml">Ganguly, Sumit </a>- Professor, Political Science; Director, Center on American and Global Security</p>
+                  <p>POLS - Y669 Theories of Foreign Policy<br><a href="http://www.indiana.edu/~nelc/people/rasler.shtml">Rasler, Karen</a>- Professor, Department of Political Science</p>
+                                     
+                  <p>EURO - W405 / EURO - W605 / SPEA - V550 321  European Security Issues<br><a href="http://www.indiana.edu/~spea/faculty/part-time_instructors_directory/coyle-gene.shtml">Coyle, Gene</a> - Adjunct Professor, School of Public and Environmental Affairs                  </p>
+                  <p>GLLC - G320  Espionage in the 21st Century<br><a href="http://www.indiana.edu/~spea/faculty/part-time_instructors_directory/coyle-gene.shtml">Coyle, Gene</a> - Adjunct Professor, School of Public and Environmental Affairs                   </p>
+                  <p>HIST - D310 / REEI - R300 Russian Revolutions and the Soviet Regime<br><a href="http://www.indiana.edu/~histweb/faculty/Display.php?Faculty_ID=17">Kuromiya, Hiroaki</a> - Professor, Department of History </p>
+                 <p>HIST - W325   World War II: The Peoples  <BR><a href="http://www.indiana.edu/~histweb/faculty/Display.php?Faculty_ID=19">Linenthal, E</a> - Professor, Department of History              
+                 <p>HIST - E333 Conflict in Southern Africa<br><a href="http://www.indiana.edu/~histweb/faculty/Display.php?Faculty_ID=24">Moorman, Marissa </a> - Associate Professor, Department of History  </p>
+                <p>HIST - C377 Greek History: The Persian Wars to the Legacy of Alexander<br><a href="http://www.indiana.edu/~histweb/faculty/Display.php?Faculty_ID=32">Robinson, Eric</a> - Professor, Department of History </p>
+                
+         <p>INTL- I210 Diplomacy, Security, and Governance<br><a href="http://polisci.indiana.edu/graduate/students/khanani_cv.pdf">Khanani, Ahmed</a> - Visiting Assistant Professor, Department of International Studies                  </p>
+        <p>INTL- I300 Global Human Trafficking<br><a href="http://www.indiana.edu/~global/staff/scholars/korytova.php">Korytova, Stepanka </a> - Visiting Scholar-in-Residence, Department of International Studies  </p>   
+        <p>INTL- I304 Human Rights in the Muslin World<br><a href="http://polisci.indiana.edu/graduate/students/khanani_cv.pdf">Khanani, Ahmed</a> - Visiting Assistant Professor, Department of International Studies                  </p>
+        <p>INTL- I310 War, Peace, and International Order<br><a href="http://info.law.indiana.edu/faculty-research/faculty-staff/profiles/faculty/istrabadi-feisal-amin-rasoul.shtml">Istrabadi, Feisal</a> - Professor of Practice, Maurer School of Law                 </p>
+                <p>INTL- I424 Drones, Camels, and Cameras<br><a href="http://www.soic.indiana.edu/all-people/profile.html?profile_id=72">Ekbia, Hamid</a> - Associate Professor of Informatics, Cognitive Science, and International Studies                 </p>
+
+         
+         <p>LAW- B575  National and Homeland Security Law<br><a href="http://info.law.indiana.edu/faculty-research/faculty-staff/profiles/faculty/delaney-david-g.shtml">Delaney, David</a> -Visiting Assistant Professor of Law, Maurer School of Law                 </p>
+              
+           	  </div>
+            	<!-- END pageContent --> 
+            </div><!-- END Content -->
+            <div style="clear:both"></div>
+        </div> <!-- END CenterWrap -->  
+
+<!--#include virtual="../_footer.shtml" -->
+</div><!-- END wrapper -->  
+       
+</body>
+</html>

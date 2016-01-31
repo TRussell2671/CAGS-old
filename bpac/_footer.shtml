@@ -1,0 +1,12 @@
+<footer>      
+    <a class="iublogo" href="http://www.iu.edu/"></a>
+    
+    <p><a href="http://www.iub.edu/">Indiana University Bloomington</a> | <a href="http://college.indiana.edu/">College of Arts &amp; Sciences</a> | <a href="http://sgis.indiana.edu/">SGIS</a> | <a href="http://cags.indiana.edu/">CAGS</a></p>
+    <p>
+  <a href="http://www.iu.edu/copyright/index.shtml">Copyright</a> &#169; 
+  <script type="text/javascript">
+  var theDate=new Date()
+  document.write(theDate.getFullYear())
+    </script> The <a href="http://trustees.iu.edu/">Trustees</a> of Indiana University | <a href="http://www.iu.edu/copyright/complaints.shtml">Copyright Complaints</a> | Privacy Notice</p>
+</footer>
+

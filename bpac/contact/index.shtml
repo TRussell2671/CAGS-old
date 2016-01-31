@@ -1,0 +1,73 @@
+<!DOCTYPE HTML>
+<html lang="en">
+	<head>
+    <meta charset="utf-8">
+    <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+    <title>CAGS: Building Pan-Asian Connectivity - Indiana University</title>
+    <meta name="keywords" content="CAGS, Building Pan-Asian Connectivity, College of Arts and Sciences, Indiana University, Bloomington" />
+	<meta name="description" content="CAGS: Building Pan-Asian Connectivity - Indiana University March 10-11, 2015 in Kolkata, India" />  
+    <meta name="viewport" content="width=device-width, maximum-scale=1.0, minimum-scale=1.0, initial-scale=1" />
+    <link href="http://www.indiana.edu/favicon.ico" rel="icon"/>
+    <link href="http://www.indiana.edu/favicon.ico" rel="shortcut icon"/>
+    <link rel="stylesheet" type="text/css" href="../css/_global.css" />
+    <link rel="stylesheet" type="text/css" href="http://cags.indiana.edu/css/sgis.css" />
+    <link rel="stylesheet" type="text/css" href="../css/screen_styles.css" />
+    <link rel="stylesheet" type="text/css" media="only screen and (min-width:210px) and (max-width:480px)" href="../css/screen_layout_small.css">
+    <!-- http://slicknav.com/ -->
+    <link rel="stylesheet" href="../css/slicknav.css">
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+    <script type="text/javascript" src="../js/jquery.easing.min.js"></script>
+    <script type="text/javascript" src="../js/jquery.scrollUp.js"></script>
+    <script src="../js/jquery.slicknav.js"></script>
+    <script src="../js/idrs.js"></script>
+    <!--[if lt IE 9]>
+        <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    </head>
+	<body>
+		<div id="skipnav">
+            <ul>
+            <li><a href="#content">Skip to Content</a></li>
+            <li><a href="#sitesearch">Skip to Search</a></li>
+            </ul>
+            <hr/>
+        </div>
+		
+		<!--#include virtual="../_branding.shtml"-->       
+        <!--#include virtual="../_header.shtml"-->
+        <div class="pagewrap">
+		<!--#include virtual="../_nav.shtml"-->
+        
+                <div class="contentwrap">   
+ 			<div class="fullcontent">
+ 				<article id="content">
+ 					<h1>Contact Us</h1>
+                    <p>For questions regarding the <strong>Building Pan-Asian Connectivity Conference</strong>, please contact:
+
+                    <h3><b>Rebecca Dash</b>, 
+					CAGS Associate Director</h3>
+                    (812) 855-4811<br />
+                    <a href="mailto:rdash@indiana.edu">rdash@indiana.edu</a>
+                    <br><br>
+                    <p>For questions regarding the <strong>IU Gateway Center Event</strong>, please contact:
+
+                    <h3><b>Karen Farrell</b>, 
+					Librarian for South Asian and Southeast Asian Studies</h3>
+                    (812) 855-5647<br />
+                    <a href="mailto: karsfarr@indiana.edu"> karsfarrh@indiana.edu</a>
+				</article>        
+           	</div>
+			<div class="clear-fix"></div>
+		</div>
+	
+	<!--#include virtual="../_footer.shtml"-->
+		</div>
+
+<script type="text/javascript">
+$(document).ready(function(){
+	$('#menu').slicknav();
+});
+</script>
+	</body>
+</html>

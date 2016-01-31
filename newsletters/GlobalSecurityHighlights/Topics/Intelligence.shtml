@@ -1,0 +1,97 @@
+<!DOCTYPE HTML>
+<html lang="en">
+
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+    <title>Center on American and Global Security</title>
+    <meta content="Center on American and Global Security, CAGS, Security Studies Indiana, Security Studies IU, International Security, Indiana University Bloomington, IUB" name="keywords" />
+    <meta content="The Center on American and Global Security (CAGS) is a research center within Indiana University’s School of Global and International Studies.  CAGS hosts guest lectures, organizes symposia, and publishes research on current topics within the security studies field." name="description" />
+    <link href="http://www.iu.edu/favicon.ico" rel="icon" />
+    <link href="http://www.iu.edu/favicon.ico" rel="shortcut icon" />
+    <link href="../../../css/cags.css" media="screen" rel="stylesheet" type="text/css" />
+    <link href="../../../css/sgis.css" media="screen" rel="stylesheet" type="text/css" />
+    <link href="../../../css/cycle2.css" media="screen" rel="stylesheet" type="text/css" />
+    <script src="../../js/googlesearchtoggles.js" type="text/javascript"></script>
+    <script src="../../../js/jquery.js"></script>
+    <script src="../../../js/menu.js"></script>
+    <script src="../../../js/cags.js" type="text/javascript"></script>
+    <style type="text/css">
+        <!-- span.MsoHyperlink {
+            color: #261341;
+            text-decoration: underline;
+            text-underline: single;
+        }
+        
+        -->
+    </style>
+</head>
+
+<body>
+    <!--#include virtual="../../../_branding.shtml" -->
+    <!--#include virtual="../../../_header.shtml" -->
+    <div id="wrapper">
+        <div id="centerwrap">
+            <!--#include virtual="../../../_leftnav_newsletters.shtml" -->
+            <div id="content"><img src="image/topicblocks_intel.jpg" alt="Intelligence Highlights" width="740" height="301" usemap="#topics">
+                <map name="topics">
+                    <area shape="poly" coords="3,3,182,3,182,98,4,99,4,6" href="Aerospace.shtml" alt="Aerospace Security Highlights">
+                    <area shape="poly" coords="188,3,367,3,368,98,188,98" href="CivilDisorder.shtml" alt="Civil Disorder Highlights">
+                    <area shape="poly" coords="372,4,552,4,553,97,372,97" href="Cyber.shtml" alt="Cyber Security Highlights">
+                    <area shape="poly" coords="556,4,738,4,738,97,558,99" href="DefenseSpending.shtml" alt="Defense Spending Highlighs">
+                    <area shape="poly" coords="3,104,183,102,184,200,2,198" href="Intelligence.shtml" alt="Intelligence Highlights">
+                    <area shape="poly" coords="188,103,367,104,366,197,190,197" href="IntlSecurityCoop.shtml" alt="International Security Cooperation Highlights">
+                    <area shape="poly" coords="373,104,552,103,552,198,371,198,373,104" href="Maritime.shtml" alt="Maritime Security Highlights">
+                    <area shape="poly" coords="558,104,736,103,737,199,557,198" href="Nuclear.shtml" alt="Nuclear Security Highlights">
+                    <area shape="poly" coords="4,203,183,204,183,297,4,297" href="OrganizedCrime.shtml" alt="Organized Crime Highlights">
+                    <area shape="poly" coords="187,202,367,201,367,298,186,297" href="RefugeesMigration.shtml" alt="Refugees &amp; Migration Security Hightlights">
+                    <area shape="rect" coords="559,204,737,299" href="Terrorism.shtml" alt="Terrorism Highlights">
+                    <area shape="rect" coords="373,204,553,299" href="TerritorialDisputes.shtml" alt="Territorial Disputes"> </map> Click on a topic above to learn more.
+                <div id="pageContent">
+                    <h1>Intelligence Highlights</h1>
+                    <h3>Fall 2015</h3>
+                    <ul>
+                    <h1>October</h1>
+                        <li><a href="http://www.defensenews.com/story/defense/show-daily/ausa/2015/10/14/carter-russia-new-reality-europe/73936154/" tag="intel">October 14: Defense Secretary Carter, Russia has created 'new reality' in Europe (Defense News)</a></li>
+                        <li><a href="http://bigstory.ap.org/article/2c9bc3139ece47fb8da35873c27ed124/us-draws-line-protecting-cia-backed-rebels-syria" tag="civil isc intel">October 13: U.S. reportedly unwilling to defend CIA-trained Syrian rebels against Russia, but does continue to supply anti-tank TOW missiles (AP)</a></li>
+                        <li><a href="https://www.washingtonpost.com/world/national-security/former-prisoners-sue-two-architects-of-cias-brutal-interrogation-program/2015/10/12/e73e6da8-70e9-11e5-8248-98e0f5a2e830_story.html" tag="intel">October 13: Former prisoners sue architects of CIA’s enhanced interrogation program (Washington Post)</a></li>
+                        <li><a href="http://bigstory.ap.org/article/2c9bc3139ece47fb8da35873c27ed124/us-draws-line-protecting-cia-backed-rebels-syria" tag="civil isc intel">October 13: U.S. reportedly unwilling to defend CIA-trained Syrian rebels against Russia, but does continue to supply anti-tank TOW missiles (AP)</a></li>
+                        <li><a href="http://www.japantimes.co.jp/news/2015/10/11/national/another-japanese-china-detained/" tag="intel">October 11: Japanese woman detained in China over alleged espionage (Japan Times)</a></li>
+                        <li><a href="https://www.washingtonpost.com/world/did-us-weapons-supplied-to-syrian-rebels-draw-russia-into-the-conflict/2015/10/11/268ce566-6dfc-11e5-91eb-27ad15c2b723_story.html" tag="civil isc intel">October 11: U.S.-supplied TOW anti-tank missiles play key role in rebels’ battle against Assad, Russian support (Washington Post)</a></li>
+
+                        <li><a href="http://nypost.com/2015/10/05/north-korea-frees-detained-nyu-student/">October 5: North Korea frees NYU student (New York Post)</a></li>
+                        <li><a href="https://www.washingtonpost.com/world/national-security/senior-navy-intelligence-official-indicted-in-covert-weapons-deal/2015/10/02/6abc7a68-690f-11e5-9223-70cb36460919_story.html">October 2: Senior Navy intelligence official indicted in covert weapons deal (Washington Post)</a></li>
+                    <h1>September</h1>
+                        <li><a href="http://www.theguardian.com/world/2015/sep/30/china-reportedly-detains-two-japanese-men-on-spying-charges">September 30: China arrests two Japanese men on spying charges (The Guardian)</a></li>
+                        <li><a href="http://www.bbc.com/news/world-asia-china-34341069">September 24: Chinese lawyer describes torture while in detention (BBC)</a></li>
+                        <li> <a href="http://www.news24.com.ng/National/News/France-pledges-military-equipment-intelligence-support-for-Nigeria-20150915">
+                            September 15: France pledges military equipment,
+                            intelligence support for Nigeria (News 24
+                            Nigeria)</a> </li>
+                        <li> <a href="http://www.bbc.com/news/world-africa-34245241">September
+                            14: UAE businesswoman sues Kenya over 'rendition'
+                            (BBC)</a> </li>
+                    </ul>
+
+                    <h1>Archive</h1>
+                    <table cellpadding="0" cellspacing="0" width="660" border="0">
+                      <tr valign="top">
+                        <td width="330" class="table-heading">Semester Highlights</td>
+                      </tr>
+                      <tr valign="top">
+                        <td width="330"><a href="Spring2015/Intelligence.shtml">Spring 2015</a></td>
+                      </tr>
+                      <tr valign="top">
+                         <td width="330"><a href="Fall2014/Intelligence.shtml">Fall 2014</a></td>
+                      </tr>
+                    </table> 
+                </div>
+            </div>
+            <div style="clear:both"></div>
+        </div>
+        <!-- END CenterWrap -->
+        <!--#include virtual="../../../_footer.shtml"> -->
+    </div>
+    <!-- END wrapper -->
+</body>
+
+</html>

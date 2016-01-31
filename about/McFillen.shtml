@@ -1,0 +1,47 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+    <title>Center on American and Global Security</title>
+    <meta content="Center on American and Global Security, CAGS, Security Studies Indiana, Security Studies IU, International Security, Indiana University Bloomington, IUB" name="keywords"/>
+    <meta content="The Center on American and Global Security (CAGS) is a research center within Indiana University’s School of Global and International Studies.  CAGS hosts guest lectures, organizes symposia, and publishes research on current topics within the security studies field." name="description"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="icon"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="shortcut icon"/>
+    <link href="../css/cags.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../css/sgis.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../css/cycle2.css" media="screen" rel="stylesheet" type="text/css"/>  
+           
+    <script src="../js/googlesearchtoggles.js" type="text/javascript"></script>
+    <script src="../js/jquery.js"></script>
+    <script src="../js/spamspan.js"></script>
+	<script src="../js/menu.js"></script>
+    <script src="../js/cags.js" type="text/javascript"></script>  
+</head>
+<body>
+	<!--#include virtual="../_branding.shtml" -->
+    <!--#include virtual="../_header.shtml" -->
+
+    <div id="wrapper">
+    	<div id="centerwrap">
+        	<!--#include virtual="../_leftnav_about.shtml" -->
+            <div id="content"><img src="img/BrianR.JPG" width="740" height="300" alt="Brian"><div id="pageContent">
+                  
+              <h1>Brian McFillen</h1>
+                    
+                  <p>Brian McFillen is the Graduate Assistant at CAGS for the Spring and Summer semesters of 2013.  In his work, Brian provides research support for a wide variety of projects, ranging from research on defense acquisition policies and insurgencies, to CAGS fundraising and prospective speakers.                  </p>
+                  <p>Brian is a Ph.D. candidate in Political Science and is currently writing his dissertation, which examines how the interaction between terrorist groups’ organizational structures and their political environments affects their ability to survive, carry out attacks, and mobilize supporters.  Besides terrorism, he has also studied inter- and intra-state conflict, international political economy, globalization, and the political systems of advanced industrialized democracies.  Brian has worked previously as an Associate Instructor for the IU Department of Political Science, teaching courses on Globalization, International Political Economy, West European Politics, Non-State Actors in International Relations, and Politics and Film; and has worked as an Instructor for the IU School of Continuing Studies, teaching that school’s Introduction to International Relations and Political Terrorism courses.   Before coming to IU, Brian graduated with honors from the College of Wooster in 2001 with a Bachelor’s degree in International Relations.  In addition, he has studied Scottish politics at the University of Aberdeen in the United Kingdom and international business at Robert Schuman University, now part of the University of Strausbourg, in Strasbourg, France.</p>
+                  <p>You can contact Brian at <span class="block"><span class="u">bmcfille</span><img alt="at" width="9" src="../img/@.gif"><span class="d">indiana.edu</span></span></p>
+       	      </div>
+            	<!-- END pageContent2 --> 
+            </div><!-- END Content -->
+            <div style="clear:both"></div>
+        </div> <!-- END CenterWrap -->  
+
+<!--#include virtual="../_footer.shtml" -->
+</div><!-- END wrapper -->  
+       
+</body>
+</html>
+
+
+

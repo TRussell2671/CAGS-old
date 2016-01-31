@@ -1,0 +1,105 @@
+<!DOCTYPE HTML>
+<html lang="en">
+
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+    <title>Center on American and Global Security</title>
+    <meta content="Center on American and Global Security, CAGS, Security Studies Indiana, Security Studies IU, International Security, Indiana University Bloomington, IUB" name="keywords" />
+    <meta content="The Center on American and Global Security (CAGS) is a research center within Indiana University’s School of Global and International Studies.  CAGS hosts guest lectures, organizes symposia, and publishes research on current topics within the security studies field." name="description" />
+    <link href="http://www.iu.edu/favicon.ico" rel="icon" />
+    <link href="http://www.iu.edu/favicon.ico" rel="shortcut icon" />
+    <link href="../../../../css/cags.css" media="screen" rel="stylesheet" type="text/css" />
+    <link href="../../../../css/sgis.css" media="screen" rel="stylesheet" type="text/css" />
+    <link href="../../../../css/cycle2.css" media="screen" rel="stylesheet" type="text/css" />
+
+    <script src="../../../js/googlesearchtoggles.js" type="text/javascript"></script>
+    <script src="../../../../js/jquery.js"></script>
+    <script src="../../../../js/menu.js"></script>
+    <script src="../../../../js/cags.js" type="text/javascript"></script>
+    <style type="text/css">
+        <!-- span.MsoHyperlink {
+            color: #261341;
+            text-decoration: underline;
+            text-underline: single;
+        }
+        
+        -->
+    </style>
+</head>
+
+<body>
+    <!--#include virtual="../../../../_branding.shtml" -->
+    <!--#include virtual="../../../../_header.shtml" -->
+
+    <div id="wrapper">
+        <div id="centerwrap">
+            <!--#include virtual="../../../../_leftnav_newsletters.shtml" -->
+            <div id="content"><img src="../image/topicblocks_nuclear.jpg" alt="Nuclear Security Highlights" width="740" height="301" usemap="#topics">
+                <map name="topics">
+                    <area shape="poly" coords="3,3,182,3,182,98,4,99,4,6" href="Aerospace.shtml" alt="Aerospace Security Highlights">
+                    <area shape="poly" coords="188,3,367,3,368,98,188,98" href="CivilDisorder.shtml" alt="Civil Disorder Highlights">
+                    <area shape="poly" coords="372,4,552,4,553,97,372,97" href="Cyber.shtml" alt="Cyber Security Highlights">
+                    <area shape="poly" coords="556,4,738,4,738,97,558,99" href="DefenseSpending.shtml" alt="Defense Spending Highlighs">
+                    <area shape="poly" coords="3,104,183,102,184,200,2,198" href="Intelligence.shtml" alt="Intelligence Highlights">
+                    <area shape="poly" coords="188,103,367,104,366,197,190,197" href="IntlSecurityCoop.shtml" alt="International Security Cooperation Highlights">
+                    <area shape="poly" coords="373,104,552,103,552,198,371,198,373,104" href="Maritime.shtml" alt="Maritime Security Highlights">
+                    <area shape="poly" coords="558,104,736,103,737,199,557,198" href="Nuclear.shtml" alt="Nuclear Security Highlights">
+                    <area shape="poly" coords="4,203,183,204,183,297,4,297" href="OrganizedCrime.shtml" alt="Organized Crime Highlights">
+                    <area shape="poly" coords="187,202,367,201,367,298,186,297" href="RefugeesMigration.shtml" alt="Refugees &amp; Migration Security Hightlights">
+                    <area shape="rect" coords="559,204,737,299" href="Terrorism.shtml" alt="Terrorism Highlights">
+                    <area shape="rect" coords="373,204,553,299" href="TerritorialDisputes.shtml">
+                </map>
+
+                Click on a topic above to learn more.
+
+                <div id="pageContent">
+                    <h1>Nuclear Security Highlights Archive</h1>
+                    <h3>Fall 2014</h3>
+                    <ul>
+                        <h1>December</h1>
+                        <li><a href="http://www.bbc.com/news/world-asia-india-30408274">December 11: Putin, Modi meet; Russia will help India build 10 nuclear reactors, remain India's top defence supplier (BBC)</a> </li>
+                        <li><a href="http://english.alarabiya.net/en/News/middle-east/2014/12/10/Report-says-Iran-buying-for-reactor-U-N-diplomats.html">December 10: Report says Iran illicitly buying material for reactor (Al Arabiya)</a> </li>
+                        <li><a href="http://www.bloomberg.com/news/2014-12-08/china-takes-nuclear-weapons-undersea-where-prying-eyes-can-t-see.html">December 9: China prepares to deploy nuclear weapons on stealthy submarines (Bloomberg)</a> </li>
+                        <li><a href="http://www.reuters.com/article/2014/12/09/us-iran-nuclear-arak-idUSKBN0JN1S220141209">December 8: Iran says they have no information on alleged purchase of nuclear equipment (Reuters, AFP)</a> </li>
+                        <h1>November</h1>
+                        <li><a href="http://www.reuters.com/article/2014/11/20/us-iran-nuclear-iaea-idUSKCN0J40Z020141120">November 20: Iran nuclear talks stuck, deadline may be extended again (Reuters)</a> </li>
+                        <li><a href="http://www.washingtonpost.com/world/angry-over-human-rights-pressures-north-korea-threatens-another-nuclear-test/2014/11/20/1bee71f8-8ee7-47ac-a15f-873d36a6c322_story.html">November 20: North Korea threatens another nuclear test in response to human rights pressures (Washington Post)</a> </li>
+                        <li><a href="http://www.laht.com/article.asp?ArticleId=2361514&CategoryId=14919">November 19: Bolivia, France Sign Accords on Nuclear Energy, Lithium (Latin American Herald Tribune)</a> </li>
+                        <li><a href="http://indianexpress.com/article/world/asia/pakistan-test-fires-nuclear-capable-hatf-iv-ballistic-missile/">November 17: Pakistan tests nuclear capable ballistic missile (Indian Express)</a> </li>
+                        <li><a href="http://www.washingtonpost.com/world/national-security/doubts-about-a-nuclear-deal-with-iran-as-talks-near-deadline/2014/11/16/a677661a-6c14-11e4-9fb4-a622dae742a2_story.html">November 16: Doubts about a nuclear deal with Iran as talks near deadline (Washington Post)</a> </li>
+                        <li><a href="http://www.washingtonpost.com/news/checkpoint/wp/2014/11/14/pentagon-wants-at-least-7-5-billion-to-fix-nuclear-weapons-programs/">November 14: Pentagon wants at least $7.5 billion to fix nuclear weapons programs (Washington Post)</a> </li>
+                        <li><a href="http://www.bbc.com/news/world-us-canada-30051468">November 14: Defense Secretary Hagel to announce nuclear arms reform (BBC)</a> </li>
+                        <li><a href="http://www.themoscowtimes.com/business/article/russia-and-iran-sign-nuclear-construction-deal-/510936.html">November 11: Russia and Iran sign nuclear construction deal (Moscow Times)</a> </li>
+                        <li><a href="http://www.voanews.com/content/us-france-say-iran-can-have-nuclear-program-not-bomb/2509774.html">November 5: Western countries say Iran can have nuclear program, but not bomb (Voice of America)</a> </li>
+                        <li><a href="http://www.janes.com/article/45390/russia-exercises-its-strategic-nuclear-triad">November 4: Russia tests all three components of nuclear "triad" (IHS Jane's Defence)</a> </li>
+                        <li><a href="http://www.usatoday.com/story/news/world/2014/11/04/russia-boycotts-nuclear-summit-planning-meeting/18450721/">November 4: Russia boycotts nuclear summit planning meeting (USA Today)</a> </li>
+                        <h1>October</h1>
+                        <li><a href="http://www.dw.de/france-investigates-mystery-drones-over-nuclear-plants/a-18030966">October 31: France investigates mystery drones over nuclear plants</a> </li>
+                        <li><a href="http://www.washingtonpost.com/world/middle_east/iran-foils-sabotage-attempt-on-heavy-water-tanks/2014/10/30/d09bc0f0-600f-11e4-827b-2d813561bdfd_story.html?mkt_tok=3RkMMJWWfF9wsRokuajIZKXonjHpfsX76e0kWaOg38431UFwdcjKPmjr1YECTcd0aPyQAgobGp5I5FEIQ7XYTLB2t60MWA%3D%3D">October 30: Iran says it thwarted sabotage on heavy water tanks involved in nuclear program (Washington Post)</a> </li>
+                        <li><a href="http://www.france24.com/en/20141030-france-alert-after-mystery-drones-spotted-over-nuclear-plants/">October 30: France on alert after mystery drones spotted over nuclear plants (France 24, Reuters)</a> </li>
+                        <li><a href="http://www.deccanherald.com/content/438484/india-readies-full-fledged-test.html?mkt_tok=3RkMMJWWfF9wsRokuajIZKXonjHpfsX76e0kWaOg38431UFwdcjKPmjr1YECTcd0aPyQAgobGp5I5FEIQ7XYTLB2t60MWA%3D%3D">October 29: India prepares for full-fledged test of indigenous ICMB (Deccan Herald)</a> </li>
+                        <li><a href="http://www.nytimes.com/2014/10/29/world/middleeast/iranians-hope-for-nuclear-deal-with-west-to-kick-start-economy.html">October 28: Iranian nuclear talks inch along as deadline quickly approaches (NY Times)</a> </li>
+                        <li><a href="http://www.thehindu.com/news/national/india-conveys-concern-at-chinese-presence-in-lanka/article6533496.ece">October 26: India conveys concern at China presence in Sri Lanka (The Hindu)</a> </li>
+                        <li><a href="http://timesofindia.indiatimes.com/india/India-Canada-clinch-nuclear-deal-in-record-time/articleshow/44819950.cms">October 15: India, Canada clinch nuclear deal in record time (Times of India)</a> </li>
+                        <li><a href="http://www.reuters.com/article/2014/10/08/us-iran-nuclear-iaea-idUSKCN0HX14S20141008">October 8: Iran defends refusal to let in U.N. nuclear expert (Reuters)</a> </li>
+                        <li><a href="http://www.nytimes.com/2014/10/03/world/asia/satellite-shows-north-korea-has-upgraded-launch-station.html?rref=world/asia&module=ArrowsNav&contentCollection=Asia%20Pacific&action=keypress&region=FixedLeft&pgtype=article">October 2: North Korea has upgraded main launching station for satellites, missiles (NY Times)</a> </li>
+                        <h1>September</h1>
+                        <li><a href="http://hamptonroads.com/2014/09/navy-halts-nuclear-work-norfolk-naval-shipyard">September 25: Navy halts nuclear work at Norfolk Naval Shipyard after civilians improperly handle equipment (The Virginian-Pilot)</a> </li>
+                        <li><a href="http://www.bloomberg.com/news/2014-09-26/north-korea-inching-toward-mobile-long-range-missile.html">September 25: North Korea slowly moving towards mobile intercontinental ballistic missile (Bloomberg)</a> </li>
+                        <li><a href="http://www.latimes.com/nation/la-na-europe-nukes-20140920-story.html#page=1">September 19: NATO nuclear drawdown unlikely amid Russian tensions (LA Times)</a> </li>
+                        <li><a href="http://aviationweek.com/defense/scottish-yes-vote-could-have-major-impact-uk-defense">September 15: Scottish "Yes" vote for Independence could have significant defense impacts on UK, including on nuclear deterrent  (Aviation Week)</a> </li>
+                        <li><a href="http://www.reuters.com/article/2014/09/04/us-northkorea-nuclear-iaea-idUSKBN0GZ2EF20140904">September 4: IAEA sees signs that North Korea has restarted nuclear reactor (Reuters)</a> </li>
+                    </ul>
+                </div>
+            </div>
+            <div style="clear:both"></div>
+        </div>
+        <!-- END CenterWrap -->
+
+        <!--#include virtual="../../../../_footer.shtml"> -->
+    </div>
+    <!-- END wrapper -->
+
+</body>
+
+</html>

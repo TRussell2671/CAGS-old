@@ -1,0 +1,82 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+    <title>Center on American and Global Security</title>
+    <meta content="Center on American and Global Security, CAGS, Security Studies Indiana, Security Studies IU, International Security, Indiana University Bloomington, IUB" name="keywords"/>
+    <meta content="The Center on American and Global Security (CAGS) is a research center within Indiana University’s School of Global and International Studies.  CAGS hosts guest lectures, organizes symposia, and publishes research on current topics within the security studies field." name="description"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="icon"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="shortcut icon"/>
+    <link href="../../../css/cags.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../../../css/sgis.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../../../css/cycle2.css" media="screen" rel="stylesheet" type="text/css"/>  
+    <script src="../../../js/googlesearchtoggles.js" type="text/javascript"></script>
+    <script src="../../../js/jquery.js"></script>
+	<script src="../../../js/menu.js"></script>
+    <script src="../../../js/cags.js" type="text/javascript"></script>
+    <script src="../../../js/pignose.gallery.js"></script>  
+    <script type="text/javascript">
+    $(function() {
+        $('#cags_gallery .gallery').pignoseGallery({
+            list: $('#cags_gallery .gallery-thumbnails')
+        });
+    });
+    </script>
+</head>
+<body>
+	<!--#include virtual="../../../_branding.shtml" -->
+    <!--#include virtual="../../../_header.shtml" -->
+
+    <div id="wrapper">
+    	<div id="centerwrap">
+        	<!--#include virtual="../../../_leftnav_newsevents.shtml" -->
+            <div id="content"><img src="../../img/events.jpg" width="740" height="300" alt="Event Summary">
+            	<div id="pageContent">
+                  <h3 class="event-heading">The Iranian Nuclear Agreement: Regional Implications</h3>
+
+                    <div id="cags_gallery">
+                        <div class="gallery"> 
+                            <img src="gg3.jpg" alt="Greg Gause Photo 3" />
+                            <img src="gg2.jpg" alt="Greg Gause Photo 2" />
+                            <img src="gg1.jpg" alt="Greg Gause Photo 1" />
+                        </div>
+                        <div class="gallery-thumbnails">
+                            <a href="#"><img src="gg3.jpg" alt="Greg Gause Photo 3" /></a>
+                            <a href="#"><img src="gg2.jpg" alt="Greg Gause Photo 2" /></a>
+                            <a href="#"><img src="gg1.jpg" alt="Greg Gause Photo 1" /></a>
+                        </div>
+                    </div>
+
+                    <p>On October 5, 2015, the Center on American and Global Security and the Center for the Study of the Middle East co-hosted their second lecture in the Iran nuclear agreement series, featuring Gregory Gause, III, one of the world’s leading experts on the Arab Gulf countries and the John H. Lindsey ’44 Chair, Professor of International Affairs and Head of the International Affairs Department at the Bush School of Government and Public Service, Texas A&M University.</p>
+                    
+                    <p>Professor Gause offered three main points in his talk:
+                    
+                    <ol>
+                        <li>The Iran nuclear deal will not have much impact on the region-wide crisis currently enveloping the Middle East.</li>
+                        <li>The Obama Administration believes this deal can and will positively change the politics of the region – Professor Gause is skeptical.</li>
+                        <li>Despite pessimism that regional dynamics will be changed, on balance, the deal is good for United States.</li>
+                    </ol> 
+
+                    <p>In regard to his first point, Professor Gause asserts that the Iran nuclear deal is not a “game changer” to solve the current crisis in the Middle East, which stems not from conventional military or nuclear armament issues but from the collapse of state authority in many areas across the Arab World. This failure of state authority over its territory is most important in Iraq and Syria because they are centrally-located, strategically important countries. The current crises in these countries and in Yemen, Palestine, Lebanon, and Libya are influenced most not by conventional militaries or the possibility of nuclear arms, but by outside powers who were invited by competing factions to contribute money, weapons, advisors, allied militias, and political and propaganda support. Professor Gause asserts that the main regional powers attempting to take advantage of the situation (Iran, Saudi Arabia, and Turkey) are playing “pure power politics.” He stated that Iran is best positioned to take advantage of the current unconventional struggle because it has developed the “largest and most effective network of clients” in the region and its uncompromising stance on Israel. Turkey and Saudi Arabia are at a disadvantage in the crisis for various reasons: Turkey because its strong conventional military is not very useful in this situation and it has few cliental allies outside of the Muslim Brotherhood; Saudi Arabia because its conventional military is questionable and its “natural allies,” Salafi Muslims (including Al Qaeda and ISIS), hate the Saudi government and have directly attacked it. Professor Gause asserts the nuclear issue has little impact on these regional dynamics.</p>
+                        
+                    <p>Professor Gause’s second point is that the Obama Administration believes the nuclear deal could change regional politics in the “long game” by empowering the “so-called moderate” faction in the Iranian government. This “moderate” faction currently controls the presidency, cabinet, and foreign ministry, and in theory is more interested in seeking good relations with regional actors to promote economic growth than engaging in proxy wars. The deal should strengthen the moderate faction politically, but Professor Gause asserts this is a “bet,” and it is extremely hard to believe that any Iranian decision-makers will give up the country’s geopolitical gains in Iraq, Syria, and Lebanon.</p> 
+                        
+                    <p>Professor Gause’s third point is that the Iranian deal is positive, on balance, because of the possibility of Iranian cooperation and a “more normal” relationship, the lack of a “feasible alternative” to a deal to affect Iranian foreign policy, and because it “lessens prospects” for an Iranian nuclear “breakout.”</p>
+ 
+                    <h1>Podcast</h1>
+                      <div id="podcast">
+                          <audio controls>
+                            <source src="gause_podcast.mp3" type="audio/mp3">
+                          </audio>   
+                      </div>
+
+              </div><!-- END pageContent --> 
+            </div><!-- END Content -->
+            <div style="clear:both"></div>
+        </div> <!-- END CenterWrap -->  
+
+<!--#include virtual="../../../_footer.shtml" -->
+</div><!-- END wrapper -->  
+       
+</body>
+</html>

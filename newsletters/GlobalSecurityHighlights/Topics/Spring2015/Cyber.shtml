@@ -1,0 +1,105 @@
+<!DOCTYPE HTML>
+<html lang="en">
+
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+    <title>Center on American and Global Security</title>
+    <meta content="Center on American and Global Security, CAGS, Security Studies Indiana, Security Studies IU, International Security, Indiana University Bloomington, IUB" name="keywords" />
+    <meta content="The Center on American and Global Security (CAGS) is a research center within Indiana University’s School of Global and International Studies.  CAGS hosts guest lectures, organizes symposia, and publishes research on current topics within the security studies field." name="description" />
+    <link href="http://www.iu.edu/favicon.ico" rel="icon" />
+    <link href="http://www.iu.edu/favicon.ico" rel="shortcut icon" />
+    <link href="../../../../css/cags.css" media="screen" rel="stylesheet" type="text/css" />
+    <link href="../../../../css/sgis.css" media="screen" rel="stylesheet" type="text/css" />
+    <link href="../../../../css/cycle2.css" media="screen" rel="stylesheet" type="text/css" />
+
+    <script src="../../../js/googlesearchtoggles.js" type="text/javascript"></script>
+    <script src="../../../../js/jquery.js"></script>
+    <script src="../../../../js/menu.js"></script>
+    <script src="../../../../js/cags.js" type="text/javascript"></script>
+    <style type="text/css">
+        <!-- span.MsoHyperlink {
+            color: #261341;
+            text-decoration: underline;
+            text-underline: single;
+        }
+        
+        -->
+    </style>
+</head>
+
+<body>
+    <!--#include virtual="../../../../_branding.shtml" -->
+    <!--#include virtual="../../../../_header.shtml" -->
+
+    <div id="wrapper">
+        <div id="centerwrap">
+            <!--#include virtual="../../../../_leftnav_newsletters.shtml" -->
+            <div id="content"><img src="../image/topicblocks_cyber.jpg" alt="Cyber Security Highlights" width="740" height="301" usemap="#topics">
+                <map name="topics">
+                    <area shape="poly" coords="3,3,182,3,182,98,4,99,4,6" href="Aerospace.shtml" alt="Aerospace Security Highlights">
+                    <area shape="poly" coords="188,3,367,3,368,98,188,98" href="CivilDisorder.shtml" alt="Civil Disorder Highlights">
+                    <area shape="poly" coords="372,4,552,4,553,97,372,97" href="Cyber.shtml" alt="Cyber Security Highlights">
+                    <area shape="poly" coords="556,4,738,4,738,97,558,99" href="DefenseSpending.shtml" alt="Defense Spending Highlighs">
+                    <area shape="poly" coords="3,104,183,102,184,200,2,198" href="Intelligence.shtml" alt="Intelligence Highlights">
+                    <area shape="poly" coords="189,103,368,104,367,197,191,197" href="IntlSecurityCoop.shtml" alt="International Security Cooperation Highlights">
+                    <area shape="poly" coords="373,104,552,103,552,198,371,198,373,104" href="Maritime.shtml" alt="Maritime Security Highlights">
+                    <area shape="poly" coords="558,104,736,103,737,199,557,198" href="Nuclear.shtml" alt="Nuclear Security Highlights">
+                    <area shape="poly" coords="4,203,183,204,183,297,4,297" href="OrganizedCrime.shtml" alt="Organized Crime Highlights">
+                    <area shape="poly" coords="187,202,367,201,367,298,186,297" href="RefugeesMigration.shtml" alt="Refugees &amp; Migration Security Hightlights">
+                    <area shape="rect" coords="559,204,737,299" href="Terrorism.shtml" alt="Terrorism Highlights">
+                    <area shape="rect" coords="373,204,553,299" href="TerritorialDisputes.shtml">
+                </map>
+
+                Click on a topic above to learn more.
+
+                <div id="pageContent">
+                    <h1>Cyber Security Highlights Archive</h1>
+                    <h3>Spring 2015</h3>
+                    <ul>
+                        <h1>April</h1>
+                        <li><a href="http://www.dw.de/french-tv-broadcaster-hit-by-hackers-claiming-is-ties/a-18372779">April 9: French TV broadcaster hit by hackers claiming 'IS' ties (France 24)</a> </li>
+                        <h1>March</h1>
+                        <li><a href="http://www.bbc.com/news/technology-32115443">March 30: G20 world leaders' data emailed to football organisers (BBC)</a> </li>
+                        <li><a href="http://www.washingtonpost.com/world/national-security/tech-firms-and-privacy-groups-press-for-curbs-on-nsa-surveillance-powers/2015/03/24/4d35772c-d249-11e4-ab77-9646eea6a4c7_story.html">March 24: Tech firms and privacy groups press for curbs on NSA surveillance powers (Washington Post)</a> </li>
+                        <li><a href="http://www.washingtonpost.com/world/national-security/congress-moving-on-long-sought-legislation-to-thwart-cyberattacks/2015/03/24/32d20e98-d23c-11e4-ab77-9646eea6a4c7_story.html">March 24: Congress moving on long-sought legislation to thwart cyberattacks (Washington Post)</a> </li>
+                        <li><a href="http://m.bbc.com/news/technology-31813289">March 10: Wikimedia Foundation sues NSA over surveillance (BBC)</a> </li>
+                        <h1>February</h1>
+                        <li><a href="http://www.bbc.com/news/world-us-canada-31654050">February 26: US spy chief James Clapper highlights cyber threats (BBC)</a> </li>
+                        <li><a href="http://www.laht.com/article.asp?ArticleId=2375565&CategoryId=14094">February 24: Hackers Attack Chilean Defense Ministry Web Site (Latin American Herald Tribune)</a> </li>
+                        <li><a href="http://www.washingtonpost.com/world/national-security/us-announces-record-3-million-bounty-for-alleged-russian-hacker/2015/02/24/d6e989ca-bc5c-11e4-bdfa-b8e8f594e6ee_story.html">February 24: U.S. announces $3 million bounty for alleged Russian hacker (Washington Post)</a> </li>
+                        <li><a href="http://www.aljazeera.com/news/2015/02/spy-cables-expose-south-africa-alarming-security-failings-guardian-ssa-150224162919994.html">February 24: Spy Cables expose South Africa's alarming security failings (Al Jazeera)</a> </li>
+                        <li><a href="http://www.aljazeera.com/news/2015/02/israeli-cable-reveals-south-africa-missile-theft-cover-makopa-south-ssa-guardian-mos-150219180058280.html">February 23: Cables show Israel obtained stolen missile plans, and South Africa asked for their return (Al Jazeera)</a> </li>
+                        <li><a href="http://www.aljazeera.com/news/2015/02/spy-cables-british-attempt-recruit-korean-mi6-recruit-south-africa-north-korea-guard-150219190022268.html">February 23: Leaked document shows MI6 asked South Africa for help in recruiting a North Korean informant (Al Jazeera)</a> </li>
+                        <li><a href="http://www.laht.com/article.asp?ArticleId=2375200&CategoryId=14919">February 22: Bolivia Plans to Create “Sovereign Cloud” to Improve Computer Security (Latin American Herald Tribune)</a> </li>
+                        <li><a href="http://www.aljazeera.com/blogs/americas/2015/02/white-house-summit-focuses-social-media-war-150220001638727.html">February 20: White summit focuses on social media war (Al Jazeera)</a> </li>
+                        <li><a href="http://www.bbc.com/news/technology-31545050">February 20: US and UK accused of hacking Sim card firm to steal codes (BBC)</a> </li>
+                        <li><a href="http://www.bbc.com/news/world-asia-india-31546357">February 20: India arrests over energy document 'leaks' (BBC)</a> </li>
+                        <li><a href="http://www.bbc.com/news/business-31482985">February 15: Cyber bank robbers steal $1bn, says Kaspersky report (BBC)</a> </li>
+                        <li><a href="http://www.bbc.com/news/technology-31440978">February 13: Obama 'to order' firms to share data with government (BBC)</a> </li>
+                        <li><a href=" http://www.bbc.com/news/technology-31381892">February 10: Microsoft patches bug used by Chinese hackers (BBC)</a> </li>
+                        <li><a href="http://www.bbc.com/news/technology-31161839">February 6: China rejects hack accusation of U.S. health insurer (BBC)</a> </li>
+                        <li><a href="LINK">February 4: Chilean hackers attack Bolivian ministry web site amid longstanding dispute over borders (Latin American Herald Tribune</a> </li>
+                        <li><a href="http://www.bbc.com/news/business-31048811">February 2: Cybersecurity: Defending 'unpreventable' cyber attacks (BBC)</a> </li>
+                        <h1>January</h1>
+                        <li><a href="http://www.laht.com/article.asp?ArticleId=2371492&CategoryId=14094">January 28: Chilean Minister Reveals Her Email Account Was Hacked to Ask for Money (Latin American Herald Times)</a> </li>
+                        <li><a href="http://www.bbc.com/news/world-asia-30978299">January 26: Malaysia Airlines website 'compromised' by hackers</a> </li>
+                        <li><a href="http://www.bbc.com/news/technology-30982198">January 26: China blocks virtual private network use (BBC)</a> </li>
+                        <li><a href="http://www.bbc.com/news/world-africa-30914000">January 21:   Ghana government websites targeted by hackers (BBC)</a> </li>
+                        <li><a href=" http://www.bbc.com/news/technology-30913709">January 21: US police arrest Silk Road 2.0 suspect in Seattle (BBC)</a> </li>
+                        <li><a href="http://www.bbc.com/news/world-us-canada-30807463">January 13: Obama makes push for stronger cyber security laws (BBC)</a> </li>
+                        <li><a href="http://www.bbc.com/news/world-us-canada-30785232">January 12: US CENTCOM Twitter account "hacked by IS" (BBC)</a> </li>
+                    </ul>
+
+                </div>
+            </div>
+            <div style="clear:both"></div>
+        </div>
+        <!-- END CenterWrap -->
+
+        <!--#include virtual="../../../../_footer.shtml"> -->
+    </div>
+    <!-- END wrapper -->
+
+</body>
+
+</html>

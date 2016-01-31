@@ -1,0 +1,117 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+    <title>Center on American and Global Security</title>
+    <meta content="Center on American and Global Security, CAGS, Security Studies Indiana, Security Studies IU, International Security, Indiana University Bloomington, IUB" name="keywords"/>
+    <meta content="The Center on American and Global Security (CAGS) is a research center within Indiana University’s School of Global and International Studies.  CAGS hosts guest lectures, organizes symposia, and publishes research on current topics within the security studies field." name="description"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="icon"/>
+    <link href="http://www.iu.edu/favicon.ico" rel="shortcut icon"/>
+    <link href="../css/cags.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../css/sgis.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="../css/cycle2.css" media="screen" rel="stylesheet" type="text/css"/>  
+           
+    <script src="../js/googlesearchtoggles.js" type="text/javascript"></script>
+    <script src="../js/jquery.js"></script>
+	<script src="../js/menu.js"></script>
+    <script src="../js/cags.js" type="text/javascript"></script>  
+</head>
+<body>
+	<!--#include virtual="../_branding.shtml" -->
+    <!--#include virtual="../_header.shtml" -->
+
+    <div id="wrapper">
+    	<div id="centerwrap">
+        	<!--#include virtual="../_leftnav_sub.shtml" -->
+            <div id="content"><img src="courses.jpg" width="740" height="300" alt="courses">
+            	<div id="pageContent">
+                  
+                <h1>Courses in Security Studies</h1>
+                <p>Below is a compiled list of the courses offered in the upcoming spring semester that deal with issues in security. Please note that this is not an exhaustive list.</p>
+
+                <h2>Spring 2016</h2>
+                <h3>Department of History</h3>
+                    <p>HIST-C 215  Sparta at War</a><br>
+                    Robinson, Eric - Professor<br>
+                    TuTh 1:00PM - 2:15PM</p>
+                    <p>HIST-W 200 Soldiers and Veterans<br>
+                    Moyd, Michelle - Associate Professor<br>
+                    TuTh 11:15AM - 12:30PM</p>
+                    <p>HIST-D 201 Democratic Revolutions<br>
+                    Hsia, Ke-Chin - Associate Professor<br>
+                    MW 2:30PM - 3:45PM</p>
+                    <p>HIST-J 300 US Cold War and Latin American Revolutions<br>
+                    Gould, Jeffery - Professor<br>
+                    Tu 7:00PM - 9:30PM</p>
+                    <p>HIST-J 300 Nationalism and History<br>
+                    Hsia, Ke-Chin - Associate Professor<br>
+                    Th 1:00PM - 3:30PM</p>
+                    <p>HIST-D 310 Russian Revolution and Soviet Regime<br>
+                    Kuromiya, Hiroaki - Professor<br>
+                    We 6:30PM - 9:00PM</p>
+                    <p>HIST-A 379 The Bomb in American Life<br>
+                    Linenthal, Edward - Professor<br>
+                    TuTh 4:00PM - 5:15PM</p>
+                    <p>HIST-J 400 War and the Americas<br>
+                    Guardino, Peter - Professor<br>
+                    Mo 3:35PM - 5:30PM</p>
+                <h3>Central Eurasian Studies</h3>
+                    <p>CEUS-R 251 Post-Taliban War on Terror<br>
+                    Shahrani, Nazif - Professor<br>
+                    TuTh 1:00PM - 2:15PM</p>
+                    <p>CEUS-R 299 Repression, Persecution, and Genocide: Totalitarian Regimes in Eastern Europe<br>
+                    Borhi, Laszlo - Associate Professor<br>
+                    TuTh 4:00PM - 5:15PM</p>
+                    <p>CEUS-R 349 American-Russian Rivalry in Central Europe<br>
+                    Borhi, Laszlo - Associate Professor<br>
+                    TuTh 1:00PM - 2:15PM</p>
+                <h3>Criminal Justice</h3>
+                    <p>CJUS-P 440 Privacy, Law, and Security<br>
+                    Levesque, Roger - Professor<br>
+                    Th 11:15AM - 1:45PM</p>
+                <h3>East Asian Languages and Culture</h3>
+                    <p>EALC-E 392 Chinese Foreign Policy<br>
+                    Liff, Adam - Associate Professor<br>
+                    MW 2:30PM - 3:45PM</p>
+                <h3>European Studies</h3>
+                    <p>EURO-W 405 European Security Issues<br>
+                    Coyle, Gene - Adjunct Lecturer<br>
+                    TuTh 11:15AM - 12:30PM</p>
+                <h3>Information and Library Sciences</h3>
+                    <p>ILS-Z 399 Intelligence Analytics<br>
+                    Chosky, Carol - Visiting Lecturer<br>
+                    MW 1PM - 2:15PM</p>
+                    <p>ILS-Z 399 Spy Tech for Non-Technical Spies<br>
+                    Chosky, Carol - Visiting Lecturer<br>
+                    MW 2:30PM - 3:45PM</p>
+                    <p>ILS-Z 399 Moles, Deception, and Counterintelligence<br>
+                    Chosky, Carol - Visiting Lecturer<br>
+                    TuTh 9:30AM-10:45AM</p>
+                <h3>India Studies</h3>
+                    <p>INST-I 362 International Relations of South Asia<br>
+                    Ganguly, Sumit - Professor<br>
+                    MW 9:30AM - 12:00PM</p>
+                <h3>International Studies</h3>
+                    <p>INTL-I 210 Diplomacy, Security, and Governance<br>
+                    Macekura, Stephen - Associate Professor<br>
+                    TuTh 11:15AM - 12:30PM</p>
+                <h3>Political Science</h3>
+                    <p>POLS-Y 669 State Repression and Human Rights<br>
+                    Loyle, Cyanne - Professor<br>
+                    We 1:45PM - 3:45PM</p>
+
+				<h2><a href="Spring2015.shtml">Spring 2015</a></h2>
+                <h2><a href="Fall2014.shtml">Fall 2014</a></h2>  
+                <h2><a href="Spring2014.shtml">Spring 2014</a></h2>                 
+                <h2><a href="Fall2013.shtml">Fall 2013</a><br></h2>
+           	  </div>
+            	<!-- END pageContent --> 
+            </div><!-- END Content -->
+            <div style="clear:both"></div>
+        </div> <!-- END CenterWrap -->  
+
+<!--#include virtual="../_footer.shtml" -->
+</div><!-- END wrapper -->  
+       
+</body>
+</html>
